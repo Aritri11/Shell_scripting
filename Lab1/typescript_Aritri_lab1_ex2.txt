@@ -1,0 +1,368 @@
+Script started on 2024-07-25 17:15:04+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ type man
+[?2004lman is /usr/bin/man
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ type ls
+[?2004lls is aliased to `ls --color=auto'
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo $SHELL
+[?2004l/bin/bash
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ man ls
+[?2004l[?1049h[22;0;0t[?1h=[4mLS[24m(1)                                                                              User Commands                                                                              [4mLS[24m(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls [22m[[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of [1m-cftuvSUX [22mnor [1m--sort [22mis specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[22m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[22m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[22m, print the author of each file[m
+[m
+       [1m-b[22m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[22m=[4mSIZE[0m[m
+              with [1m-l[22m, scale sizes by SIZE when printing them; e.g., '--block-size=M'; see SIZE format below[m
+[m
+       [1m-B[22m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+       [1m-c     [22mwith [1m-lt[22m: sort by, and show, ctime (time of last change of file status information); with [1m-l[22m: show ctime and sort by name; otherwise: sort by ctime, newest first[m
+[m
+       [1m-C     [22mlist entries by columns[m
+[m
+       [1m--color[22m[=[4mWHEN[24m][m
+              color the output WHEN; more info below[m
+[m
+       [1m-d[22m, [1m--directory[0m[m
+              list directories themselves, not their contents[m
+[m
+       [1m-D[22m, [1m--dired[0m[m
+              generate output designed for Emacs' dired mode[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KCC[H[2J[H[H[2J[H[4m[24mands                                                                              [4mLS[24m(1)[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+phabetically if none of [1m-cftuvSUX [22mnor [1m--sort [22mis specified.[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[1m[22mIZE format below[m
+[m
+[m
+[m
+[m
+[1m[22m[1m[22mtion); with [1m-l[22m: show ctime and sort by name; otherwise: sort by ctime, newest first[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KDD[H[2J[H[H[2J[H[4mLS[24m(1)                                                                              User Commands                                                                              [4mLS[24m(1)[m
+[m
+[1mNAME[0m[m
+       ls - list directory contents[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mls [22m[[4mOPTION[24m]... [[4mFILE[24m]...[m
+[m
+[1mDESCRIPTION[0m[m
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of [1m-cftuvSUX [22mnor [1m--sort [22mis specified.[m
+[m
+       Mandatory arguments to long options are mandatory for short options too.[m
+[m
+       [1m-a[22m, [1m--all[0m[m
+              do not ignore entries starting with .[m
+[m
+       [1m-A[22m, [1m--almost-all[0m[m
+              do not list implied . and ..[m
+[m
+       [1m--author[0m[m
+              with [1m-l[22m, print the author of each file[m
+[m
+       [1m-b[22m, [1m--escape[0m[m
+              print C-style escapes for nongraphic characters[m
+[m
+       [1m--block-size[22m=[4mSIZE[0m[m
+              with [1m-l[22m, scale sizes by SIZE when printing them; e.g., '--block-size=M'; see SIZE format below[m
+[m
+       [1m-B[22m, [1m--ignore-backups[0m[m
+              do not list implied entries ending with ~[m
+[m
+       [1m-c     [22mwith [1m-lt[22m: sort by, and show, ctime (time of last change of file status information); with [1m-l[22m: show ctime and sort by name; otherwise: sort by ctime, newest first[m
+[m
+       [1m-C     [22mlist entries by columns[m
+[m
+       [1m--color[22m[=[4mWHEN[24m][m
+              color the output WHEN; more info below[m
+[m
+       [1m-d[22m, [1m--directory[0m[m
+              list directories themselves, not their contents[m
+[m
+       [1m-D[22m, [1m--dired[0m[m
+              generate output designed for Emacs' dired mode[m
+[m
+[7m Manual page ls(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ apropos view
+[?2004laio (7)              - POSIX asynchronous I/O overview
+bzless (1)           - file perusal filter for crt viewing of bzip2 compressed text
+bzmore (1)           - file perusal filter for crt viewing of bzip2 compressed text
+capabilities (7)     - overview of Linux capabilities
+cgroup_namespaces (7) - overview of Linux cgroup namespaces
+colcrt (1)           - filter nroff output for CRT previewing
+cvs-debc (1)         - view contents of a cvs-buildpackage/cvs-debuild generated package
+debc (1)             - view contents of a generated Debian package
+eog (1)              - a GNOME image viewer
+esc-m (1)            - ease viewing output of driver data
+evince (1)           - GNOME document viewer
+evince-previewer (1) - show a printing preview of PostScript and PDF documents
+file-hierarchy (7)   - File system hierarchy overview
+ghostscript (1)      - Ghostscript (PostScript and PDF language interpreter and previewer)
+gitworkflows (7)     - An overview of recommended workflows with Git
+Glib::devel (3pm)    - Binding developer's overview of Glib's internals
+glibc (7)            - overview of standard C libraries on Linux
+gnome-logs (1)       - log viewer for the systemd journal
+gnome-system-monitor (1) - view and control processes
+gs (1)               - Ghostscript (PostScript and PDF language interpreter and previewer)
+HTML::Tree::AboutObjects (3pm) - - article: "User's View of Object-Oriented Modules"
+intro (7)            - introduction to overview and miscellany section
+ipc_namespaces (7)   - overview of Linux IPC namespaces
+libc (7)             - overview of standard C libraries on Linux
+lzless (1)           - view xz or lzma compressed (text) files
+lzmore (1)           - view xz or lzma compressed (text) files
+mii-tool (8)         - view, manipulate media-independent interface status
+mount_namespaces (7) - overview of Linux mount namespaces
+mq_overview (7)      - overview of POSIX message queues
+namespaces (7)       - overview of Linux namespaces
+network_namespaces (7) - overview of Linux network namespaces
+numa (7)             - overview of Non-Uniform Memory Architecture
+openssl-threads (7ssl) - Overview of thread safety in OpenSSL
+patchview (1)        - Without options, show numbered files modified by the patch. With options, behave as filterdiff.
+perli11ndoc (1p)     - view documentation of installed libraries bound using Glib::Object::Introspection
+pid_namespaces (7)   - overview of Linux PID namespaces
+pipe (7)             - overview of pipes and FIFOs
+pkeys (7)            - overview of Memory Protection Keys
+pw-top (1)           - The PipeWire process viewer
+random (7)           - overview of interfaces for obtaining randomness
+rview (1)            - Vi IMproved, a programmer's text editor
+sched (7)            - overview of CPU scheduling
+sem_overview (7)     - overview of POSIX semaphores
+shm_overview (7)     - overview of POSIX shared memory
+siginfo_t (3type)    - overview of system data types
+signal (7)           - overview of signals
+sigset_t (3type)     - overview of system data types
+system_data_types (7) - overview of system data types
+time (7)             - overview of time and timers
+time_namespaces (7)  - overview of Linux time namespaces
+tzselect (1)         - view timezones
+user_namespaces (7)  - overview of Linux user namespaces
+uts_namespaces (7)   - overview of Linux UTS namespaces
+vdpa-mgmtdev (8)     - vdpa management device view
+vdso (7)             - overview of the virtual ELF dynamic shared object
+view (1)             - Vi IMproved, a programmer's text editor
+viewres (1)          - graphical class browser for Xt
+XDGAGetViewportStatus (3) - Client library for the XFree86-DGA extension.
+XDGASetViewport (3)  - Client library for the XFree86-DGA extension.
+xditview (1)         - display ditroff output
+XF86VidModeGetViewPort (3) - Extension library for the XFree86-VidMode X extension
+XF86VidModeSetViewPort (3) - Extension library for the XFree86-VidMode X extension
+xzless (1)           - view xz or lzma compressed (text) files
+xzmore (1)           - view xz or lzma compressed (text) files
+zless (1)            - file perusal filter for crt viewing of compressed text
+zmore (1)            - file perusal filter for crt viewing of compressed text
+zstdless (1)         - view zstandard-compressed files
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls --help
+[?2004lUsage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      with -l, scale sizes by SIZE when printing them;
+                             e.g., '--block-size=M'; see SIZE format below
+
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                             change of file status information);
+                             with -l: show ctime and sort by name;
+                             otherwise: sort by ctime, newest first
+
+  -C                         list entries by columns
+      --color[=WHEN]         color the output WHEN; more info below
+  -d, --directory            list directories themselves, not their contents
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         list all entries in directory order
+  -F, --classify[=WHEN]      append indicator (one of */=>@|) to entries WHEN
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                             single-column -1, verbose -l, vertical -C
+
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files;
+                             can be augmented with a --sort option, but any
+                             use of --sort=none (-U) disables grouping
+
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l and -s, print sizes like 1K 234M 2G etc.
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                             that points to a directory
+
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                             (overridden by -a or -A)
+
+      --hyperlink[=WHEN]     hyperlink file names WHEN
+      --indicator-style=WORD
+                             append indicator with style WORD to entry names:
+                             none (default), slash (-p),
+                             file-type (--file-type), classify (-F)
+
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            default to 1024-byte blocks for file system usage;
+                             used only with -s and per directory totals
+
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                             link, show information for the file the link
+                             references rather than for the link itself
+
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print entry names without quoting
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of nongraphic characters
+      --show-control-chars   show nongraphic characters as-is (the default,
+                             unless program is 'ls' and output is a terminal)
+
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                             literal, locale, shell, shell-always,
+                             shell-escape, shell-escape-always, c, escape
+                             (overrides QUOTING_STYLE environment variable)
+
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size, largest first
+      --sort=WORD            sort by WORD instead of name: none (-U), size (-S),
+                             time (-t), version (-v), extension (-X), width
+
+      --time=WORD            select which timestamp used to display or sort;
+                               access time (-u): atime, access, use;
+                               metadata change time (-c): ctime, status;
+                               modified time (default): mtime, modification;
+                               birth time: birth, creation;
+                             with -l, WORD determines which time to show;
+                             with --sort=time, sort by WORD (newest first)
+
+      --time-style=TIME_STYLE
+                             time/date format with -l; see TIME_STYLE below
+  -t                         sort by time, newest first; see --time
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time;
+                             with -l: show access time and sort by name;
+                             otherwise: sort by access time, newest first
+
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           set output width to COLS.  0 means no limit
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -Z, --context              print any security context of each file
+      --zero                 end each output line with NUL, not newline
+  -1                         list one file per line
+      --help        display this help and exit
+      --version     output version information and exit
+
+The SIZE argument is an integer and optional unit (example: 10K is 10*1024).
+Units are K,M,G,T,P,E,Z,Y,R,Q (powers of 1024) or KB,MB,... (powers of 1000).
+Binary prefixes can be used, too: KiB=K, MiB=M, and so on.
+
+The TIME_STYLE argument can be full-iso, long-iso, iso, locale, or +FORMAT.
+FORMAT is interpreted like in date(1).  If FORMAT is FORMAT1<newline>FORMAT2,
+then FORMAT1 applies to non-recent files and FORMAT2 to recent files.
+TIME_STYLE prefixed with 'posix-' takes effect only outside the POSIX locale.
+Also the TIME_STYLE environment variable sets the default style to use.
+
+The WHEN argument defaults to 'always' and can also be 'auto' or 'never'.
+
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors(1) command to set it.
+
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Full documentation <https://www.gnu.org/software/coreutils/ls>
+or available locally via: info '(coreutils) ls invocation'
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ touch
+[?2004ltouch: missing file operand
+Try 'touch --help' for more information.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ tp[Kouch ab.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls
+[?2004laa1.txt  aa.txt  ab.txt  bb.txt  [0m[01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mLab1[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34msnap[0m  [01;34mTemplates[0m  typescript  typescript_Aritri_lab1_ex1.txt  [01;34mVideos[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head 2typescript.txt
+[?2004lhead: cannot open '2typescript.txt' for reading: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head 2typescript_Aritri_lab1_ex1.txt
+[?2004lhead: cannot open '2typescript_Aritri_lab1_ex1.txt' for reading: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head 2typescript_Aritri_lab1_ex1.txt-2typescript_Aritri_lab1_ex1.txt[C typescript_Aritri_lab1_ex1.txt
+[?2004lScript started on 2024-07-25 17:03:13+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ date[K[K[K[Kls -l
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ tail -3 typescript_Aritri_lab1_ex1.txt
+[?2004l[?2004lexit
+
+Script done on 2024-07-25 17:09:58+05:30 [COMMAND_EXIT_CODE="10"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-07-25 17:24:59+05:30 [COMMAND_EXIT_CODE="0"]
