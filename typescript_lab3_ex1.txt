@@ -1,0 +1,1645 @@
+Script started on 2024-08-01 13:55:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ du
+[?2004l16	./.config/ibus/bus
+20	./.config/ibus
+4	./.config/gtk-4.0
+8	./.config/google-chrome/FirstPartySetsPreloaded/2024.7.24.0/_metadata
+36	./.config/google-chrome/FirstPartySetsPreloaded/2024.7.24.0
+40	./.config/google-chrome/FirstPartySetsPreloaded
+8	./.config/google-chrome/OriginTrials/1.0.0.17/_metadata
+20	./.config/google-chrome/OriginTrials/1.0.0.17
+24	./.config/google-chrome/OriginTrials
+8	./.config/google-chrome/OptimizationHints/458/_metadata
+68	./.config/google-chrome/OptimizationHints/458
+72	./.config/google-chrome/OptimizationHints
+384	./.config/google-chrome/segmentation_platform
+8	./.config/google-chrome/Crowd Deny/2024.4.15.1148/_metadata
+36	./.config/google-chrome/Crowd Deny/2024.4.15.1148
+40	./.config/google-chrome/Crowd Deny
+8	./.config/google-chrome/WidevineCdm
+128	./.config/google-chrome/Subresource Filter/Indexed Rules/36/9.49.1
+132	./.config/google-chrome/Subresource Filter/Indexed Rules/36
+136	./.config/google-chrome/Subresource Filter/Indexed Rules
+8	./.config/google-chrome/Subresource Filter/Unindexed Rules/9.49.1/_metadata
+120	./.config/google-chrome/Subresource Filter/Unindexed Rules/9.49.1
+124	./.config/google-chrome/Subresource Filter/Unindexed Rules
+264	./.config/google-chrome/Subresource Filter
+8	./.config/google-chrome/PKIMetadata/1029/_metadata
+224	./.config/google-chrome/PKIMetadata/1029
+228	./.config/google-chrome/PKIMetadata
+4	./.config/google-chrome/MEIPreload
+4	./.config/google-chrome/DeferredBrowserMetrics
+300	./.config/google-chrome/GraphiteDawnCache
+4	./.config/google-chrome/Default/coupon_db
+308	./.config/google-chrome/Default/GPUCache
+260	./.config/google-chrome/Default/Session Storage
+8	./.config/google-chrome/Default/Shared Dictionary/cache/index-dir
+16	./.config/google-chrome/Default/Shared Dictionary/cache
+64	./.config/google-chrome/Default/Shared Dictionary
+4	./.config/google-chrome/Default/parcel_tracking_db
+24	./.config/google-chrome/Default/Extension State
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/5d0e22ff-c563-4db4-bc48-3fbaa6115a12/index-dir
+2488	./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/5d0e22ff-c563-4db4-bc48-3fbaa6115a12
+2496	./.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0
+16	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/5c1131ba-c5fc-444b-bda0-2aebd54a5958/index-dir
+2264	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/5c1131ba-c5fc-444b-bda0-2aebd54a5958
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/5495160e-3302-404e-bf94-11a02ea75afb/index-dir
+15432	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/5495160e-3302-404e-bf94-11a02ea75afb
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/2d1cf164-3d63-43c3-9074-463609a533d5/index-dir
+148	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/2d1cf164-3d63-43c3-9074-463609a533d5
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/4af7f9c8-0490-452f-8dfb-462b00c2c16f/index-dir
+8380	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/4af7f9c8-0490-452f-8dfb-462b00c2c16f
+26232	./.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/eaf116c3-1b2a-4628-ab59-29ee61ebe067/index-dir
+16	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/eaf116c3-1b2a-4628-ab59-29ee61ebe067
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/388704ef-0f62-4f91-abba-e72b7012c558/index-dir
+32	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/388704ef-0f62-4f91-abba-e72b7012c558
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2887bc64-8fac-4db1-8425-a92740505a1c/index-dir
+3764	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/2887bc64-8fac-4db1-8425-a92740505a1c
+3820	./.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/705678f9732c617d0c49bf2b462703b1563bdf84/a28b1fd9-5fbe-465f-8fbb-bc3031005cdb/index-dir
+16	./.config/google-chrome/Default/Service Worker/CacheStorage/705678f9732c617d0c49bf2b462703b1563bdf84/a28b1fd9-5fbe-465f-8fbb-bc3031005cdb
+8	./.config/google-chrome/Default/Service Worker/CacheStorage/705678f9732c617d0c49bf2b462703b1563bdf84/f696bdc4-ebec-4a7f-9618-828306d4dcac/index-dir
+20	./.config/google-chrome/Default/Service Worker/CacheStorage/705678f9732c617d0c49bf2b462703b1563bdf84/f696bdc4-ebec-4a7f-9618-828306d4dcac
+44	./.config/google-chrome/Default/Service Worker/CacheStorage/705678f9732c617d0c49bf2b462703b1563bdf84
+32596	./.config/google-chrome/Default/Service Worker/CacheStorage
+8	./.config/google-chrome/Default/Service Worker/ScriptCache/index-dir
+14472	./.config/google-chrome/Default/Service Worker/ScriptCache
+76	./.config/google-chrome/Default/Service Worker/Database
+47148	./.config/google-chrome/Default/Service Worker
+4	./.config/google-chrome/Default/commerce_subscription_db
+28	./.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb
+4	./.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.blob
+20	./.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb
+2300	./.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb
+2284	./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/2/00
+2288	./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/2
+380	./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/1/00
+384	./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob/1
+2676	./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.blob
+28	./.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb
+3096	./.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb
+4628	./.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb
+28	./.config/google-chrome/Default/IndexedDB/https_microbenotes.com_0.indexeddb.leveldb
+12812	./.config/google-chrome/Default/IndexedDB
+4	./.config/google-chrome/Default/Download Service/Files
+4	./.config/google-chrome/Default/Download Service/EntryDB
+12	./.config/google-chrome/Default/Download Service
+96	./.config/google-chrome/Default/Accounts/Avatar Images
+100	./.config/google-chrome/Default/Accounts
+4	./.config/google-chrome/Default/optimization_guide_hint_cache_store
+4	./.config/google-chrome/Default/VideoDecodeStats
+20	./.config/google-chrome/Default/Extension Scripts
+72	./.config/google-chrome/Default/Sync Data/LevelDB
+80	./.config/google-chrome/Default/Sync Data
+4	./.config/google-chrome/Default/PersistentOriginTrials
+4	./.config/google-chrome/Default/BudgetDatabase
+4	./.config/google-chrome/Default/discounts_db
+300	./.config/google-chrome/Default/DawnGraphiteCache
+4	./.config/google-chrome/Default/Feature Engagement Tracker/EventDB
+4	./.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB
+12	./.config/google-chrome/Default/Feature Engagement Tracker
+32	./.config/google-chrome/Default/Site Characteristics Database
+4	./.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB
+4	./.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB
+4	./.config/google-chrome/Default/Segmentation Platform/SignalDB
+16	./.config/google-chrome/Default/Segmentation Platform
+4	./.config/google-chrome/Default/chrome_cart_db
+4	./.config/google-chrome/Default/blob_storage/81cb46eb-f69d-4903-b8f3-2a0360ff1b06
+8	./.config/google-chrome/Default/blob_storage
+8	./.config/google-chrome/Default/WebStorage/11/CacheStorage/45f5e06d-8647-4ce5-8eb4-82b193e25949/index-dir
+24	./.config/google-chrome/Default/WebStorage/11/CacheStorage/45f5e06d-8647-4ce5-8eb4-82b193e25949
+32	./.config/google-chrome/Default/WebStorage/11/CacheStorage
+36	./.config/google-chrome/Default/WebStorage/11
+20	./.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb
+24	./.config/google-chrome/Default/WebStorage/17/IndexedDB
+28	./.config/google-chrome/Default/WebStorage/17
+20	./.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb
+24	./.config/google-chrome/Default/WebStorage/10/IndexedDB
+28	./.config/google-chrome/Default/WebStorage/10
+8	./.config/google-chrome/Default/WebStorage/2/CacheStorage
+24	./.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb
+28	./.config/google-chrome/Default/WebStorage/2/IndexedDB
+40	./.config/google-chrome/Default/WebStorage/2
+28	./.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb
+32	./.config/google-chrome/Default/WebStorage/5/IndexedDB
+36	./.config/google-chrome/Default/WebStorage/5
+20	./.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb
+24	./.config/google-chrome/Default/WebStorage/9/IndexedDB
+28	./.config/google-chrome/Default/WebStorage/9
+24	./.config/google-chrome/Default/WebStorage/3/IndexedDB/indexeddb.leveldb
+28	./.config/google-chrome/Default/WebStorage/3/IndexedDB
+32	./.config/google-chrome/Default/WebStorage/3
+20	./.config/google-chrome/Default/WebStorage/13/IndexedDB/indexeddb.leveldb
+24	./.config/google-chrome/Default/WebStorage/13/IndexedDB
+28	./.config/google-chrome/Default/WebStorage/13
+8	./.config/google-chrome/Default/WebStorage/20/CacheStorage
+104	./.config/google-chrome/Default/WebStorage/20/IndexedDB/indexeddb.leveldb
+108	./.config/google-chrome/Default/WebStorage/20/IndexedDB
+120	./.config/google-chrome/Default/WebStorage/20
+20	./.config/google-chrome/Default/WebStorage/16/IndexedDB/indexeddb.leveldb
+24	./.config/google-chrome/Default/WebStorage/16/IndexedDB
+28	./.config/google-chrome/Default/WebStorage/16
+448	./.config/google-chrome/Default/WebStorage
+24	./.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+28	./.config/google-chrome/Default/Local Extension Settings
+300	./.config/google-chrome/Default/DawnWebGPUCache
+24	./.config/google-chrome/Default/GCM Store/Encryption
+48	./.config/google-chrome/Default/GCM Store
+4	./.config/google-chrome/Default/AutofillStrikeDatabase
+1388	./.config/google-chrome/Default/Local Storage/leveldb
+1392	./.config/google-chrome/Default/Local Storage
+4	./.config/google-chrome/Default/Web Applications/Temp
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Maskable
+52	./.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Monochrome
+64	./.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Maskable
+60	./.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Monochrome
+72	./.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Maskable
+32	./.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Monochrome
+44	./.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Maskable
+72	./.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Monochrome
+84	./.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Maskable
+36	./.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Monochrome
+48	./.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Maskable
+36	./.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons
+4	./.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Monochrome
+48	./.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb
+364	./.config/google-chrome/Default/Web Applications/Manifest Resources
+372	./.config/google-chrome/Default/Web Applications
+16	./.config/google-chrome/Default/File System/001/t/Paths
+24	./.config/google-chrome/Default/File System/001/t
+28	./.config/google-chrome/Default/File System/001
+24	./.config/google-chrome/Default/File System/Origins
+16	./.config/google-chrome/Default/File System/000/t/Paths
+24	./.config/google-chrome/Default/File System/000/t
+28	./.config/google-chrome/Default/File System/000
+84	./.config/google-chrome/Default/File System
+4	./.config/google-chrome/Default/Search Logos
+2492	./.config/google-chrome/Default/Sessions
+24	./.config/google-chrome/Default/shared_proto_db/metadata
+420	./.config/google-chrome/Default/shared_proto_db
+4	./.config/google-chrome/Default/ClientCertificates
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/el
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/hy
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/am
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/sv
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/da
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/uk
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/de
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ml
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/pa
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/sl
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ms
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/lo
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/kn
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/cy
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/lv
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/nl
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/kk
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/en_US
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/mn
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ca
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ka
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/af
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/th
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/pl
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/km
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/hr
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/lt
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ro
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/fil
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/fr
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ru
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/eu
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/fr_CA
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/be
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/pt_PT
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/zu
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/te
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/en_CA
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/iw
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/zh_CN
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ja
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/en_GB
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/mr
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/zh_TW
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/az
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/zh_HK
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/bg
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/et
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/is
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ta
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/fi
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/my
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/sr
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/vi
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ko
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ne
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/it
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/fa
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/si
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ur
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/cs
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/id
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/sw
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/gl
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/bn
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/sk
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/hu
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/ar
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/no
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/es
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/tr
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/es_419
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/gu
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/hi
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/pt_BR
+8	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales/en
+612	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_locales
+24	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0/_metadata
+780	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.79.1_0
+784	./.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+788	./.config/google-chrome/Default/Extensions
+20	./.config/google-chrome/Default/Extension Rules
+72928	./.config/google-chrome/Default
+392	./.config/google-chrome/optimization_guide_model_store/2/E6DC4029A1E4B4C1/726032E1BB7CAF8B
+396	./.config/google-chrome/optimization_guide_model_store/2/E6DC4029A1E4B4C1
+400	./.config/google-chrome/optimization_guide_model_store/2
+16	./.config/google-chrome/optimization_guide_model_store/26/E6DC4029A1E4B4C1/425ED23DF12F5D30
+20	./.config/google-chrome/optimization_guide_model_store/26/E6DC4029A1E4B4C1
+24	./.config/google-chrome/optimization_guide_model_store/26
+16	./.config/google-chrome/optimization_guide_model_store/31/E6DC4029A1E4B4C1/DA3A34D552C4F1A4
+20	./.config/google-chrome/optimization_guide_model_store/31/E6DC4029A1E4B4C1
+24	./.config/google-chrome/optimization_guide_model_store/31
+24	./.config/google-chrome/optimization_guide_model_store/9/E6DC4029A1E4B4C1/92CAF9A058C7A125
+28	./.config/google-chrome/optimization_guide_model_store/9/E6DC4029A1E4B4C1
+32	./.config/google-chrome/optimization_guide_model_store/9
+3148	./.config/google-chrome/optimization_guide_model_store/15/E6DC4029A1E4B4C1/A0B821FEBB3B8063
+3152	./.config/google-chrome/optimization_guide_model_store/15/E6DC4029A1E4B4C1
+3156	./.config/google-chrome/optimization_guide_model_store/15
+1200	./.config/google-chrome/optimization_guide_model_store/13/E6DC4029A1E4B4C1/45CA6AFF65D080AC
+1204	./.config/google-chrome/optimization_guide_model_store/13/E6DC4029A1E4B4C1
+1208	./.config/google-chrome/optimization_guide_model_store/13
+72	./.config/google-chrome/optimization_guide_model_store/20/E6DC4029A1E4B4C1/8B40A513FA2A3E05
+76	./.config/google-chrome/optimization_guide_model_store/20/E6DC4029A1E4B4C1
+80	./.config/google-chrome/optimization_guide_model_store/20
+77592	./.config/google-chrome/optimization_guide_model_store/40/E6DC4029A1E4B4C1/87095FE0503B6A07
+77596	./.config/google-chrome/optimization_guide_model_store/40/E6DC4029A1E4B4C1
+77600	./.config/google-chrome/optimization_guide_model_store/40
+1692	./.config/google-chrome/optimization_guide_model_store/34/E6DC4029A1E4B4C1/350D3387EBF68A85
+1696	./.config/google-chrome/optimization_guide_model_store/34/E6DC4029A1E4B4C1
+1700	./.config/google-chrome/optimization_guide_model_store/34
+3560	./.config/google-chrome/optimization_guide_model_store/25/E6DC4029A1E4B4C1/BB819EA12056DD21
+3564	./.config/google-chrome/optimization_guide_model_store/25/E6DC4029A1E4B4C1
+3568	./.config/google-chrome/optimization_guide_model_store/25
+20	./.config/google-chrome/optimization_guide_model_store/32/E6DC4029A1E4B4C1/DDDAEF9BDBD8EC4D
+24	./.config/google-chrome/optimization_guide_model_store/32/E6DC4029A1E4B4C1
+28	./.config/google-chrome/optimization_guide_model_store/32
+87824	./.config/google-chrome/optimization_guide_model_store
+4	./.config/google-chrome/NativeMessagingHosts
+28	./.config/google-chrome/AutofillStates/2024.7.12.235938/_metadata
+972	./.config/google-chrome/AutofillStates/2024.7.12.235938
+976	./.config/google-chrome/AutofillStates
+4100	./.config/google-chrome/BrowserMetrics
+448	./.config/google-chrome/Dictionaries
+8	./.config/google-chrome/SafetyTips/3037/_metadata
+176	./.config/google-chrome/SafetyTips/3037
+180	./.config/google-chrome/SafetyTips
+8	./.config/google-chrome/FileTypePolicies/66/_metadata
+28	./.config/google-chrome/FileTypePolicies/66
+32	./.config/google-chrome/FileTypePolicies
+12	./.config/google-chrome/hyphen-data/120.0.6050.0/_metadata
+1852	./.config/google-chrome/hyphen-data/120.0.6050.0
+1856	./.config/google-chrome/hyphen-data
+8	./.config/google-chrome/TrustTokenKeyCommitments/2024.7.31.2/_metadata
+32	./.config/google-chrome/TrustTokenKeyCommitments/2024.7.31.2
+36	./.config/google-chrome/TrustTokenKeyCommitments
+300	./.config/google-chrome/ShaderCache
+8	./.config/google-chrome/TpcdMetadata/2024.7.30.1/_metadata
+52	./.config/google-chrome/TpcdMetadata/2024.7.30.1
+56	./.config/google-chrome/TpcdMetadata
+8	./.config/google-chrome/ZxcvbnData/3/_metadata
+1676	./.config/google-chrome/ZxcvbnData/3
+1680	./.config/google-chrome/ZxcvbnData
+8	./.config/google-chrome/SSLErrorAssistant/7/_metadata
+24	./.config/google-chrome/SSLErrorAssistant/7
+28	./.config/google-chrome/SSLErrorAssistant
+8	./.config/google-chrome/PrivacySandboxAttestationsPreloaded/2024.7.25.0/_metadata
+28	./.config/google-chrome/PrivacySandboxAttestationsPreloaded/2024.7.25.0
+32	./.config/google-chrome/PrivacySandboxAttestationsPreloaded
+4	./.config/google-chrome/Crash Reports/new
+4	./.config/google-chrome/Crash Reports/completed
+4	./.config/google-chrome/Crash Reports/attachments
+4	./.config/google-chrome/Crash Reports/pending
+24	./.config/google-chrome/Crash Reports
+8	./.config/google-chrome/CertificateRevocation/8988/_metadata
+560	./.config/google-chrome/CertificateRevocation/8988
+8	./.config/google-chrome/CertificateRevocation/8989/_metadata
+560	./.config/google-chrome/CertificateRevocation/8989
+1124	./.config/google-chrome/CertificateRevocation
+26332	./.config/google-chrome/Safe Browsing
+8196	./.config/google-chrome/component_crx_cache
+9668	./.config/google-chrome/GrShaderCache
+8	./.config/google-chrome/OnDeviceHeadSuggestModel/20240709.652133070.14/_metadata
+7720	./.config/google-chrome/OnDeviceHeadSuggestModel/20240709.652133070.14
+7724	./.config/google-chrome/OnDeviceHeadSuggestModel
+230244	./.config/google-chrome
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/popupmenu
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/toolbar
+28	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter
+32	./.config/libreoffice/4/user/config/soffice.cfg/modules
+36	./.config/libreoffice/4/user/config/soffice.cfg
+80	./.config/libreoffice/4/user/config
+16	./.config/libreoffice/4/user/basic/Standard
+28	./.config/libreoffice/4/user/basic
+128	./.config/libreoffice/4/user/database/biblio
+136	./.config/libreoffice/4/user/database
+12	./.config/libreoffice/4/user/gallery
+4	./.config/libreoffice/4/user/psprint
+4	./.config/libreoffice/4/user/autocorr
+12	./.config/libreoffice/4/user/pack/config
+16	./.config/libreoffice/4/user/pack/basic/Standard
+28	./.config/libreoffice/4/user/pack/basic
+8	./.config/libreoffice/4/user/pack/database/biblio
+16	./.config/libreoffice/4/user/pack/database
+8	./.config/libreoffice/4/user/pack/autotext
+76	./.config/libreoffice/4/user/pack
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/extensions/tmp/registry
+4	./.config/libreoffice/4/user/extensions/tmp/extensions
+48	./.config/libreoffice/4/user/extensions/tmp
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/lu1612335ou0u.tmp
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/lu1612335ou0s.tmp
+12	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend/lu1612335ou0r.tmp
+40	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+84	./.config/libreoffice/4/user/extensions/bundled/registry
+96	./.config/libreoffice/4/user/extensions/bundled
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/extensions/shared/registry
+48	./.config/libreoffice/4/user/extensions/shared
+200	./.config/libreoffice/4/user/extensions
+8	./.config/libreoffice/4/user/autotext
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+8	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+8	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/uno_packages/cache/registry
+4	./.config/libreoffice/4/user/uno_packages/cache/uno_packages
+48	./.config/libreoffice/4/user/uno_packages/cache
+52	./.config/libreoffice/4/user/uno_packages
+640	./.config/libreoffice/4/user
+644	./.config/libreoffice/4
+648	./.config/libreoffice
+4	./.config/procps
+8	./.config/tiling-assistant
+4	./.config/goa-1.0
+8	./.config/pulse
+4	./.config/nautilus
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+8	./.config/evolution/sources
+12	./.config/evolution
+8	./.config/gtk-3.0
+12	./.config/dconf
+4	./.config/update-notifier
+231020	./.config
+8	./source
+4	./backup
+4	./software
+213056	./Downloads
+4	./Pictures
+12	./.gnupg
+72	./.pki/nssdb
+76	./.pki
+4	./Music
+4	./snap/firefox/common/.mozilla/firefox/Pending Pings
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/extension-store
+80	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/archived/2024-07
+84	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/archived
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/glean/tmp
+28	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/glean/events
+32	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/glean/pending_pings
+124	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/glean/db
+192	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting/glean
+288	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/datareporting
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/bookmarkbackups
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/extension-store-menus
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/minidumps
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/security_state
+96	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/saved-telemetry-pings
+8	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/settings
+20	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.google.co.in/ls
+28	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.google.co.in
+20	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.geeksforgeeks.org/ls
+28	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.geeksforgeeks.org
+16	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/ls
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/cache/morgue
+72	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/cache
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb/2171031483YattIedMb.files
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb/1616792988LCo7g%sCD7a%t5a9b9a4s.files
+108	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb
+204	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29
+44	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.google.com/ls
+52	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.google.com
+16	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.google.com^partitionKey=%28https%2Cgeeksforgeeks.org%29/ls
+24	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.google.com^partitionKey=%28https%2Cgeeksforgeeks.org%29
+16	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.mozilla.org/ls
+24	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.mozilla.org
+364	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/temporary
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.files
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.files
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/2823318777ntouromlalnodry--naod.files
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.files
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/2918063365piupsah.files
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3561288849sdhlie.files
+2992	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb
+3000	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome
+3004	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent
+3504	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/crashes/events
+12	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/crashes
+4	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/sessionstore-backups
+552	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default/extensions
+16472	./snap/firefox/common/.mozilla/firefox/jc6hdspi.default
+4	./snap/firefox/common/.mozilla/firefox/Crash Reports/events
+12	./snap/firefox/common/.mozilla/firefox/Crash Reports
+16496	./snap/firefox/common/.mozilla/firefox
+4	./snap/firefox/common/.mozilla/extensions
+16504	./snap/firefox/common/.mozilla
+76	./snap/firefox/common/.cache/immodules
+3176	./snap/firefox/common/.cache/fontconfig
+28	./snap/firefox/common/.cache/gio-modules
+12636	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/safebrowsing/google4
+14684	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/safebrowsing
+19692	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/startupCache
+12	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/settings/main/ms-language-packs/browser/newtab
+16	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/settings/main/ms-language-packs/browser
+20	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/settings/main/ms-language-packs
+24	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/settings/main
+28	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/settings
+4	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/thumbnails
+21824	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/cache2/entries
+4	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/cache2/doomed
+21868	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/cache2
+56312	./snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default
+56316	./snap/firefox/common/.cache/mozilla/firefox
+56320	./snap/firefox/common/.cache/mozilla
+8	./snap/firefox/common/.cache/mesa_shader_cache/11
+16	./snap/firefox/common/.cache/mesa_shader_cache/90
+8	./snap/firefox/common/.cache/mesa_shader_cache/17
+8	./snap/firefox/common/.cache/mesa_shader_cache/9e
+8	./snap/firefox/common/.cache/mesa_shader_cache/74
+8	./snap/firefox/common/.cache/mesa_shader_cache/da
+8	./snap/firefox/common/.cache/mesa_shader_cache/de
+8	./snap/firefox/common/.cache/mesa_shader_cache/26
+8	./snap/firefox/common/.cache/mesa_shader_cache/6e
+8	./snap/firefox/common/.cache/mesa_shader_cache/52
+12	./snap/firefox/common/.cache/mesa_shader_cache/06
+8	./snap/firefox/common/.cache/mesa_shader_cache/68
+8	./snap/firefox/common/.cache/mesa_shader_cache/0f
+12	./snap/firefox/common/.cache/mesa_shader_cache/31
+8	./snap/firefox/common/.cache/mesa_shader_cache/01
+8	./snap/firefox/common/.cache/mesa_shader_cache/81
+8	./snap/firefox/common/.cache/mesa_shader_cache/7f
+8	./snap/firefox/common/.cache/mesa_shader_cache/aa
+8	./snap/firefox/common/.cache/mesa_shader_cache/c4
+8	./snap/firefox/common/.cache/mesa_shader_cache/e4
+8	./snap/firefox/common/.cache/mesa_shader_cache/8b
+8	./snap/firefox/common/.cache/mesa_shader_cache/3a
+8	./snap/firefox/common/.cache/mesa_shader_cache/ac
+8	./snap/firefox/common/.cache/mesa_shader_cache/64
+8	./snap/firefox/common/.cache/mesa_shader_cache/f8
+12	./snap/firefox/common/.cache/mesa_shader_cache/43
+16	./snap/firefox/common/.cache/mesa_shader_cache/ca
+8	./snap/firefox/common/.cache/mesa_shader_cache/af
+8	./snap/firefox/common/.cache/mesa_shader_cache/9f
+12	./snap/firefox/common/.cache/mesa_shader_cache/7c
+8	./snap/firefox/common/.cache/mesa_shader_cache/89
+12	./snap/firefox/common/.cache/mesa_shader_cache/ae
+8	./snap/firefox/common/.cache/mesa_shader_cache/36
+8	./snap/firefox/common/.cache/mesa_shader_cache/ea
+12	./snap/firefox/common/.cache/mesa_shader_cache/61
+8	./snap/firefox/common/.cache/mesa_shader_cache/50
+8	./snap/firefox/common/.cache/mesa_shader_cache/09
+12	./snap/firefox/common/.cache/mesa_shader_cache/d1
+8	./snap/firefox/common/.cache/mesa_shader_cache/72
+8	./snap/firefox/common/.cache/mesa_shader_cache/87
+8	./snap/firefox/common/.cache/mesa_shader_cache/a9
+8	./snap/firefox/common/.cache/mesa_shader_cache/e2
+12	./snap/firefox/common/.cache/mesa_shader_cache/63
+8	./snap/firefox/common/.cache/mesa_shader_cache/0d
+8	./snap/firefox/common/.cache/mesa_shader_cache/3e
+8	./snap/firefox/common/.cache/mesa_shader_cache/0b
+8	./snap/firefox/common/.cache/mesa_shader_cache/00
+8	./snap/firefox/common/.cache/mesa_shader_cache/21
+8	./snap/firefox/common/.cache/mesa_shader_cache/34
+8	./snap/firefox/common/.cache/mesa_shader_cache/f7
+12	./snap/firefox/common/.cache/mesa_shader_cache/82
+8	./snap/firefox/common/.cache/mesa_shader_cache/ce
+8	./snap/firefox/common/.cache/mesa_shader_cache/79
+12	./snap/firefox/common/.cache/mesa_shader_cache/f4
+8	./snap/firefox/common/.cache/mesa_shader_cache/f5
+12	./snap/firefox/common/.cache/mesa_shader_cache/5f
+8	./snap/firefox/common/.cache/mesa_shader_cache/4e
+8	./snap/firefox/common/.cache/mesa_shader_cache/41
+8	./snap/firefox/common/.cache/mesa_shader_cache/27
+8	./snap/firefox/common/.cache/mesa_shader_cache/e1
+8	./snap/firefox/common/.cache/mesa_shader_cache/7b
+8	./snap/firefox/common/.cache/mesa_shader_cache/bc
+8	./snap/firefox/common/.cache/mesa_shader_cache/95
+8	./snap/firefox/common/.cache/mesa_shader_cache/51
+8	./snap/firefox/common/.cache/mesa_shader_cache/22
+12	./snap/firefox/common/.cache/mesa_shader_cache/80
+8	./snap/firefox/common/.cache/mesa_shader_cache/e0
+8	./snap/firefox/common/.cache/mesa_shader_cache/f2
+8	./snap/firefox/common/.cache/mesa_shader_cache/86
+1908	./snap/firefox/common/.cache/mesa_shader_cache
+61516	./snap/firefox/common/.cache
+78024	./snap/firefox/common
+4	./snap/firefox/4630/.config/gtk-2.0
+4	./snap/firefox/4630/.config/ibus
+8	./snap/firefox/4630/.config/fontconfig
+8	./snap/firefox/4630/.config/pulse
+4	./snap/firefox/4630/.config/gtk-3.0
+4	./snap/firefox/4630/.config/dconf
+52	./snap/firefox/4630/.config
+4	./snap/firefox/4630/.local/share/glib-2.0/schemas
+8	./snap/firefox/4630/.local/share/glib-2.0
+4	./snap/firefox/4630/.local/share/icons
+20	./snap/firefox/4630/.local/share
+24	./snap/firefox/4630/.local
+84	./snap/firefox/4630
+4	./snap/firefox/4650/.config/gtk-2.0
+4	./snap/firefox/4650/.config/ibus
+8	./snap/firefox/4650/.config/fontconfig
+8	./snap/firefox/4650/.config/pulse
+4	./snap/firefox/4650/.config/gtk-3.0
+4	./snap/firefox/4650/.config/dconf
+52	./snap/firefox/4650/.config
+4	./snap/firefox/4650/.local/share/glib-2.0/schemas
+8	./snap/firefox/4650/.local/share/glib-2.0
+4	./snap/firefox/4650/.local/share/icons
+20	./snap/firefox/4650/.local/share
+24	./snap/firefox/4650/.local
+84	./snap/firefox/4650
+78196	./snap/firefox
+4	./snap/snapd-desktop-integration/157/.config/gtk-2.0
+4	./snap/snapd-desktop-integration/157/.config/ibus
+8	./snap/snapd-desktop-integration/157/.config/fontconfig
+4	./snap/snapd-desktop-integration/157/.config/gtk-3.0
+4	./snap/snapd-desktop-integration/157/.config/dconf
+44	./snap/snapd-desktop-integration/157/.config
+4	./snap/snapd-desktop-integration/157/Downloads
+4	./snap/snapd-desktop-integration/157/Pictures
+4	./snap/snapd-desktop-integration/157/Music
+4	./snap/snapd-desktop-integration/157/.local/share/glib-2.0/schemas
+8	./snap/snapd-desktop-integration/157/.local/share/glib-2.0
+4	./snap/snapd-desktop-integration/157/.local/share/icons
+16	./snap/snapd-desktop-integration/157/.local/share
+20	./snap/snapd-desktop-integration/157/.local
+4	./snap/snapd-desktop-integration/157/Documents
+4	./snap/snapd-desktop-integration/157/Public
+4	./snap/snapd-desktop-integration/157/Videos
+4	./snap/snapd-desktop-integration/157/Templates
+4	./snap/snapd-desktop-integration/157/Desktop
+104	./snap/snapd-desktop-integration/157
+76	./snap/snapd-desktop-integration/common/.cache/immodules
+3172	./snap/snapd-desktop-integration/common/.cache/fontconfig
+12	./snap/snapd-desktop-integration/common/.cache/nvidia/GLCache/eabde659ea28a6910fcfed865400d390/81b0650616c5b6ef
+16	./snap/snapd-desktop-integration/common/.cache/nvidia/GLCache/eabde659ea28a6910fcfed865400d390
+20	./snap/snapd-desktop-integration/common/.cache/nvidia/GLCache
+24	./snap/snapd-desktop-integration/common/.cache/nvidia
+28	./snap/snapd-desktop-integration/common/.cache/gio-modules
+3308	./snap/snapd-desktop-integration/common/.cache
+3312	./snap/snapd-desktop-integration/common
+3420	./snap/snapd-desktop-integration
+76	./snap/firmware-updater/common/.cache/immodules
+28	./snap/firmware-updater/common/.cache/gio-modules
+112	./snap/firmware-updater/common/.cache
+116	./snap/firmware-updater/common
+4	./snap/firmware-updater/127/.config/gtk-2.0
+4	./snap/firmware-updater/127/.config/ibus
+8	./snap/firmware-updater/127/.config/fontconfig
+4	./snap/firmware-updater/127/.config/gtk-3.0
+4	./snap/firmware-updater/127/.config/dconf
+44	./snap/firmware-updater/127/.config
+4	./snap/firmware-updater/127/.local/share/glib-2.0/schemas
+8	./snap/firmware-updater/127/.local/share/glib-2.0
+4	./snap/firmware-updater/127/.local/share/icons
+16	./snap/firmware-updater/127/.local/share
+20	./snap/firmware-updater/127/.local
+72	./snap/firmware-updater/127
+192	./snap/firmware-updater
+76	./snap/snap-store/common/.cache/immodules
+3172	./snap/snap-store/common/.cache/fontconfig
+28	./snap/snap-store/common/.cache/gio-modules
+8	./snap/snap-store/common/.cache/mesa_shader_cache/17
+8	./snap/snap-store/common/.cache/mesa_shader_cache/74
+8	./snap/snap-store/common/.cache/mesa_shader_cache/5e
+12	./snap/snap-store/common/.cache/mesa_shader_cache/06
+8	./snap/snap-store/common/.cache/mesa_shader_cache/b5
+8	./snap/snap-store/common/.cache/mesa_shader_cache/14
+8	./snap/snap-store/common/.cache/mesa_shader_cache/28
+8	./snap/snap-store/common/.cache/mesa_shader_cache/38
+8	./snap/snap-store/common/.cache/mesa_shader_cache/7f
+8	./snap/snap-store/common/.cache/mesa_shader_cache/b9
+8	./snap/snap-store/common/.cache/mesa_shader_cache/5d
+8	./snap/snap-store/common/.cache/mesa_shader_cache/83
+8	./snap/snap-store/common/.cache/mesa_shader_cache/cb
+8	./snap/snap-store/common/.cache/mesa_shader_cache/c7
+8	./snap/snap-store/common/.cache/mesa_shader_cache/61
+8	./snap/snap-store/common/.cache/mesa_shader_cache/60
+8	./snap/snap-store/common/.cache/mesa_shader_cache/d1
+8	./snap/snap-store/common/.cache/mesa_shader_cache/dc
+8	./snap/snap-store/common/.cache/mesa_shader_cache/87
+8	./snap/snap-store/common/.cache/mesa_shader_cache/d8
+8	./snap/snap-store/common/.cache/mesa_shader_cache/56
+12	./snap/snap-store/common/.cache/mesa_shader_cache/63
+8	./snap/snap-store/common/.cache/mesa_shader_cache/2a
+8	./snap/snap-store/common/.cache/mesa_shader_cache/b8
+8	./snap/snap-store/common/.cache/mesa_shader_cache/f0
+8	./snap/snap-store/common/.cache/mesa_shader_cache/e6
+8	./snap/snap-store/common/.cache/mesa_shader_cache/f4
+8	./snap/snap-store/common/.cache/mesa_shader_cache/bd
+12	./snap/snap-store/common/.cache/mesa_shader_cache/fb
+8	./snap/snap-store/common/.cache/mesa_shader_cache/d7
+8	./snap/snap-store/common/.cache/mesa_shader_cache/6a
+8	./snap/snap-store/common/.cache/mesa_shader_cache/fa
+8	./snap/snap-store/common/.cache/mesa_shader_cache/93
+8	./snap/snap-store/common/.cache/mesa_shader_cache/f6
+8	./snap/snap-store/common/.cache/mesa_shader_cache/db
+8	./snap/snap-store/common/.cache/mesa_shader_cache/7e
+8	./snap/snap-store/common/.cache/mesa_shader_cache/03
+8	./snap/snap-store/common/.cache/mesa_shader_cache/e3
+8	./snap/snap-store/common/.cache/mesa_shader_cache/e0
+8	./snap/snap-store/common/.cache/mesa_shader_cache/ee
+12	./snap/snap-store/common/.cache/mesa_shader_cache/18
+1636	./snap/snap-store/common/.cache/mesa_shader_cache
+4920	./snap/snap-store/common/.cache
+4924	./snap/snap-store/common
+4	./snap/snap-store/1173/.config/gtk-2.0
+4	./snap/snap-store/1173/.config/ibus
+8	./snap/snap-store/1173/.config/fontconfig
+4	./snap/snap-store/1173/.config/gtk-3.0
+4	./snap/snap-store/1173/.config/dconf
+44	./snap/snap-store/1173/.config
+4	./snap/snap-store/1173/.local/share/glib-2.0/schemas
+8	./snap/snap-store/1173/.local/share/glib-2.0
+12	./snap/snap-store/1173/.local/share/snap-store
+4	./snap/snap-store/1173/.local/share/icons
+28	./snap/snap-store/1173/.local/share
+32	./snap/snap-store/1173/.local
+84	./snap/snap-store/1173
+5012	./snap/snap-store
+86824	./snap
+8	./.local/share/icc
+4	./.local/share/flatpak/db
+8	./.local/share/flatpak
+4	./.local/share/sounds
+4	./.local/share/ibus-table
+12	./.local/share/keyrings
+112	./.local/share/backgrounds
+8	./.local/share/Trash/info
+4	./.local/share/Trash/expunged
+1224	./.local/share/Trash/files
+1240	./.local/share/Trash
+4	./.local/share/applications
+356	./.local/share/nautilus/tags
+4	./.local/share/nautilus/scripts
+364	./.local/share/nautilus
+76	./.local/share/gvfs-metadata
+8	./.local/share/evolution/calendar/system
+4	./.local/share/evolution/calendar/trash
+16	./.local/share/evolution/calendar
+4	./.local/share/evolution/mail/trash
+8	./.local/share/evolution/mail
+4	./.local/share/evolution/addressbook/system/photos
+100	./.local/share/evolution/addressbook/system
+4	./.local/share/evolution/addressbook/trash
+108	./.local/share/evolution/addressbook
+8	./.local/share/evolution/tasks/system
+4	./.local/share/evolution/tasks/trash
+16	./.local/share/evolution/tasks
+4	./.local/share/evolution/memos/trash
+8	./.local/share/evolution/memos
+160	./.local/share/evolution
+4	./.local/share/gnome-settings-daemon
+8	./.local/share/gnome-shell
+2016	./.local/share
+8	./.local/state/wireplumber
+12	./.local/state
+2032	./.local
+4	./Documents
+4	./exercise_dir
+4	./code
+4	./Public
+8	./.cache/ubuntu-report
+12	./.cache/update-manager-core
+4	./.cache/ibus-table
+212	./.cache/ibus/bus
+216	./.cache/ibus
+416	./.cache/gstreamer-1.0
+3468	./.cache/fontconfig
+6976	./.cache/nvidia/GLCache/6b127eb637589fca3a603e84151bd16a/81b0650616c5b6ef
+6980	./.cache/nvidia/GLCache/6b127eb637589fca3a603e84151bd16a
+3152	./.cache/nvidia/GLCache/eabde659ea28a6910fcfed865400d390/81b0650616c5b6ef
+3156	./.cache/nvidia/GLCache/eabde659ea28a6910fcfed865400d390
+10140	./.cache/nvidia/GLCache
+10144	./.cache/nvidia
+688	./.cache/google-chrome/Default/Cache/Cache_Data/index-dir
+363788	./.cache/google-chrome/Default/Cache/Cache_Data
+363792	./.cache/google-chrome/Default/Cache
+128	./.cache/google-chrome/Default/Code Cache/js/index-dir
+286136	./.cache/google-chrome/Default/Code Cache/js
+8	./.cache/google-chrome/Default/Code Cache/wasm/index-dir
+112	./.cache/google-chrome/Default/Code Cache/wasm
+286252	./.cache/google-chrome/Default/Code Cache
+650048	./.cache/google-chrome/Default
+650052	./.cache/google-chrome
+428	./.cache/thumbnails/large
+8	./.cache/thumbnails/fail/gnome-thumbnail-factory
+12	./.cache/thumbnails/fail
+444	./.cache/thumbnails
+4	./.cache/evolution/calendar/trash
+8	./.cache/evolution/calendar
+4	./.cache/evolution/mail/trash
+8	./.cache/evolution/mail
+4	./.cache/evolution/addressbook/trash
+8	./.cache/evolution/addressbook
+4	./.cache/evolution/tasks/trash
+8	./.cache/evolution/tasks
+4	./.cache/evolution/memos/trash
+8	./.cache/evolution/memos
+4	./.cache/evolution/sources/trash
+8	./.cache/evolution/sources
+52	./.cache/evolution
+16	./.cache/mesa_shader_cache/90
+8	./.cache/mesa_shader_cache/17
+20	./.cache/mesa_shader_cache/a6
+12	./.cache/mesa_shader_cache/9e
+12	./.cache/mesa_shader_cache/65
+20	./.cache/mesa_shader_cache/74
+8	./.cache/mesa_shader_cache/c3
+8	./.cache/mesa_shader_cache/da
+12	./.cache/mesa_shader_cache/a2
+12	./.cache/mesa_shader_cache/eb
+12	./.cache/mesa_shader_cache/de
+12	./.cache/mesa_shader_cache/75
+16	./.cache/mesa_shader_cache/26
+8	./.cache/mesa_shader_cache/6e
+8	./.cache/mesa_shader_cache/91
+8	./.cache/mesa_shader_cache/71
+12	./.cache/mesa_shader_cache/2f
+8	./.cache/mesa_shader_cache/59
+16	./.cache/mesa_shader_cache/6f
+12	./.cache/mesa_shader_cache/0c
+12	./.cache/mesa_shader_cache/58
+8	./.cache/mesa_shader_cache/68
+16	./.cache/mesa_shader_cache/b2
+8	./.cache/mesa_shader_cache/0f
+8	./.cache/mesa_shader_cache/24
+12	./.cache/mesa_shader_cache/31
+12	./.cache/mesa_shader_cache/01
+8	./.cache/mesa_shader_cache/8a
+20	./.cache/mesa_shader_cache/c2
+12	./.cache/mesa_shader_cache/a4
+8	./.cache/mesa_shader_cache/14
+16	./.cache/mesa_shader_cache/46
+12	./.cache/mesa_shader_cache/28
+8	./.cache/mesa_shader_cache/3c
+12	./.cache/mesa_shader_cache/a0
+16	./.cache/mesa_shader_cache/1a
+8	./.cache/mesa_shader_cache/a5
+8	./.cache/mesa_shader_cache/29
+12	./.cache/mesa_shader_cache/d6
+16	./.cache/mesa_shader_cache/81
+20	./.cache/mesa_shader_cache/48
+8	./.cache/mesa_shader_cache/38
+8	./.cache/mesa_shader_cache/5c
+8	./.cache/mesa_shader_cache/4c
+8	./.cache/mesa_shader_cache/aa
+20	./.cache/mesa_shader_cache/b9
+12	./.cache/mesa_shader_cache/2e
+8	./.cache/mesa_shader_cache/2d
+8	./.cache/mesa_shader_cache/8b
+8	./.cache/mesa_shader_cache/fc
+8	./.cache/mesa_shader_cache/b7
+12	./.cache/mesa_shader_cache/fe
+8	./.cache/mesa_shader_cache/ac
+16	./.cache/mesa_shader_cache/ec
+8	./.cache/mesa_shader_cache/64
+8	./.cache/mesa_shader_cache/8e
+12	./.cache/mesa_shader_cache/f8
+12	./.cache/mesa_shader_cache/ca
+20	./.cache/mesa_shader_cache/5d
+12	./.cache/mesa_shader_cache/83
+8	./.cache/mesa_shader_cache/af
+8	./.cache/mesa_shader_cache/9f
+12	./.cache/mesa_shader_cache/84
+8	./.cache/mesa_shader_cache/1e
+20	./.cache/mesa_shader_cache/2c
+8	./.cache/mesa_shader_cache/c7
+8	./.cache/mesa_shader_cache/89
+12	./.cache/mesa_shader_cache/ad
+16	./.cache/mesa_shader_cache/36
+8	./.cache/mesa_shader_cache/ea
+20	./.cache/mesa_shader_cache/b6
+12	./.cache/mesa_shader_cache/9b
+8	./.cache/mesa_shader_cache/50
+8	./.cache/mesa_shader_cache/60
+8	./.cache/mesa_shader_cache/8d
+8	./.cache/mesa_shader_cache/15
+8	./.cache/mesa_shader_cache/a3
+12	./.cache/mesa_shader_cache/d1
+8	./.cache/mesa_shader_cache/23
+8	./.cache/mesa_shader_cache/13
+12	./.cache/mesa_shader_cache/dc
+8	./.cache/mesa_shader_cache/20
+8	./.cache/mesa_shader_cache/87
+12	./.cache/mesa_shader_cache/d8
+8	./.cache/mesa_shader_cache/42
+24	./.cache/mesa_shader_cache/e2
+8	./.cache/mesa_shader_cache/12
+20	./.cache/mesa_shader_cache/77
+12	./.cache/mesa_shader_cache/56
+12	./.cache/mesa_shader_cache/a7
+8	./.cache/mesa_shader_cache/35
+28	./.cache/mesa_shader_cache/62
+8	./.cache/mesa_shader_cache/d5
+16	./.cache/mesa_shader_cache/1b
+16	./.cache/mesa_shader_cache/1f
+28	./.cache/mesa_shader_cache/4a
+8	./.cache/mesa_shader_cache/be
+8	./.cache/mesa_shader_cache/a1
+8	./.cache/mesa_shader_cache/97
+8	./.cache/mesa_shader_cache/63
+8	./.cache/mesa_shader_cache/4f
+20	./.cache/mesa_shader_cache/2a
+16	./.cache/mesa_shader_cache/4d
+8	./.cache/mesa_shader_cache/9c
+12	./.cache/mesa_shader_cache/c8
+12	./.cache/mesa_shader_cache/40
+8	./.cache/mesa_shader_cache/0b
+12	./.cache/mesa_shader_cache/6c
+8	./.cache/mesa_shader_cache/3f
+20	./.cache/mesa_shader_cache/bf
+8	./.cache/mesa_shader_cache/e5
+16	./.cache/mesa_shader_cache/0e
+8	./.cache/mesa_shader_cache/b3
+8	./.cache/mesa_shader_cache/00
+12	./.cache/mesa_shader_cache/21
+8	./.cache/mesa_shader_cache/04
+8	./.cache/mesa_shader_cache/34
+8	./.cache/mesa_shader_cache/82
+8	./.cache/mesa_shader_cache/ff
+8	./.cache/mesa_shader_cache/ce
+20	./.cache/mesa_shader_cache/05
+12	./.cache/mesa_shader_cache/ed
+20	./.cache/mesa_shader_cache/f0
+8	./.cache/mesa_shader_cache/54
+8	./.cache/mesa_shader_cache/69
+12	./.cache/mesa_shader_cache/39
+8	./.cache/mesa_shader_cache/f9
+12	./.cache/mesa_shader_cache/e6
+8	./.cache/mesa_shader_cache/e9
+12	./.cache/mesa_shader_cache/c0
+12	./.cache/mesa_shader_cache/9a
+12	./.cache/mesa_shader_cache/79
+12	./.cache/mesa_shader_cache/ba
+12	./.cache/mesa_shader_cache/6b
+16	./.cache/mesa_shader_cache/3b
+8	./.cache/mesa_shader_cache/f4
+12	./.cache/mesa_shader_cache/96
+8	./.cache/mesa_shader_cache/19
+12	./.cache/mesa_shader_cache/25
+12	./.cache/mesa_shader_cache/d2
+8	./.cache/mesa_shader_cache/fb
+8	./.cache/mesa_shader_cache/67
+8	./.cache/mesa_shader_cache/ef
+8	./.cache/mesa_shader_cache/d7
+12	./.cache/mesa_shader_cache/30
+8	./.cache/mesa_shader_cache/c5
+8	./.cache/mesa_shader_cache/99
+8	./.cache/mesa_shader_cache/bb
+8	./.cache/mesa_shader_cache/e7
+8	./.cache/mesa_shader_cache/98
+8	./.cache/mesa_shader_cache/32
+12	./.cache/mesa_shader_cache/07
+24	./.cache/mesa_shader_cache/4e
+8	./.cache/mesa_shader_cache/41
+8	./.cache/mesa_shader_cache/1c
+8	./.cache/mesa_shader_cache/cc
+8	./.cache/mesa_shader_cache/e1
+12	./.cache/mesa_shader_cache/93
+28	./.cache/mesa_shader_cache/f6
+8	./.cache/mesa_shader_cache/5b
+8	./.cache/mesa_shader_cache/73
+8	./.cache/mesa_shader_cache/44
+16	./.cache/mesa_shader_cache/70
+8	./.cache/mesa_shader_cache/bc
+8	./.cache/mesa_shader_cache/0a
+8	./.cache/mesa_shader_cache/95
+8	./.cache/mesa_shader_cache/47
+12	./.cache/mesa_shader_cache/d3
+8	./.cache/mesa_shader_cache/7e
+8	./.cache/mesa_shader_cache/16
+8	./.cache/mesa_shader_cache/4b
+12	./.cache/mesa_shader_cache/03
+12	./.cache/mesa_shader_cache/22
+8	./.cache/mesa_shader_cache/e3
+8	./.cache/mesa_shader_cache/80
+12	./.cache/mesa_shader_cache/3d
+12	./.cache/mesa_shader_cache/e0
+8	./.cache/mesa_shader_cache/6d
+3288	./.cache/mesa_shader_cache
+4	./.cache/tracker3/files/errors
+13924	./.cache/tracker3/files
+13928	./.cache/tracker3
+682048	./.cache
+4	./Videos
+92	./Lab3
+116	./LAB2
+4	./data
+12	./.fontconfig
+4	./Templates
+4	./test-dir/test-dir2
+8	./test-dir
+4	./Desktop
+4	./.ssh
+300	./lab1
+1215756	.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ du -h /var
+[?2004l4.2M	/var/backups
+12M	/var/log/sysstat
+4.0K	/var/log/hp/tmp
+8.0K	/var/log/hp
+du: cannot read directory '/var/log/speech-dispatcher': Permission denied
+4.0K	/var/log/speech-dispatcher
+du: cannot read directory '/var/log/installer': Permission denied
+4.0K	/var/log/installer
+du: cannot read directory '/var/log/sssd': Permission denied
+4.0K	/var/log/sssd
+4.0K	/var/log/openvpn
+du: cannot read directory '/var/log/private': Permission denied
+4.0K	/var/log/private
+148K	/var/log/apt
+4.0K	/var/log/dist-upgrade
+du: cannot read directory '/var/log/gdm3': Permission denied
+4.0K	/var/log/gdm3
+68K	/var/log/cups
+77M	/var/log/journal/d81b856333824edbb0018bc03b895010
+77M	/var/log/journal
+4.0K	/var/log/firebird
+du: cannot read directory '/var/log/unattended-upgrades': Permission denied
+4.0K	/var/log/unattended-upgrades
+4.0K	/var/log/cups-browsed
+101M	/var/log
+74M	/var/crash
+4.0K	/var/cache/adduser
+du: cannot read directory '/var/cache/apparmor/baad73a1.0': Permission denied
+4.0K	/var/cache/apparmor/baad73a1.0
+du: cannot read directory '/var/cache/apparmor/8eeb6286.0': Permission denied
+4.0K	/var/cache/apparmor/8eeb6286.0
+12K	/var/cache/apparmor
+4.0K	/var/cache/debconf/tmp.ci
+4.7M	/var/cache/debconf
+4.0K	/var/cache/man/cat1
+4.0K	/var/cache/man/ja/cat1
+4.0K	/var/cache/man/ja/cat8
+4.0K	/var/cache/man/ja/cat5
+44K	/var/cache/man/ja
+4.0K	/var/cache/man/tr/cat1
+4.0K	/var/cache/man/tr/cat8
+4.0K	/var/cache/man/tr/cat5
+36K	/var/cache/man/tr
+4.0K	/var/cache/man/fr.UTF-8/cat8
+4.0K	/var/cache/man/fr.UTF-8/cat7
+32K	/var/cache/man/fr.UTF-8
+4.0K	/var/cache/man/uk/cat1
+4.0K	/var/cache/man/uk/cat8
+4.0K	/var/cache/man/uk/cat3
+4.0K	/var/cache/man/uk/cat5
+44K	/var/cache/man/uk
+4.0K	/var/cache/man/vi/cat1
+4.0K	/var/cache/man/vi/cat7
+32K	/var/cache/man/vi
+4.0K	/var/cache/man/ru/cat1
+4.0K	/var/cache/man/ru/cat8
+4.0K	/var/cache/man/ru/cat5
+44K	/var/cache/man/ru
+4.0K	/var/cache/man/nl/cat1
+4.0K	/var/cache/man/nl/cat8
+4.0K	/var/cache/man/nl/cat7
+4.0K	/var/cache/man/nl/cat5
+48K	/var/cache/man/nl
+4.0K	/var/cache/man/zh_CN/cat1
+4.0K	/var/cache/man/zh_CN/cat8
+4.0K	/var/cache/man/zh_CN/cat5
+36K	/var/cache/man/zh_CN
+4.0K	/var/cache/man/cs/cat1
+4.0K	/var/cache/man/cs/cat8
+4.0K	/var/cache/man/cs/cat7
+4.0K	/var/cache/man/cs/cat5
+40K	/var/cache/man/cs
+4.0K	/var/cache/man/es/cat1
+4.0K	/var/cache/man/es/cat8
+4.0K	/var/cache/man/es/cat5
+44K	/var/cache/man/es
+4.0K	/var/cache/man/cat8
+4.0K	/var/cache/man/cat3
+4.0K	/var/cache/man/fi/cat1
+28K	/var/cache/man/fi
+4.0K	/var/cache/man/cat7
+4.0K	/var/cache/man/ro/cat1
+4.0K	/var/cache/man/ro/cat8
+4.0K	/var/cache/man/ro/cat3
+4.0K	/var/cache/man/ro/cat5
+44K	/var/cache/man/ro
+4.0K	/var/cache/man/cat4
+4.0K	/var/cache/man/sl/cat1
+4.0K	/var/cache/man/sl/cat8
+32K	/var/cache/man/sl
+4.0K	/var/cache/man/da/cat1
+4.0K	/var/cache/man/da/cat8
+4.0K	/var/cache/man/da/cat5
+36K	/var/cache/man/da
+4.0K	/var/cache/man/de/cat1
+4.0K	/var/cache/man/de/cat8
+4.0K	/var/cache/man/de/cat7
+4.0K	/var/cache/man/de/cat5
+100K	/var/cache/man/de
+4.0K	/var/cache/man/it/cat1
+4.0K	/var/cache/man/it/cat8
+4.0K	/var/cache/man/it/cat5
+40K	/var/cache/man/it
+4.0K	/var/cache/man/pt/cat1
+4.0K	/var/cache/man/pt/cat8
+4.0K	/var/cache/man/pt/cat7
+4.0K	/var/cache/man/pt/cat5
+64K	/var/cache/man/pt
+4.0K	/var/cache/man/fr/cat1
+4.0K	/var/cache/man/fr/cat8
+4.0K	/var/cache/man/fr/cat7
+4.0K	/var/cache/man/fr/cat5
+100K	/var/cache/man/fr
+4.0K	/var/cache/man/cat6
+4.0K	/var/cache/man/ko/cat1
+4.0K	/var/cache/man/ko/cat8
+4.0K	/var/cache/man/ko/cat5
+36K	/var/cache/man/ko
+4.0K	/var/cache/man/fr.ISO8859-1/cat8
+4.0K	/var/cache/man/fr.ISO8859-1/cat7
+32K	/var/cache/man/fr.ISO8859-1
+4.0K	/var/cache/man/zh_TW/cat1
+4.0K	/var/cache/man/zh_TW/cat8
+4.0K	/var/cache/man/zh_TW/cat5
+36K	/var/cache/man/zh_TW
+4.0K	/var/cache/man/id/cat1
+4.0K	/var/cache/man/id/cat8
+4.0K	/var/cache/man/id/cat5
+36K	/var/cache/man/id
+4.0K	/var/cache/man/sr/cat1
+4.0K	/var/cache/man/sr/cat8
+4.0K	/var/cache/man/sr/cat5
+36K	/var/cache/man/sr
+4.0K	/var/cache/man/cat5
+4.0K	/var/cache/man/hr/cat1
+28K	/var/cache/man/hr
+4.0K	/var/cache/man/pl/cat1
+4.0K	/var/cache/man/pl/cat8
+4.0K	/var/cache/man/pl/cat3
+4.0K	/var/cache/man/pl/cat5
+44K	/var/cache/man/pl
+4.0K	/var/cache/man/hu/cat1
+4.0K	/var/cache/man/hu/cat8
+4.0K	/var/cache/man/hu/cat5
+36K	/var/cache/man/hu
+4.0K	/var/cache/man/sv/cat1
+4.0K	/var/cache/man/sv/cat8
+4.0K	/var/cache/man/sv/cat3
+4.0K	/var/cache/man/sv/cat5
+48K	/var/cache/man/sv
+4.0K	/var/cache/man/pt_BR/cat1
+4.0K	/var/cache/man/pt_BR/cat8
+4.0K	/var/cache/man/pt_BR/cat5
+40K	/var/cache/man/pt_BR
+4.0K	/var/cache/man/cat2
+2.4M	/var/cache/man
+4.0K	/var/cache/colord
+40K	/var/cache/snapd/aux
+3.5M	/var/cache/snapd
+40K	/var/cache/dictionaries-common
+4.4M	/var/cache/fontconfig
+464K	/var/cache/cracklib
+4.0K	/var/cache/PackageKit/downloads
+8.0K	/var/cache/PackageKit
+du: cannot read directory '/var/cache/private': Permission denied
+4.0K	/var/cache/private
+17M	/var/cache/swcatalog/cache
+17M	/var/cache/swcatalog
+du: cannot read directory '/var/cache/ldconfig': Permission denied
+4.0K	/var/cache/ldconfig
+du: cannot read directory '/var/cache/apt/archives/partial': Permission denied
+4.0K	/var/cache/apt/archives/partial
+262M	/var/cache/apt/archives
+354M	/var/cache/apt
+11M	/var/cache/fwupd
+du: cannot read directory '/var/cache/cups': Permission denied
+4.0K	/var/cache/cups
+4.0K	/var/cache/fwupdmgr
+4.0K	/var/cache/app-info/xmls
+8.0K	/var/cache/app-info
+8.0K	/var/cache/cups-browsed
+395M	/var/cache
+4.0K	/var/snap/gtk-common-themes/common
+4.0K	/var/snap/gtk-common-themes/1535
+12K	/var/snap/gtk-common-themes
+4.0K	/var/snap/bare/common
+4.0K	/var/snap/bare/5
+12K	/var/snap/bare
+4.0K	/var/snap/gnome-42-2204/common
+4.0K	/var/snap/gnome-42-2204/176
+12K	/var/snap/gnome-42-2204
+1.2M	/var/snap/firmware-updater/common/fontconfig
+1.2M	/var/snap/firmware-updater/common
+4.0K	/var/snap/firmware-updater/127
+1.3M	/var/snap/firmware-updater
+4.0K	/var/snap/snap-store/1173
+1.2M	/var/snap/snap-store/common/fontconfig
+1.2M	/var/snap/snap-store/common
+4.0K	/var/snap/snap-store/1124
+1.3M	/var/snap/snap-store
+4.0K	/var/snap/snapd/21759
+4.0K	/var/snap/snapd/common
+4.0K	/var/snap/snapd/21465
+16K	/var/snap/snapd
+4.0K	/var/snap/core22/common
+4.0K	/var/snap/core22/1380
+12K	/var/snap/core22
+852K	/var/snap/firefox/common/host-hunspell
+4.0K	/var/snap/firefox/common/snap-hunspell
+3.9M	/var/snap/firefox/common/fontconfig
+4.7M	/var/snap/firefox/common
+4.0K	/var/snap/firefox/4630
+4.0K	/var/snap/firefox/4650
+4.7M	/var/snap/firefox
+1.2M	/var/snap/snapd-desktop-integration/common/fontconfig
+1.2M	/var/snap/snapd-desktop-integration/common
+4.0K	/var/snap/snapd-desktop-integration/157
+1.3M	/var/snap/snapd-desktop-integration
+8.4M	/var/snap
+4.0K	/var/opt
+4.0K	/var/mail
+4.0K	/var/metrics
+4.0K	/var/lib/vim/addons
+8.0K	/var/lib/vim
+8.0K	/var/lib/xkb
+4.0K	/var/lib/synaptic
+4.0K	/var/lib/update-manager
+4.0K	/var/lib/foo2zjs/firmware
+8.0K	/var/lib/foo2zjs
+du: cannot read directory '/var/lib/udisks2': Permission denied
+4.0K	/var/lib/udisks2
+4.0K	/var/lib/dbus
+4.2M	/var/lib/aspell
+28K	/var/lib/pam
+4.0K	/var/lib/shim-signed/mok
+8.0K	/var/lib/shim-signed
+8.0K	/var/lib/ispell
+4.0K	/var/lib/cloud/seed
+4.0K	/var/lib/cloud/scripts/per-boot
+4.0K	/var/lib/cloud/scripts/vendor
+4.0K	/var/lib/cloud/scripts/per-once
+4.0K	/var/lib/cloud/scripts/per-instance
+20K	/var/lib/cloud/scripts
+8.0K	/var/lib/cloud/sem
+28K	/var/lib/cloud/data
+4.0K	/var/lib/cloud/handlers
+4.0K	/var/lib/cloud/instances/iid-datasource-none/scripts
+92K	/var/lib/cloud/instances/iid-datasource-none/sem
+4.0K	/var/lib/cloud/instances/iid-datasource-none/handlers
+148K	/var/lib/cloud/instances/iid-datasource-none
+152K	/var/lib/cloud/instances
+220K	/var/lib/cloud
+4.0K	/var/lib/hp
+16K	/var/lib/binfmts
+4.0K	/var/lib/dhcpcd
+du: cannot read directory '/var/lib/sss/keytabs': Permission denied
+4.0K	/var/lib/sss/keytabs
+du: cannot read directory '/var/lib/sss/secrets': Permission denied
+4.0K	/var/lib/sss/secrets
+4.0K	/var/lib/sss/gpo_cache
+du: cannot read directory '/var/lib/sss/deskprofile': Permission denied
+4.0K	/var/lib/sss/deskprofile
+4.0K	/var/lib/sss/mc
+4.0K	/var/lib/sss/pubconf/krb5.include.d
+8.0K	/var/lib/sss/pubconf
+du: cannot read directory '/var/lib/sss/db': Permission denied
+4.0K	/var/lib/sss/db
+du: cannot read directory '/var/lib/sss/pipes/private': Permission denied
+4.0K	/var/lib/sss/pipes/private
+8.0K	/var/lib/sss/pipes
+44K	/var/lib/sss
+4.0K	/var/lib/libreoffice/share/prereg/bundled
+8.0K	/var/lib/libreoffice/share/prereg
+12K	/var/lib/libreoffice/share
+16K	/var/lib/libreoffice
+20K	/var/lib/doc-base/info
+144K	/var/lib/doc-base/documents
+168K	/var/lib/doc-base
+4.0K	/var/lib/ubuntu-release-upgrader
+8.0K	/var/lib/whoopsie
+du: cannot read directory '/var/lib/AccountsService/users': Permission denied
+4.0K	/var/lib/AccountsService/users
+4.0K	/var/lib/AccountsService/icons
+12K	/var/lib/AccountsService
+4.0K	/var/lib/BrlAPI
+du: cannot read directory '/var/lib/colord/.cache': Permission denied
+4.0K	/var/lib/colord/.cache
+4.0K	/var/lib/colord/icc
+56K	/var/lib/colord
+8.0K	/var/lib/xfonts
+4.0K	/var/lib/git
+4.0K	/var/lib/sudo/lectured
+8.0K	/var/lib/sudo
+du: cannot read directory '/var/lib/snapd/cookie': Permission denied
+4.0K	/var/lib/snapd/cookie
+8.0K	/var/lib/snapd/device/private-keys-v1
+12K	/var/lib/snapd/device
+1.4M	/var/lib/snapd/apparmor/profiles
+8.0K	/var/lib/snapd/apparmor/snap-confine.internal
+8.0K	/var/lib/snapd/apparmor/snap-confine
+1.4M	/var/lib/snapd/apparmor
+4.0K	/var/lib/snapd/firstboot
+4.0K	/var/lib/snapd/environment
+4.0K	/var/lib/snapd/ssl/store-certs
+8.0K	/var/lib/snapd/ssl
+4.0K	/var/lib/snapd/inhibit
+4.0K	/var/lib/snapd/snaps/partial
+1.3G	/var/lib/snapd/snaps
+8.0K	/var/lib/snapd/dbus-1/services
+4.0K	/var/lib/snapd/dbus-1/system-services
+16K	/var/lib/snapd/dbus-1
+40K	/var/lib/snapd/cgroup
+270M	/var/lib/snapd/seed/snaps
+88K	/var/lib/snapd/seed/assertions
+270M	/var/lib/snapd/seed
+du: cannot read directory '/var/lib/snapd/void': Permission denied
+4.0K	/var/lib/snapd/void
+84K	/var/lib/snapd/mount
+4.0K	/var/lib/snapd/lib/gl
+4.0K	/var/lib/snapd/lib/vulkan
+4.0K	/var/lib/snapd/lib/glvnd
+4.0K	/var/lib/snapd/lib/gl32
+20K	/var/lib/snapd/lib
+4.0K	/var/lib/snapd/features
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/gjurGNaVnYyUtY0ii68DauY_7ulS97c3Syoz3d6Ud8xZ_i0HHSX4B9HFcFykV8Uq
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/JfbLC6cF5EQ9nOWMDPkh6x2jO7ZHVqf614wfpE9dIgOSzrw5C_XeJYIODjJ6pPq2
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/62rRwo_VHrOdajhLlnNTqUJ8gfWoZZNSFWhxn2AszCKyUAD0d8guxddMFeW5LVKP
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/1-50zukF_WmvK4Jbti9svMtwiiokCdFj8kcOjKw5PMCBI8RWYIoqLYKpMcTGF5BD
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/m6XYoQIcXR6CRtxmjPD7DTxuxSaWtF-mAb1vcFVqmDayebaMcsMQ5AUBcYQEA5XS
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/hpKwDJNvb0bpBjpJPecpStgoWmx93Z3oKB8BOMcqnWGG-VAEcyqEDo1lW6w0AJcy
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/oUVAljqv8Ya0bULrAFylCia7oZBUOhiQBW0LJ5PofXAdDUWEqhyT-h_gem_RiONs
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/qrsgrawd6nuHLg9SuM3KvhTNxCgeKE9kehHfEawBnTkH5_U_tMZRpTcRPWlh7Klc
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/VEdXOXsjJm-RAbr6SyUonpUXt-R9CzqpINBG4Qg5ULk2Esy-sykrsyIwg0_20eSD
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/g_3EZSaxDvBDLcSUu5CPzFMdrojdG3BjZBGoU7pOU_8n4DY6B5bU9f-UxMOJ_hZB
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/omwML44GMx0zUZ4UHeCDxhr4hjQSWnuE83qOgwyL6ugBhKqk7urPMVBp3WulzNYY
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/MiDDsFrPKxG30KV37Ys3oQO0jD2XcDcPmbdw1GU8wqxFzsK392mcvNwLJ7I5djy3
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/1DoIJKT9Il4_StapanpbaNcC_s_NEn0uLQrfONXpQYWWeln6cpQ4Mc0id0YxD06e
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-revision/Gohh9RU-e_bzoq6C39wpHUGC-L4_p3gvDx5O-2q_-xmJInJeRCRJcqRPHqczUGiG
+116K	/var/lib/snapd/assertions/asserts-v0/snap-revision
+8.0K	/var/lib/snapd/assertions/asserts-v0/serial/generic/generic-classic/e6a28cd0-b86c-4032-b156-209fe72271be
+12K	/var/lib/snapd/assertions/asserts-v0/serial/generic/generic-classic
+16K	/var/lib/snapd/assertions/asserts-v0/serial/generic
+20K	/var/lib/snapd/assertions/asserts-v0/serial
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/gjf3IPXoRiipCu9K0kVu52f0H56fIksg
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/EISPgh06mRh1vordZY9OZ34QHdd7OrdR
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/EI0D1KHjP8XiwMZKqSjuh6W8zvcowUVP
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/IrwRHakqtzhFRHJOOPxKVPU0Kk7Erhcu
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/lATO8HzwVvrAPrlZRAWpfyrJKlAJrZS3
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/3wdHCAVyZEmYsCMFDE9qt92UV8rC8Wdk
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/jZLfBRzf1cYlYysIjD2bwSzNtngY0qit
+8.0K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16/amcUKQILKXHHTlmSa7NMdnXSx02dNeeT
+76K	/var/lib/snapd/assertions/asserts-v0/snap-declaration/16
+80K	/var/lib/snapd/assertions/asserts-v0/snap-declaration
+8.0K	/var/lib/snapd/assertions/asserts-v0/account/OgeoZuqQpVvSr9eGKJzNCrFGSaKXpkey
+12K	/var/lib/snapd/assertions/asserts-v0/account
+8.0K	/var/lib/snapd/assertions/asserts-v0/model/16/generic/generic-classic
+12K	/var/lib/snapd/assertions/asserts-v0/model/16/generic
+16K	/var/lib/snapd/assertions/asserts-v0/model/16
+20K	/var/lib/snapd/assertions/asserts-v0/model
+8.0K	/var/lib/snapd/assertions/asserts-v0/account-key/wrfougkz3Huq2T_KklfnufCC0HzG7bJ9wP99GV0FF-D3QH3eJtuSRlQc2JhrAoh1
+8.0K	/var/lib/snapd/assertions/asserts-v0/account-key/BWDEoaqyr25nF5SNCvEv2v7QnM9QsfCc0PBMYD_i2NGSQ32EF2d4D0hqUel3m8ul
+20K	/var/lib/snapd/assertions/asserts-v0/account-key
+272K	/var/lib/snapd/assertions/asserts-v0
+4.0K	/var/lib/snapd/assertions/private-keys-v1
+280K	/var/lib/snapd/assertions
+36K	/var/lib/snapd/desktop/applications
+4.0K	/var/lib/snapd/desktop/bash-completion/completions
+8.0K	/var/lib/snapd/desktop/bash-completion
+4.0K	/var/lib/snapd/desktop/icons
+52K	/var/lib/snapd/desktop
+4.0K	/var/lib/snapd/hostfs
+4.0K	/var/lib/snapd/auto-import
+428K	/var/lib/snapd/seccomp/bpf
+432K	/var/lib/snapd/seccomp
+40K	/var/lib/snapd/sequence
+1.6G	/var/lib/snapd
+4.0K	/var/lib/usb_modeswitch
+4.0K	/var/lib/dpkg/parts
+236K	/var/lib/dpkg/alternatives
+67M	/var/lib/dpkg/info
+4.0K	/var/lib/dpkg/updates
+84K	/var/lib/dpkg/triggers
+71M	/var/lib/dpkg
+3.9M	/var/lib/ucf/cache
+4.0M	/var/lib/ucf
+4.0K	/var/lib/tpm
+4.0K	/var/lib/ubuntu-advantage/apt-esm/var/cache/apt/archives/partial
+8.0K	/var/lib/ubuntu-advantage/apt-esm/var/cache/apt/archives
+3.4M	/var/lib/ubuntu-advantage/apt-esm/var/cache/apt
+3.4M	/var/lib/ubuntu-advantage/apt-esm/var/cache
+4.0K	/var/lib/ubuntu-advantage/apt-esm/var/lib/dpkg
+du: cannot read directory '/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial': Permission denied
+4.0K	/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/partial
+4.0K	/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists/auxfiles
+92K	/var/lib/ubuntu-advantage/apt-esm/var/lib/apt/lists
+96K	/var/lib/ubuntu-advantage/apt-esm/var/lib/apt
+104K	/var/lib/ubuntu-advantage/apt-esm/var/lib
+3.5M	/var/lib/ubuntu-advantage/apt-esm/var
+8.0K	/var/lib/ubuntu-advantage/apt-esm/etc/apt/sources.list.d
+4.0K	/var/lib/ubuntu-advantage/apt-esm/etc/apt/apt.conf.d
+4.0K	/var/lib/ubuntu-advantage/apt-esm/etc/apt/preferences.d
+20K	/var/lib/ubuntu-advantage/apt-esm/etc/apt
+24K	/var/lib/ubuntu-advantage/apt-esm/etc
+3.6M	/var/lib/ubuntu-advantage/apt-esm
+3.6M	/var/lib/ubuntu-advantage
+4.0K	/var/lib/libuuid
+4.0K	/var/lib/geoclue
+8.0K	/var/lib/dictionaries-common/aspell
+8.0K	/var/lib/dictionaries-common/hunspell
+8.0K	/var/lib/dictionaries-common/wordlist
+28K	/var/lib/dictionaries-common
+du: cannot read directory '/var/lib/gnome-remote-desktop': Permission denied
+4.0K	/var/lib/gnome-remote-desktop
+8.0K	/var/lib/ubuntu-drivers-common
+du: cannot read directory '/var/lib/NetworkManager': Permission denied
+4.0K	/var/lib/NetworkManager
+4.0K	/var/lib/upower
+du: cannot read directory '/var/lib/fprint': Permission denied
+4.0K	/var/lib/fprint
+du: cannot read directory '/var/lib/openvpn/chroot': Permission denied
+4.0K	/var/lib/openvpn/chroot
+8.0K	/var/lib/openvpn
+du: cannot read directory '/var/lib/saned': Permission denied
+4.0K	/var/lib/saned
+4.0K	/var/lib/python
+36K	/var/lib/PackageKit
+du: cannot read directory '/var/lib/private': Permission denied
+4.0K	/var/lib/private
+4.0K	/var/lib/snmp
+64K	/var/lib/swcatalog/yaml
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-main/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-main/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-main/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-backports-main
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-universe/64x64@2
+40K	/var/lib/swcatalog/icons/ubuntu-noble-updates-universe/64x64
+36K	/var/lib/swcatalog/icons/ubuntu-noble-updates-universe/48x48
+84K	/var/lib/swcatalog/icons/ubuntu-noble-updates-universe
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-multiverse/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-multiverse/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-multiverse/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-backports-multiverse
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-multiverse/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-multiverse/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-multiverse/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-security-multiverse
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-main/64x64@2
+24K	/var/lib/swcatalog/icons/ubuntu-noble-security-main/64x64
+24K	/var/lib/swcatalog/icons/ubuntu-noble-security-main/48x48
+56K	/var/lib/swcatalog/icons/ubuntu-noble-security-main
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-restricted/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-restricted/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-restricted/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-updates-restricted
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-restricted/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-restricted/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-restricted/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-security-restricted
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-multiverse/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-multiverse/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-multiverse/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-updates-multiverse
+8.0K	/var/lib/swcatalog/icons/ubuntu-noble-multiverse/64x64@2
+292K	/var/lib/swcatalog/icons/ubuntu-noble-multiverse/64x64
+136K	/var/lib/swcatalog/icons/ubuntu-noble-multiverse/48x48
+440K	/var/lib/swcatalog/icons/ubuntu-noble-multiverse
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-security-universe/64x64@2
+12K	/var/lib/swcatalog/icons/ubuntu-noble-security-universe/64x64
+12K	/var/lib/swcatalog/icons/ubuntu-noble-security-universe/48x48
+32K	/var/lib/swcatalog/icons/ubuntu-noble-security-universe
+180K	/var/lib/swcatalog/icons/ubuntu-noble-universe/64x64@2
+13M	/var/lib/swcatalog/icons/ubuntu-noble-universe/64x64
+6.9M	/var/lib/swcatalog/icons/ubuntu-noble-universe/48x48
+20M	/var/lib/swcatalog/icons/ubuntu-noble-universe
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-updates-main/64x64@2
+28K	/var/lib/swcatalog/icons/ubuntu-noble-updates-main/64x64
+28K	/var/lib/swcatalog/icons/ubuntu-noble-updates-main/48x48
+64K	/var/lib/swcatalog/icons/ubuntu-noble-updates-main
+72K	/var/lib/swcatalog/icons/ubuntu-noble-main/64x64@2
+300K	/var/lib/swcatalog/icons/ubuntu-noble-main/64x64
+244K	/var/lib/swcatalog/icons/ubuntu-noble-main/48x48
+620K	/var/lib/swcatalog/icons/ubuntu-noble-main
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-restricted/64x64@2
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-restricted/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-restricted/48x48
+16K	/var/lib/swcatalog/icons/ubuntu-noble-backports-restricted
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-universe/64x64@2
+12K	/var/lib/swcatalog/icons/ubuntu-noble-backports-universe/64x64
+4.0K	/var/lib/swcatalog/icons/ubuntu-noble-backports-universe/48x48
+24K	/var/lib/swcatalog/icons/ubuntu-noble-backports-universe
+21M	/var/lib/swcatalog/icons
+21M	/var/lib/swcatalog
+8.0K	/var/lib/locales/supported.d
+12K	/var/lib/locales
+4.0K	/var/lib/power-profiles-daemon
+32K	/var/lib/xml-core
+8.0K	/var/lib/logrotate
+12K	/var/lib/sgml-base
+4.0K	/var/lib/apt/mirrors/partial
+8.0K	/var/lib/apt/mirrors
+4.0K	/var/lib/apt/periodic
+du: cannot read directory '/var/lib/apt/lists/partial': Permission denied
+20K	/var/lib/apt/lists/partial
+4.0K	/var/lib/apt/lists/auxfiles
+146M	/var/lib/apt/lists
+147M	/var/lib/apt
+12K	/var/lib/fwupd/pki
+1.4M	/var/lib/fwupd/metadata/lvfs
+1.4M	/var/lib/fwupd/metadata
+du: cannot read directory '/var/lib/fwupd/gnupg': Permission denied
+4.0K	/var/lib/fwupd/gnupg
+4.0K	/var/lib/fwupd/quirks.d
+4.0K	/var/lib/fwupd/remotes.d
+1.4M	/var/lib/fwupd
+4.0K	/var/lib/man-db
+4.0K	/var/lib/misc
+8.0K	/var/lib/boltd
+du: cannot read directory '/var/lib/gdm3': Permission denied
+4.0K	/var/lib/gdm3
+du: cannot read directory '/var/lib/bluetooth': Permission denied
+4.0K	/var/lib/bluetooth
+8.0K	/var/lib/plymouth
+4.0K	/var/lib/update-notifier/user.d
+du: cannot read directory '/var/lib/update-notifier/package-data-downloads/partial': Permission denied
+4.0K	/var/lib/update-notifier/package-data-downloads/partial
+8.0K	/var/lib/update-notifier/package-data-downloads
+20K	/var/lib/update-notifier
+4.0K	/var/lib/os-prober
+4.0K	/var/lib/systemd/coredump
+4.0K	/var/lib/systemd/deb-systemd-user-helper-enabled/sockets.target.wants
+4.0K	/var/lib/systemd/deb-systemd-user-helper-enabled/default.target.wants
+4.0K	/var/lib/systemd/deb-systemd-user-helper-enabled/graphical-session-pre.target.wants
+4.0K	/var/lib/systemd/deb-systemd-user-helper-enabled/pipewire.service.wants
+4.0K	/var/lib/systemd/deb-systemd-user-helper-enabled/timers.target.wants
+4.0K	/var/lib/systemd/deb-systemd-user-helper-enabled/gnome-session.target.wants
+144K	/var/lib/systemd/deb-systemd-user-helper-enabled
+224K	/var/lib/systemd/catalog
+4.0K	/var/lib/systemd/pstore
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/sockets.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/bluetooth.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/hybrid-sleep.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/multi-user.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/ssh.service.requires
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/sysinit.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/systemd-hibernate.service.requires
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/hibernate.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/final.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/printer.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/cloud-final.service.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/sysstat.service.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/display-manager.service.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/suspend-then-hibernate.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/cloud-init.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/graphical.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/sssd.service.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/rescue.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/suspend.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/network-online.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/oem-config.service.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/paths.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/emergency.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/timers.target.wants
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/systemd-suspend.service.requires
+4.0K	/var/lib/systemd/deb-systemd-helper-enabled/sleep.target.wants
+548K	/var/lib/systemd/deb-systemd-helper-enabled
+4.0K	/var/lib/systemd/timesync
+4.0K	/var/lib/systemd/linger
+4.0K	/var/lib/systemd/ephemeral-trees
+4.0K	/var/lib/systemd/timers
+948K	/var/lib/systemd
+4.0K	/var/lib/ca-certificates-java
+4.0K	/var/lib/apport/coredump
+8.0K	/var/lib/apport
+3.6M	/var/lib/command-not-found
+20K	/var/lib/libxml-sax-perl/ParserDetails.d
+24K	/var/lib/libxml-sax-perl
+16K	/var/lib/ghostscript/fonts
+20K	/var/lib/ghostscript/CMap
+40K	/var/lib/ghostscript
+du: cannot read directory '/var/lib/polkit-1': Permission denied
+4.0K	/var/lib/polkit-1
+28K	/var/lib/alsa
+4.0K	/var/lib/ieee-data
+4.0K	/var/lib/grub/esp
+8.0K	/var/lib/grub/ucf
+16K	/var/lib/grub
+4.0K	/var/lib/unattended-upgrades
+4.0K	/var/lib/emacsen-common/state/flavor/installed
+8.0K	/var/lib/emacsen-common/state/flavor
+4.0K	/var/lib/emacsen-common/state/package/installed
+8.0K	/var/lib/emacsen-common/state/package
+20K	/var/lib/emacsen-common/state
+24K	/var/lib/emacsen-common
+1.9G	/var/lib
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-switcheroo-control.service-FLm6vl': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-switcheroo-control.service-FLm6vl
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-power-profiles-daemon.service-21NzrM': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-power-profiles-daemon.service-21NzrM
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-polkit.service-9ktQAc': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-polkit.service-9ktQAc
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-bolt.service-hU56eI': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-bolt.service-hU56eI
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-upower.service-T2eZqm': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-upower.service-T2eZqm
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-resolved.service-GFdEwd': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-resolved.service-GFdEwd
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-logind.service-iMJrzn': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-logind.service-iMJrzn
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-fwupd.service-8f7jjz': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-fwupd.service-8f7jjz
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-oomd.service-zGRMBS': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-oomd.service-zGRMBS
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-colord.service-ckQ79g': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-colord.service-ckQ79g
+du: cannot read directory '/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-ModemManager.service-KU8d1U': Permission denied
+4.0K	/var/tmp/systemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-ModemManager.service-KU8d1U
+48K	/var/tmp
+4.0K	/var/local
+du: cannot read directory '/var/spool/rsyslog': Permission denied
+4.0K	/var/spool/rsyslog
+4.0K	/var/spool/libreoffice/uno_packages/cache
+8.0K	/var/spool/libreoffice/uno_packages
+12K	/var/spool/libreoffice
+16K	/var/spool/anacron
+du: cannot read directory '/var/spool/cron/crontabs': Permission denied
+4.0K	/var/spool/cron/crontabs
+8.0K	/var/spool/cron
+du: cannot read directory '/var/spool/cups': Permission denied
+4.0K	/var/spool/cups
+48K	/var/spool
+2.4G	/var
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ du -sh /usr
+[?2004l6.8G	/usr
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-01 13:56:25+05:30 [COMMAND_EXIT_CODE="0"]
