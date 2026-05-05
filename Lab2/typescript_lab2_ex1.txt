@@ -1,0 +1,88 @@
+Script started on 2024-07-29 14:39:38+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ pwd
+[?2004l/home/ibab
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls -l
+[?2004ltotal 255300
+-rw-rw-r-- 1 ibab ibab         0 Jul 25 15:37 aa1.txt
+-rw-rw-r-- 1 ibab ibab         0 Jul 25 15:05 aa.txt
+-rw-rw-r-- 1 ibab ibab         0 Jul 25 17:19 ab.txt
+-rw-rw-r-- 1 ibab ibab         0 Jul 25 15:36 bb.txt
+drwxr-xr-x 3 ibab ibab      4096 Jul 25 14:26 [0m[01;34mDesktop[0m
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:16 [01;34mDocuments[0m
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:53 [01;34mDownloads[0m
+drwxrwxr-x 2 ibab ibab      4096 Jul 29 14:36 [01;34mlab1[0m
+drwxrwxr-x 2 ibab ibab      4096 Jul 29 14:17 [01;34mLAB_1[0m
+-rw-rw-r-- 1 ibab ibab 261378505 Jul 25 17:40 [01;31mlab1_Aritri.zip[0m
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:16 [01;34mMusic[0m
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:16 [01;34mPictures[0m
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:16 [01;34mPublic[0m
+drwx------ 6 ibab ibab      4096 Jul 23 09:00 [01;34msnap[0m
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:16 [01;34mTemplates[0m
+-rw-rw-r-- 1 ibab ibab         0 Jul 29 14:39 typescript
+drwxr-xr-x 2 ibab ibab      4096 Jul 22 15:16 [01;34mVideos[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd /tmp
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: /tmp[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m/tmp[00m$ ls
+[?2004lgdm3-config-err-3zpSRD                                                [0m[01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-colord.service-aD3a40[0m
+gdm3-config-err-ahiNOz                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-fwupd.service-4XTNwz[0m
+gdm3-config-err-fiU9Sn                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-ModemManager.service-Sh4wiH[0m
+gdm3-config-err-GGJY5B                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-polkit.service-PKbPJa[0m
+gdm3-config-err-PtFsXd                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-power-profiles-daemon.service-rBHwFG[0m
+gdm3-config-err-UPWRyk                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-switcheroo-control.service-uKZHoH[0m
+gdm3-config-err-VrvG6o                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-logind.service-helbME[0m
+gdm3-config-err-WmGF1G                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-oomd.service-N4I8ya[0m
+[01;34msnap-private-tmp[0m                                                      [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-resolved.service-4hQZrG[0m
+[01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-bolt.service-Ukv4cg[0m  [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-upower.service-3bqAql[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: /tmp[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m/tmp[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd /tmo[Kp
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: /tmp[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m/tmp[00m$ ls
+[?2004lgdm3-config-err-3zpSRD                                                [0m[01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-colord.service-aD3a40[0m
+gdm3-config-err-ahiNOz                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-fwupd.service-4XTNwz[0m
+gdm3-config-err-fiU9Sn                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-ModemManager.service-Sh4wiH[0m
+gdm3-config-err-GGJY5B                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-polkit.service-PKbPJa[0m
+gdm3-config-err-PtFsXd                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-power-profiles-daemon.service-rBHwFG[0m
+gdm3-config-err-UPWRyk                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-switcheroo-control.service-uKZHoH[0m
+gdm3-config-err-VrvG6o                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-logind.service-helbME[0m
+gdm3-config-err-WmGF1G                                                [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-oomd.service-N4I8ya[0m
+[01;34msnap-private-tmp[0m                                                      [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-resolved.service-4hQZrG[0m
+[01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-bolt.service-Ukv4cg[0m  [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-upower.service-3bqAql[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: /tmp[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m/tmp[00m$ ls -lrt
+[?2004ltotal 48
+drwx------ 3 root root 4096 Jul 22 16:01 [0m[01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-oomd.service-N4I8ya[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-resolved.service-4hQZrG[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-polkit.service-PKbPJa[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-power-profiles-daemon.service-rBHwFG[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-switcheroo-control.service-uKZHoH[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-systemd-logind.service-helbME[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-ModemManager.service-Sh4wiH[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-upower.service-3bqAql[0m
+drwx------ 3 root root 4096 Jul 22 16:01 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-colord.service-aD3a40[0m
+-rw------- 1 ibab ibab    0 Jul 22 16:02 gdm3-config-err-ahiNOz
+drwx------ 3 root root 4096 Jul 22 16:55 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-fwupd.service-4XTNwz[0m
+-rw------- 1 ibab ibab    0 Jul 23 08:53 gdm3-config-err-fiU9Sn
+drwx------ 5 root root 4096 Jul 24 03:01 [01;34msnap-private-tmp[0m
+-rw------- 1 ibab ibab    0 Jul 24 09:42 gdm3-config-err-GGJY5B
+drwx------ 3 root root 4096 Jul 25 16:11 [01;34msystemd-private-17798efa5aaf4ed5a6b051aa6fb1d14f-bolt.service-Ukv4cg[0m
+-rw------- 1 ibab ibab    0 Jul 26 10:09 gdm3-config-err-3zpSRD
+-rw------- 1 ibab ibab    0 Jul 27 10:53 gdm3-config-err-PtFsXd
+-rw------- 1 ibab ibab    0 Jul 27 12:48 gdm3-config-err-UPWRyk
+-rw------- 1 ibab ibab    0 Jul 29 09:18 gdm3-config-err-WmGF1G
+-rw------- 1 ibab ibab    0 Jul 29 14:00 gdm3-config-err-VrvG6o
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: /tmp[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m/tmp[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir test-dir
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir -p
+[?2004lmkdir: missing operand
+Try 'mkdir --help' for more information.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir test[K[K[K[K[K -p testdir/test-dir2-dir/test-dir2[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls
+[?2004laa1.txt  aa.txt  ab.txt  bb.txt  [0m[01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mlab1[0m  [01;34mLAB_1[0m  [01;31mlab1_Aritri.zip[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34msnap[0m  [01;34mTemplates[0m  [01;34mtest-dir[0m  typescript  [01;34mVideos[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd typescript
+[?2004lbash: cd: typescript: Not a directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd test-dir
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/test-dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/test-dir[00m$ ls
+[?2004l[0m[01;34mtest-dir2[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/test-dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/test-dir[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-07-29 14:50:58+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,51 @@
+Script started on 2024-07-29 14:52:45+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir exercise_dir
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls
+[?2004laa1.txt  ab.txt  [0m[01;34mDesktop[0m    [01;34mDownloads[0m     [01;34mlab1[0m   [01;31mlab1_Aritri.zip[0m  [01;34mPictures[0m  [01;34msnap[0m       [01;34mtest-dir[0m    typescript_lab2_ex1.txt
+aa.txt   bb.txt  [01;34mDocuments[0m  [01;34mexercise_dir[0m  [01;34mLAB_1[0m  [01;34mMusic[0m            [01;34mPublic[0m    [01;34mTemplates[0m  typescript  [01;34mVideos[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd exercise_dir
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd exercise_dir
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ touch file2[K1.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ touch file2.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ touch file3.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls
+[?2004lfile1.txt  file2.txt  file3.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls -r
+[?2004lfile3.txt  file2.txt  file1.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls -R
+[?2004l.:
+file1.txt  file2.txt  file3.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ rm file3.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls
+[?2004lfile1.txt  file2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ mv file1 newfile.txt
+[?2004lmv: cannot stat 'file1': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ mv file1.txt newfile.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls
+[?2004lfile2.txt  newfile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ ls -l
+[?2004ltotal 0
+-rw-rw-r-- 1 ibab ibab 0 Jul 29 14:55 file2.txt
+-rw-rw-r-- 1 ibab ibab 0 Jul 29 14:55 newfile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir backup
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd backup
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ mv newfile.txt 
+[?2004lmv: missing destination file operand after 'newfile.txt'
+Try 'mv --help' for more information.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ mv newfile.txt /backup
+[?2004lmv: cannot stat 'newfile.txt': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd exercise_dir
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ mv newfile.txt `[K~/backup
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/exercise_dir[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/exercise_dir[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd backup
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ ls
+[?2004lnewfile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-07-29 15:06:33+05:30 [COMMAND_EXIT_CODE="0"]
