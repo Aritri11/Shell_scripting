@@ -1,0 +1,124 @@
+Script started on 2024-08-01 14:12:16+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls
+[?2004laa1.txt  ab.txt  bb.txt  [0m[01;34mdata[0m     [01;34mDocuments[0m  [01;34mexercise_dir[0m  [01;34mlab1[0m  [01;34mLab3[0m   [01;34mPictures[0m  [01;34mPublic[0m      [01;34msnap[0m      [01;34msource[0m     [01;34mtest-dir[0m    [01;34mVideos[0m
+[01;32maa.txt[0m   [01;34mbackup[0m  [01;34mcode[0m    [01;34mDesktop[0m  [01;34mDownloads[0m  exercise.txt  [01;34mLAB2[0m  [01;34mMusic[0m  [01;34mprojects[0m  secret.txt  [01;34msoftware[0m  [01;34mTemplates[0m  typescript
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ touch project_1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ touch project_1[K2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls
+[?2004lproject_1  project_2
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project_1
+[?2004lbash: cd: project_1: Not a directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd project_1
+[?2004lbash: cd: project_1: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project[K[K[K[K[K[K[K[K[K[Krm project_1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ rm project_1[K2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ touch project1.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ touch project1.txt[C[1P.txt2.txt[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls
+[?2004lproject1.txt  project2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004lbash: cd: project1: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd project1
+[?2004lbash: cd: project1: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd ~/project1
+[?2004lbash: cd: /home/ibab/project1: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projecta[Ks
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ rm project1.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ rm project1.txt[C[1P.txt2.txt[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ mkdir project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ mkdie[Kr project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls
+[?2004l[0m[01;34mproject1[0m  [01;34mproject2[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ touch file1.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ ls
+[?2004lfile1.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd projects
+[?2004lbash: cd: projects: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd..[K[K ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ touch file2.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004lfile2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd[K[Kmv file1.txt ~/project2
+[?2004lmv: cannot stat 'file1.txt': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ mv project[K[K[K[K[K[K[Kfile1.txt ~/project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004lfile2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ mv file1.txt ~/project2
+[?2004lmv: cannot stat 'file1.txt': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ mv file1.txt ~/project2
+[?2004lmv: cannot stat 'file1.txt': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ mv file1.txt ~/project2
+[?2004lmv: cannot stat 'file1.txt': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ mv file1.txt ~/project2[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004lfile2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ ls
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ touch pro[K[K[Kfile1.tc[Kxt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ ls
+[?2004lfile1.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ mv file1.txt /..
+[?2004lmv: cannot stat 'file1.txt': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ mv ../ file1.txt
+[?2004lmv: cannot move '../' to 'file1.txt': Device or resource busy
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ mv file1[K[K[K[K[K../ file1.txt
+[?2004lmv: cannot move '../' to 'file1.txt': Device or resource busy
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ mv file1.txt /pr[K[K[K~/projects/projects[K2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd ../project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004lfile1.txt  file2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mtouch ~/projects/project1/absolute1.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch ~/projects/project1/absolute1.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ touch ~/projects/project1/absolute1.txt[1P.txt2.txt[C[1P/absolute2.txt2/absolute2.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mmv ~/projects/project1/absolute1.txt ~/projects/project2/[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv ~/projects/project1/absolute1.txt ~/projects/project2/
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd project1
+[?2004lbash: cd: project1: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ ls
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004labsolute1.txt  absolute2.txt  file1.txt  file2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mrm ~/projects/project2/absolute1.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm ~/projects/project2/absolute1.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mrm ~/projects/project2/absolute2.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm ~/projects/project2/absolute2.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ ls
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project1[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd project1[K2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004lfile1.txt  file2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd ..
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd `[K~/projects/project2
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ ls
+[?2004lfile1.txt  file2.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/project2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/project2[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-01 14:47:15+05:30 [COMMAND_EXIT_CODE="0"]
