@@ -1,60 +1,0 @@
-Script started on 2024-08-01 14:04:01+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head -n 10/sequence.txt
-[?2004lhead: invalid number of lines: ‘10/sequence.txt’
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head -n 10/sequence.txt[1P/sequence.txt0/sequence.txt[C[1Psequence.txt sequence.txt
-[?2004lhead: cannot open 'sequence.txt' for reading: No such file or directory
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head -n 10 sequence.txt/ sequence.txt[1P sequence.txt[C/sequence.txt[C[C[C[C[C[C[C[C[C[C[C[C
-[?2004lhead: cannot open '/sequence.txt' for reading: No such file or directory
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ head -n 10 /sequence.txt[C[1Psequence.txt[C[C[C[C[C[C[C[C[C[C[C[C
-[?2004lhead: cannot open 'sequence.txt' for reading: No such file or directory
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd d[KDownloads
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Downloads[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Downloads[00m$ head -n 10 sequence.txt
-[?2004l>Feature emb|FXLY01000002.1|
-770	>3	gene
-			locus_tag	KASA_0Q00001G
-770	>3	mRNA
-			product	hypothetical protein, no similarity (partial)
-770	>3	CDS
-			product	hypothetical protein, no similarity (partial)
-			protein_id	emb|SMN17669.1||gnl|WGS:FXLY|SMN17669
-			note	annotator: Serge Casaregola (CIRM-Levures, Micalis, INRA)
-4410	4685	gene
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Downloads[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Downloads[00m$ head -n 10 sequence.txt[C[C[1P[1P[1P[1P[1@t[1@a[1@i[1@l[C[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[?2004l			product	similar to Saccharomyces cerevisiae YHL009C YAP3 Basic leucine zipper (bZIP) transcription factor
-2958656	2957652	CDS
-			product	similar to Saccharomyces cerevisiae YHL009C YAP3 Basic leucine zipper (bZIP) transcription factor
-			protein_id	emb|SMN18891.1||gnl|WGS:FXLY|SMN18891
-2959567	2959652	gene
-			locus_tag	KASA_0Q14503T
-2959567	2959652	mobile_element
-			mobile_element_type	retrotransposon
-			rpt_family	Putative Ty Long Terminal Repeat
-
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Downloads[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Downloads[00m$ tail  -n 10 sequence.txt[1P[1P[1P[C[1P[1@h[1@e[1@a[1@d[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[?2004l>Feature emb|FXLY01000002.1|
-770	>3	gene
-			locus_tag	KASA_0Q00001G
-770	>3	mRNA
-			product	hypothetical protein, no similarity (partial)
-770	>3	CDS
-			product	hypothetical protein, no similarity (partial)
-			protein_id	emb|SMN17669.1||gnl|WGS:FXLY|SMN17669
-			note	annotator: Serge Casaregola (CIRM-Levures, Micalis, INRA)
-4410	4685	gene
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Downloads[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Downloads[00m$ head  -n 10 sequence.txt[1P[C[1P sequence.txt5 sequence.txt[C[C[C[C[C[C[C[C[C[C[C[C[C
-[?2004l>Feature emb|FXLY01000002.1|
-770	>3	gene
-			locus_tag	KASA_0Q00001G
-770	>3	mRNA
-			product	hypothetical protein, no similarity (partial)
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Downloads[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Downloads[00m$ head  -n 5 sequence.txt[C[1P[1P[1P[1P[1@t[1@a[1@i[1@l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[?2004l			locus_tag	KASA_0Q14503T
-2959567	2959652	mobile_element
-			mobile_element_type	retrotransposon
-			rpt_family	Putative Ty Long Terminal Repeat
-
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Downloads[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Downloads[00m$ cd
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
-[?2004lexit
-
-Script done on 2024-08-01 14:10:47+05:30 [COMMAND_EXIT_CODE="0"]
