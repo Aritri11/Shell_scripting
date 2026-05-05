@@ -1,33 +1,0 @@
-Script started on 2024-08-01 14:51:27+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir -p ~projects/nested/dir1/dir2/dir3
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls -lh
-[?2004ltotal 8.0K
-drwxrwxr-x 2 ibab ibab 4.0K Aug  1 14:43 [0m[01;34mproject1[0m
-drwxrwxr-x 2 ibab ibab 4.0K Aug  1 14:45 [01;34mproject2[0m
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd nested/dir1/dir2/dir3
-[?2004lbash: cd: nested/dir1/dir2/dir3: No such file or directory
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir -p ~/projects/nested/dir1/dir2/dir3
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd projects
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls -lh
-[?2004ltotal 12K
-drwxrwxr-x 3 ibab ibab 4.0K Aug  1 14:58 [0m[01;34mnested[0m
-drwxrwxr-x 2 ibab ibab 4.0K Aug  1 14:43 [01;34mproject1[0m
-drwxrwxr-x 2 ibab ibab 4.0K Aug  1 14:45 [01;34mproject2[0m
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd nested/dir1/dir2/dir3
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/nested/dir1/dir2/dir3[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/nested/dir1/dir2/dir3[00m$ ls
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/nested/dir1/dir2/dir3[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/nested/dir1/dir2/dir3[00m$ cd.[K ..
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/nested/dir1/dir2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/nested/dir1/dir2[00m$ cd projects
-[?2004lbash: cd: projects: No such file or directory
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/nested/dir1/dir2[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/nested/dir1/dir2[00m$ cd ..
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/nested/dir1[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/nested/dir1[00m$ cd ..
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects/nested[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects/nested[00m$ cd ..
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ rm -r ~/projects/nested
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ ls
-[?2004l[0m[01;34mproject1[0m  [01;34mproject2[0m
-[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/projects[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/projects[00m$ cd
-[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
-[?2004lexit
-
-Script done on 2024-08-01 15:01:39+05:30 [COMMAND_EXIT_CODE="0"]
