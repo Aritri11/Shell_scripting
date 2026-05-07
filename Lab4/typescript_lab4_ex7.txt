@@ -1,0 +1,19 @@
+Script started on 2024-08-05 16:04:08+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ p[Kechp[Ko $PS1
+[?2004l\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ T[Kecho $PS1> FILE.TXT[K[K[K[K[K[K[K[Kfile.txt[1@ [1P[C[1@ [1P[C[C[C[C[C[C[C[1@ [C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat file.txt
+[?2004l\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo [K[K[K[K[Kc[Kexport $PS1=Aritri
+[?2004lbash: export: `\[\e]0;\u@\h:': not a valid identifier
+bash: export: `\w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$': not a valid identifier
+bash: export: `=Aritri': not a valid identifier
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ export $PS1=Aritri[C[1PPS1=Aritri[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004hAritri
+[?2004l[?2004hAritri
+[?2004l[?2004hAritri export Aritri=`file.txt`cfile.txt`afile.txt`tfile.txt` file.txt`[C[C[C[C[C[C[C[C[C
+[?2004l[?2004hAritri export PS1=Aritri[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K export PS1=`cat file.txt`
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$exit
+[?2004lexit
+
+Script done on 2024-08-05 16:11:07+05:30 [COMMAND_EXIT_CODE="0"]

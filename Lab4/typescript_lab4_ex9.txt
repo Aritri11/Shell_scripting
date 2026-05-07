@@ -1,0 +1,8 @@
+Script started on 2024-08-05 16:33:29+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ [7mexport NOW=`date`[27m[1Pexport NOW=`date`
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ echo $NOW
+[?2004lMon Aug 5 04:34:23 PM IST 2024
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-05 16:35:04+05:30 [COMMAND_EXIT_CODE="0"]

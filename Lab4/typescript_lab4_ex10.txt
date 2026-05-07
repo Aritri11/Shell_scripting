@@ -1,0 +1,154 @@
+Script started on 2024-08-05 16:35:34+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd Lab4
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ ls
+[?2004ltypescript_lab4_ex10.txt  typescript_lab4_ex2.txt  typescript_lab4_ex4.txt  typescript_lab4_ex6.txt  typescript_lab4_ex8.txt
+typescript_lab4_ex1.txt   typescript_lab4_ex3.txt  typescript_lab4_ex5.txt  typescript_lab4_ex7.txt  typescript_lab4_ex9.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ export ls >filelist.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat filelist.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat filelist.txtexport ls >filelist.txt filelist.txt[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ export ls > filelist.txt[8Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat filelist.txt[8@export ls >[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat filelist.txt
+[?2004lfilelist.txt
+typescript_lab4_ex10.txt
+typescript_lab4_ex1.txt
+typescript_lab4_ex2.txt
+typescript_lab4_ex3.txt
+typescript_lab4_ex4.txt
+typescript_lab4_ex5.txt
+typescript_lab4_ex6.txt
+typescript_lab4_ex7.txt
+typescript_lab4_ex8.txt
+typescript_lab4_ex9.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ lscpu > cpu.info.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat cpu_info.txt
+[?2004lcat: cpu_info.txt: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat cpu_info.txt[1Pinfo.txt.info.txt[C[C[C[C[C[C[C[C
+[?2004lArchitecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        46 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               12
+On-line CPU(s) list:                  0-11
+Vendor ID:                            GenuineIntel
+Model name:                           12th Gen Intel(R) Core(TM) i5-12500
+CPU family:                           6
+Model:                                151
+Thread(s) per core:                   2
+Core(s) per socket:                   6
+Socket(s):                            1
+Stepping:                             5
+CPU(s) scaling MHz:                   17%
+CPU max MHz:                          4600.0000
+CPU min MHz:                          800.0000
+BogoMIPS:                             5990.40
+Flags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves split_lock_detect user_shstk avx_vnni dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp hwp_pkg_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq tme rdpid movdiri movdir64b fsrm md_clear serialize pconfig arch_lbr ibt flush_l1d arch_capabilities
+Virtualization:                       VT-x
+L1d cache:                            288 KiB (6 instances)
+L1i cache:                            192 KiB (6 instances)
+L2 cache:                             7.5 MiB (6 instances)
+L3 cache:                             18 MiB (1 instance)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0-11
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Not affected
+Vulnerability Spec rstack overflow:   Not affected
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ [7mdu -h >> mem.txt[27m[1Pdu -h >> mem.tx[K[K[K[K[K[Kcpu.info.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ cat cpu.info.txt
+[?2004lArchitecture:                         x86_64
+CPU op-mode(s):                       32-bit, 64-bit
+Address sizes:                        46 bits physical, 48 bits virtual
+Byte Order:                           Little Endian
+CPU(s):                               12
+On-line CPU(s) list:                  0-11
+Vendor ID:                            GenuineIntel
+Model name:                           12th Gen Intel(R) Core(TM) i5-12500
+CPU family:                           6
+Model:                                151
+Thread(s) per core:                   2
+Core(s) per socket:                   6
+Socket(s):                            1
+Stepping:                             5
+CPU(s) scaling MHz:                   17%
+CPU max MHz:                          4600.0000
+CPU min MHz:                          800.0000
+BogoMIPS:                             5990.40
+Flags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves split_lock_detect user_shstk avx_vnni dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp hwp_pkg_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq tme rdpid movdiri movdir64b fsrm md_clear serialize pconfig arch_lbr ibt flush_l1d arch_capabilities
+Virtualization:                       VT-x
+L1d cache:                            288 KiB (6 instances)
+L1i cache:                            192 KiB (6 instances)
+L2 cache:                             7.5 MiB (6 instances)
+L3 cache:                             18 MiB (1 instance)
+NUMA node(s):                         1
+NUMA node0 CPU(s):                    0-11
+Vulnerability Gather data sampling:   Not affected
+Vulnerability Itlb multihit:          Not affected
+Vulnerability L1tf:                   Not affected
+Vulnerability Mds:                    Not affected
+Vulnerability Meltdown:               Not affected
+Vulnerability Mmio stale data:        Not affected
+Vulnerability Reg file data sampling: Not affected
+Vulnerability Retbleed:               Not affected
+Vulnerability Spec rstack overflow:   Not affected
+Vulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl
+Vulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:             Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S
+Vulnerability Srbds:                  Not affected
+Vulnerability Tsx async abort:        Not affected
+132K	.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ ls
+[?2004lcpu.info.txt  typescript_lab4_ex10.txt  typescript_lab4_ex2.txt  typescript_lab4_ex4.txt  typescript_lab4_ex6.txt  typescript_lab4_ex8.txt
+filelist.txt  typescript_lab4_ex1.txt   typescript_lab4_ex3.txt  typescript_lab4_ex5.txt  typescript_lab4_ex7.txt  typescript_lab4_ex9.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ ls -lh
+[?2004ltotal 132K
+-rw-rw-r-- 1 ibab ibab 3.1K Aug  5 16:46 cpu.info.txt
+-rw-rw-r-- 1 ibab ibab  254 Aug  5 16:43 filelist.txt
+-rw-rw-r-- 1 ibab ibab 8.0K Aug  5 16:46 typescript_lab4_ex10.txt
+-rw-rw-r-- 1 ibab ibab 4.9K Aug  5 14:12 typescript_lab4_ex1.txt
+-rw-rw-r-- 1 ibab ibab  15K Aug  5 14:58 typescript_lab4_ex2.txt
+-rw-rw-r-- 1 ibab ibab 1.4K Aug  5 15:05 typescript_lab4_ex3.txt
+-rw-rw-r-- 1 ibab ibab  557 Aug  5 15:13 typescript_lab4_ex4.txt
+-rw-rw-r-- 1 ibab ibab  14K Aug  5 15:23 typescript_lab4_ex5.txt
+-rw-rw-r-- 1 ibab ibab  26K Aug  5 15:44 typescript_lab4_ex6.txt
+-rw-rw-r-- 1 ibab ibab 2.0K Aug  5 16:11 typescript_lab4_ex7.txt
+-rw-rw-r-- 1 ibab ibab  27K Aug  5 16:31 typescript_lab4_ex8.txt
+-rw-rw-r-- 1 ibab ibab  636 Aug  5 16:35 typescript_lab4_ex9.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ zip Lab4_Aritri. ~/[1@-[1@r[1@ [C[C[C[C[C[C[C[C[C[C[C[1@z[1@i[1P[1P[Cz ~/i ~/p ~/[C[1P~/[C[1P/[C /[C[K./*
+[?2004l  adding: cpu.info.txt (deflated 59%)
+  adding: filelist.txt (deflated 75%)
+  adding: typescript_lab4_ex10.txt (deflated 78%)
+  adding: typescript_lab4_ex1.txt (deflated 65%)
+  adding: typescript_lab4_ex2.txt (deflated 82%)
+  adding: typescript_lab4_ex3.txt (deflated 75%)
+  adding: typescript_lab4_ex4.txt (deflated 55%)
+  adding: typescript_lab4_ex5.txt (deflated 93%)
+  adding: typescript_lab4_ex6.txt (deflated 87%)
+  adding: typescript_lab4_ex7.txt (deflated 75%)
+  adding: typescript_lab4_ex8.txt (deflated 89%)
+  adding: typescript_lab4_ex9.txt (deflated 54%)
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab4[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab4[00m$ ls -lh
+[?2004ltotal 152K
+-rw-rw-r-- 1 ibab ibab 3.1K Aug  5 16:46 cpu.info.txt
+-rw-rw-r-- 1 ibab ibab  254 Aug  5 16:43 filelist.txt
+-rw-rw-r-- 1 ibab ibab  18K Aug  5 16:50 [0m[01;31mLab4_Aritri.zip[0m
+-rw-rw-r-- 1 ibab ibab 8.0K Aug  5 16:46 typescript_lab4_ex10.txt
+-rw-rw-r-- 1 ibab ibab 4.9K Aug  5 14:12 typescript_lab4_ex1.txt
+-rw-rw-r-- 1 ibab ibab  15K Aug  5 14:58 typescript_lab4_ex2.txt
+-rw-rw-r-- 1 ibab ibab 1.4K Aug  5 15:05 typescript_lab4_ex3.txt
+-rw-rw-r-- 1 ibab ibab  557 Aug  5 15:13 typescript_lab4_ex4.txt
+-rw-rw-r-- 1 ibab ibab  14K Aug  5 15:23 typescript_lab4_ex5.txt
+-rw-rw-r-- 1 ibab ibab  26K Aug  5 15:44 typescript_lab4_ex6.txt
+-rw-rw-r-- 1 ibab ibab 2.0K Aug  5 16:11 typescript_lab4_ex7.txt
+-rw-rw-r-

@@ -1,0 +1,384 @@
+Script started on 2024-08-05 14:50:50+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ export MY_VAR=
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ export MY_VAR[K[K[K[K[K[K[K[K[K[K[K[K[KEXIT[K[K[K[Kexport MY_VAR=HELLO EVERYONE
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ECHO[K[K[K[Kecho $MY_VAR
+[?2004lHELLO
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ export my_var[K[K[K[K[K[K[K[K[K[K[K[K[Kecho $MY_VARxport MY_VAR=HELLO EVERYONE[1@"[C[C[C[C[C[C[C[C[C[C[C[C[C[C"
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo $MY_VAR
+[?2004lHELLO EVERYONE
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ vi .bashrc
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;45r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[45;1H".bashrc" 118 lines, 3783 bytes[1;1H# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+case $- in
+    *i*) ;;[8;7H*) return;;
+esac
+
+# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options
+HISTCONTROL=ignoreboth
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)
+if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+    debian_chroot=$(cat /etc/debian_chroot)
+fi
+
+# set a fancy prompt (non-color, unless we know we "want" color)
+case "$TERM" in
+    xterm-color|*-256color) color_prompt=yes;;
+esac
+
+# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window[1;1H[?25h[?4m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l[1;44r[44;1H
+[1;45r[44;1H# should be on the output of commands, not on the prompt[45;1H[K[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H#force_color_prompt=yes[?25h[?25l
+:[?25h;;;;;;;;;;[?25l[45;11H[K[45;11H[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[45;1H[K[45;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ vi .bashrc
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;45r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[45;1H".bashrc" 118 lines, 3783 bytes[1;1H# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+case $- in
+    *i*) ;;[8;7H*) return;;
+esac
+
+# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options
+HISTCONTROL=ignoreboth
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)
+if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+    debian_chroot=$(cat /etc/debian_chroot)
+fi
+
+# set a fancy prompt (non-color, unless we know we "want" color)
+case "$TERM" in
+    xterm-color|*-256color) color_prompt=yes;;
+esac
+
+# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window[1;1H[?25h[?4m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[?25l[1;44r[44;1H
+[1;45r[44;1H# should be on the output of commands, not on the prompt[45;1H[K[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H#force_color_prompt=yes[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hif [ -n "$force_color_prompt" ]; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Hif [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;9H# We have color support; assume it's compliant with Ecma-48[44;8H[?25h[?25l[1;44r[44;1H
+[1;45r[44;9H# (ISO/IEC-6429). (Lack of such support is extremely rare, and such[44;8H[?25h[?25l[1;44r[44;1H
+[1;45r[44;9H# a case would tend to support setf rather than setaf.)[44;8H[?25h[?25l[1;44r[44;1H
+[1;45r[44;9Hcolor_prompt=yes[44;8H[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Helse[?25h[?25l[1;44r[44;1H
+[1;45r[44;9Hcolor_prompt=[44;8H[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hif [ "$color_prompt" = yes ]; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;5HPS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Helse[?25h[?25l[1;44r[44;1H
+[1;45r[44;5HPS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hunset color_prompt force_color_prompt[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# If this is an xterm set the title to user@host:dir[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hcase "$TERM" in[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hxterm*|rxvt*)[?25h[?25l[1;44r[44;1H
+[1;45r[44;5HPS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H;;[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H*)[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H;;[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hesac[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# enable color support of ls and also add handy aliases[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hif [ -x /usr/bin/dircolors ]; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Htest -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Halias ls='ls --color=auto'[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H#alias dir='dir --color=auto'[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H#alias vdir='vdir --color=auto'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Halias grep='grep --color=auto'[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Halias fgrep='fgrep --color=auto'[?25h[?25l[1;44r[44;1H
+[1;45r[44;5Halias egrep='egrep --color=auto'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# colored GCC warnings and errors[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# some more ls aliases[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Halias ll='ls -alF'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Halias la='ls -A'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Halias l='ls -CF'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# Add an "alert" alias for long running commands.  Use like so:[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H#   sleep 10; alert[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Halias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# Alias definitions.[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# You may want to put all your additions into a separate file like[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# ~/.bash_aliases, instead of adding them here directly.[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# See /usr/share/doc/bash-doc/examples in the bash-doc package.[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hif [ -f ~/.bash_aliases ]; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H. ~/.bash_aliases[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# enable programmable completion features (you don't need to enable[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# this, if it's already enabled in /etc/bash.bashrc and /etc/profile[?25h[?25l[1;44r[44;1H
+[1;45r[44;1H# sources /etc/bash.bashrc).[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hif ! shopt -oq posix; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;3Hif [ -f /usr/share/bash-completion/bash_completion ]; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H. /usr/share/bash-completion/bash_completion[?25h[?25l[1;44r[44;1H
+[1;45r[44;3Helif [ -f /etc/bash_completion ]; then[?25h[?25l[1;44r[44;1H
+[1;45r[44;5H. /etc/bash_completion[?25h[?25l[1;44r[44;1H
+[1;45r[44;3Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1Hfi[?25h[?25l[1;44r[44;1H
+[1;45r[44;1HMY_VAR=test[?25h[?25l
+:[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[45;1H[K[45;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ source .bashrc
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat .bashrc
+[?2004l# ~/.bashrc: executed by bash(1) for non-login shells.
+# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+# for examples
+
+# If not running interactively, don't do anything
+case $- in
+    *i*) ;;
+      *) return;;
+esac
+
+# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options
+HISTCONTROL=ignoreboth
+
+# append to the history file, don't overwrite it
+shopt -s histappend
+
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+HISTSIZE=1000
+HISTFILESIZE=2000
+
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+shopt -s checkwinsize
+
+# If set, the pattern "**" used in a pathname expansion context will
+# match all files and zero or more directories and subdirectories.
+#shopt -s globstar
+
+# make less more friendly for non-text input files, see lesspipe(1)
+[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
+
+# set variable identifying the chroot you work in (used in the prompt below)
+if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+    debian_chroot=$(cat /etc/debian_chroot)
+fi
+
+# set a fancy prompt (non-color, unless we know we "want" color)
+case "$TERM" in
+    xterm-color|*-256color) color_prompt=yes;;
+esac
+
+# uncomment for a colored prompt, if the terminal has the capability; turned
+# off by default to not distract the user: the focus in a terminal window
+# should be on the output of commands, not on the prompt
+#force_color_prompt=yes
+
+if [ -n "$force_color_prompt" ]; then
+    if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
+	# We have color support; assume it's compliant with Ecma-48
+	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
+	# a case would tend to support setf rather than setaf.)
+	color_prompt=yes
+    else
+	color_prompt=
+    fi
+fi
+
+if [ "$color_prompt" = yes ]; then
+    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+else
+    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+fi
+unset color_prompt force_color_prompt
+
+# If this is an xterm set the title to user@host:dir
+case "$TERM" in
+xterm*|rxvt*)
+    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+    ;;
+*)
+    ;;
+esac
+
+# enable color support of ls and also add handy aliases
+if [ -x /usr/bin/dircolors ]; then
+    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+    alias ls='ls --color=auto'
+    #alias dir='dir --color=auto'
+    #alias vdir='vdir --color=auto'
+
+    alias grep='grep --color=auto'
+    alias fgrep='fgrep --color=auto'
+    alias egrep='egrep --color=auto'
+fi
+
+# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Add an "alert" alias for long running commands.  Use like so:
+#   sleep 10; alert
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if ! shopt -oq posix; then
+  if [ -f /usr/share/bash-completion/bash_completion ]; then
+    . /usr/share/bash-completion/bash_completion
+  elif [ -f /etc/bash_completion ]; then
+    . /etc/bash_completion
+  fi
+fi
+MY_VAR=test
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo $MY_VAR
+[?2004ltest
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-05 14:58:47+05:30 [COMMAND_EXIT_CODE="0"]
