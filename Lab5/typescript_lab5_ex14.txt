@@ -1,0 +1,16 @@
+Script started on 2024-08-08 16:58:16+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ [7mecho -e "Alice:30\nBob:25\nCharlie:35\nDaisy:28" > people.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "Alice:30\nBob:25\nCharlie:35\nDaisy:28" > people.txt[C[1P[1P[1P[1P[1P[1@R[1@o[1@n[1@i[1@t[1P[1P[1P[1P[1P[1P[C[1P[1@R[1@i[1@k[1P[1P[1P[1@R[1@i[1@t[1@u[1P[1P[1P[1P[1P[1@S[1@u[1@d[1@e[1@s[1@n[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat people.txt | cut -d"":"[C -f1
+[?2004lSudesna
+Ritu
+Rik
+Ronit
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat people.txt | cut -d":" -f1 | sort -r
+[?2004lSudesna
+Ronit
+Ritu
+Rik
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 17:01:18+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,27 @@
+Script started on 2024-08-08 15:29:03+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="184" LINES="43"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls | head -10
+[?2004laa1.txt
+aa.txt
+ab.txt
+backup
+bb.txt
+best_friends.txt
+bothfile.txt
+code
+data
+datafile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mecho -e "apple\nbanana\napple\norange\nbanana\napple" > fruits.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho -e "apple\nbanana\napple\norange\nbanana\napple" > fruits.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mcat fruits.txt | sort | uniq -c[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat fruits.txt | sort | uniq -c
+[?2004l      3 apple
+      2 banana
+      1 orange
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mecho -e "ERROR: Disk full\nINFO: User logged in\nERROR: Network down\nINFO:[27m
+[7mFile saved" > logfile.txt[27m[A]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo -e "ERROR: Disk full\nINFO: User logged in\nERROR: Network down\nINFO:
+[1PFile saved" > logfile.tx[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CFile saved" > logfile.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ grep ""E"r"[1P"R"R"O"R"[C logfile.txt | wc -l
+[?2004l2
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 15:36:44+05:30 [COMMAND_EXIT_CODE="0"]

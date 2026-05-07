@@ -1,0 +1,20 @@
+Script started on 2024-08-08 15:24:33+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="184" LINES="43"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ ls
+[?2004lerror.txt  output.txt  typescript_lab5_ex10.txt  typescript_lab5_ex2.txt  typescript_lab5_ex4.txt  typescript_lab5_ex6.txt  typescript_lab5_ex8.txt
+log.txt    sample.txt  typescript_lab5_ex1.txt   typescript_lab5_ex3.txt  typescript_lab5_ex5.txt  typescript_lab5_ex7.txt  typescript_lab5_ex9.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls
+[?2004l aa1.txt            bothfile.txt   [0m[01;34mDownloads[0m      file_list.txt     hlb.text   [01;34mMusic[0m                    ownerfile.txt   [01;32mproject.txt[0m   [01;34msnap[0m                 [01;34mtest[0m
+ [01;32maa.txt[0m             [01;34mcode[0m           [01;34mexercise_dir[0m   file.txt          [01;34mlab1[0m       [01;34mmydir[0m                    [01;34mPictures[0m        [01;34mPublic[0m        [01;34msoftware[0m             [01;34mtest2[0m
+ ab.txt             [01;34mdata[0m           exercise.txt   fl.txt            [01;34mLAB2[0m       [01;31mnewfile.txt.gz[0m           program.sh      R_names.txt   sorted_numbers.txt   [01;34mtest-dir[0m
+ [01;34mbackup[0m             datafile.txt   file1          friends_dup.txt   [01;34mLab3[0m       numbers.txt              project2        [01;32mscript.sh[0m     [01;34msource[0m               [01;34mVideos[0m
+ bb.txt             [01;34mDesktop[0m        file2          [01;34mgroupdir[0m          [01;34mLab4[0m       one.txt                 [01;34m'~projects'[0m      secret.txt    [01;34mtar_test[0m
+ best_friends.txt   [01;34mDocuments[0m      file3          groupfile.txt     [01;34mLab5[0m       other_best_friends.txt   [01;34mprojects[0m        [40;31;01msfl.txt[0m       [01;34mTemplates[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ grep friends[K[K[K[K[K[K[K[K[K[K[K[Kls > [K[K| grep friends
+[?2004lbest_[01;31m[Kfriends[m[K.txt
+[01;31m[Kfriends[m[K_dup.txt
+other_best_[01;31m[Kfriends[m[K.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 15:28:38+05:30 [COMMAND_EXIT_CODE="0"]

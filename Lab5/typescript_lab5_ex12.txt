@@ -1,0 +1,21 @@
+Script started on 2024-08-08 15:37:18+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="184" LINES="43"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ [K]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ echo -e ""n"a"m"e","a"g"e","c"i"t"y"\"n"A"r"i"t"r"i","2"2","B"a"n"g"a"l"o"r"e"\"n"R"o"n"i"t","2"2","K"o"l"k"a"t"a"\"n"M"a"h"i"m"a","2"3","D"E"l"h"i"[1Plhi"elhi"[C[C[C[C>[K > data.csv
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat data.csv
+[?2004lname,age,city
+Aritri,22,Bangalore
+Ronit,22,Kolkata
+Mahima,23,Delhi
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat data.csv | cut -d'','[C -f1
+[?2004lname
+Aritri
+Ronit
+Mahima
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat data.csv | cut -d',' -f1[K2 | sort -n
+[?2004lage
+22
+22
+23
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 15:44:26+05:30 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,2 @@
+After doing cat error.txt and cat output.txt the shows the copied text after running the redirection command.
+For exercise7,There is no change in output even after changing the name of the file from friends to friends-dup in case of hard link. For the symbolic link, the new name is not added to the previous list and after changing the name from friends to fiends-dup the cat of sfl.txt says no file or directory which means that changing name of file affects the symbolic link and it becomes non existant.
