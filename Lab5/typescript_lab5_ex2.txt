@@ -1,0 +1,173 @@
+Script started on 2024-08-08 14:08:51+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls
+[?2004l aa1.txt   bb.txt         datafile.txt   [0m[01;34mexercise_dir[0m   file3         groupfile.txt   [01;34mLab3[0m    [01;34mmydir[0m            [01;34mPictures[0m     [01;34mprojects[0m      secret.txt   [01;34mtar_test[0m    [01;34mtest-dir[0m
+ [01;32maa.txt[0m    bothfile.txt   [01;34mDesktop[0m        exercise.txt   file.txt      hlb.text        [01;34mLab4[0m    [01;31mnewfile.txt.gz[0m   program.sh   [01;32mproject.txt[0m   [01;34msnap[0m         [01;34mTemplates[0m   [01;34mVideos[0m
+ ab.txt    [01;34mcode[0m           [01;34mDocuments[0m      file1          friends.txt   [01;34mlab1[0m            [01;34mLab5[0m    one.txt          project2     [01;34mPublic[0m        [01;34msoftware[0m     [01;34mtest[0m
+ [01;34mbackup[0m    [01;34mdata[0m           [01;34mDownloads[0m      file2          [01;34mgroupdir[0m      [01;34mLAB2[0m            [01;34mMusic[0m   ownerfile.txt   [01;34m'~projects'[0m   [01;32mscript.sh[0m     [01;34msource[0m       [01;34mtest2[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo ls > file_list.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd fil[K[K[K[K[K[Kcat file_list.txt
+[?2004lls
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls > file_list.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat file_list.txt
+[?2004laa1.txt
+aa.txt
+ab.txt
+backup
+bb.txt
+bothfile.txt
+code
+data
+datafile.txt
+Desktop
+Documents
+Downloads
+exercise_dir
+exercise.txt
+file1
+file2
+file3
+file_list.txt
+file.txt
+friends.txt
+groupdir
+groupfile.txt
+hlb.text
+lab1
+LAB2
+Lab3
+Lab4
+Lab5
+Music
+mydir
+newfile.txt.gz
+one.txt
+ownerfile.txt
+Pictures
+program.sh
+project2
+~projects
+projects
+project.txt
+Public
+script.sh
+secret.txt
+snap
+software
+source
+tar_test
+Templates
+test
+test2
+test-dir
+Videos
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ sort file_list.txt
+[?2004laa1.txt
+aa.txt
+ab.txt
+backup
+bb.txt
+bothfile.txt
+code
+data
+datafile.txt
+Desktop
+Documents
+Downloads
+exercise_dir
+exercise.txt
+file1
+file2
+file3
+file_list.txt
+file.txt
+friends.txt
+groupdir
+groupfile.txt
+hlb.text
+lab1
+LAB2
+Lab3
+Lab4
+Lab5
+Music
+mydir
+newfile.txt.gz
+one.txt
+ownerfile.txt
+Pictures
+program.sh
+project2
+~projects
+projects
+project.txt
+Public
+script.sh
+secret.txt
+snap
+software
+source
+tar_test
+Templates
+test
+test2
+test-dir
+Videos
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ sort file_list.txt[1P file_list.txt[1P file_list.txt[1P file_list.txt[1P file_list.txtc file_list.txta file_list.txtt file_list.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004laa1.txt
+aa.txt
+ab.txt
+backup
+bb.txt
+bothfile.txt
+code
+data
+datafile.txt
+Desktop
+Documents
+Downloads
+exercise_dir
+exercise.txt
+file1
+file2
+file3
+file_list.txt
+file.txt
+friends.txt
+groupdir
+groupfile.txt
+hlb.text
+lab1
+LAB2
+Lab3
+Lab4
+Lab5
+Music
+mydir
+newfile.txt.gz
+one.txt
+ownerfile.txt
+Pictures
+program.sh
+project2
+~projects
+projects
+project.txt
+Public
+script.sh
+secret.txt
+snap
+software
+source
+tar_test
+Templates
+test
+test2
+test-dir
+Videos
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat file_list.txt[1P file_list.txt[1P file_list.txt[1P file_list.txtw file_list.txtc file_list.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l 51  51 440 file_list.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 14:25:01+05:30 [COMMAND_EXIT_CODE="0"]
