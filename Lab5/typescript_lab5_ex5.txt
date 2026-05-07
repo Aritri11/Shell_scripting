@@ -1,0 +1,17 @@
+Script started on 2024-08-08 14:32:59+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ ls exix[K[Ksting
+[?2004lls: cannot access 'exsting': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ ls exsting &> error.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat error.txt
+[?2004lls: cannot access 'exsting': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ ls non
+[?2004lls: cannot access 'non': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ ls non &> output.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat output.txt
+[?2004lls: cannot access 'non': No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat error_output.txt
+[?2004lcat: error_output.txt: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 14:39:05+05:30 [COMMAND_EXIT_CODE="1"]

@@ -1,0 +1,44 @@
+Script started on 2024-08-08 14:43:09+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ln friends.txt fl.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls -l fl.txt
+[?2004l-rw-rw-r-- 2 ibab ibab 25 Aug  8 14:02 fl.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo ""V"e"d"a"[C>> friem[Knds.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat fl.txt
+[?2004lArushi
+Khusbu
+Taneja
+Ari
+Veda
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mv friends.txt friends_dup.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mv friends.txt friends_dup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcat fl.txt
+[?2004lArushi
+Khusbu
+Taneja
+Ari
+Veda
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ln -s friends_dup.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat fl.txtmv friends.txt friends_dup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcat fl.txtecho "Veda">> friends.txt[13Pls -l fl.txt[9@n friends.txt[C[C[C[C[C[C[Ccd[K[K[Kcat friends_dup.txt
+[?2004lArushi
+Khusbu
+Taneja
+Ari
+Veda
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat fl.txt
+[?2004lArushi
+Khusbu
+Taneja
+Ari
+Veda
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ln -s friends.txt sfl.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ ls -l sfl.txt
+[?2004llrwxrwxrwx 1 ibab ibab 11 Aug  8 14:58 [0m[40;31;01msfl.txt[0m -> [40;31;01mfriends.txt[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ echo ""P"r"i"y"a"[C>> friends.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat sfl.txt
+[?2004lPriya
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cat sfl.txtecho "Priya">> friends.txt[13Pls -l sfl.txt[12@n -s friends.txt[C[C[C[C[C[C[C[C[15Pcat fl.txtriends_dup.txt[9Pl.txtmv friends.txt friends_dup.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mv friends.txt friends_dup.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pcat sfl.txt
+[?2004lcat: sfl.txt: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 15:00:36+05:30 [COMMAND_EXIT_CODE="1"]

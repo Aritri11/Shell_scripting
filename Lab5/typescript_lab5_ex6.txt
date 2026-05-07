@@ -1,0 +1,12 @@
+Script started on 2024-08-08 14:39:41+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ echo ""T"h"i"s" "i"s" "a" "f"i"l"e" "c"r"e"a"t"e"d" "f"r"o"m" "c"o"m"m"a"n"d" "l"i"n"e"." "T"h"i"s" "i"s" "t"o" "t"e"s"t" "r"e"d"i"c"[1P"r"e"c"t"i"o"n"."[C > sample.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ cat sample.txt
+[?2004lThis is a file created from command line. This is to test redirection.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ echo ""A"d"d"i"n"g" "m"o"r"e" "c"o"n"t"e"n"t"s" "t"o" "t"h"e" "f"i"l"e"."[C>> sample.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ echo "Adding more contents to the file.">> sample.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat sample.txt[K
+[?2004lThis is a file created from command line. This is to test redirection.
+Adding more contents to the file.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab5[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab5[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-08 14:42:51+05:30 [COMMAND_EXIT_CODE="0"]
