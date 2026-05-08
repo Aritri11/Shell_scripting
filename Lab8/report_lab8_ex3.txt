@@ -1,0 +1,21 @@
+#pseudocode for checking prime numbers
+prime_num ( int i)
+{
+int n=get_value_from_user ()
+if(n==1)
+{
+	return "unique number"
+}
+else
+{
+	for (i=2 to i<n and i=i+1)
+	{
+	if (n%i==0)
+	return "Prime number"
+	}
+	else
+	{
+	return "Not prime number"
+	}
+}
+}
