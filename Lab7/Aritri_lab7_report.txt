@@ -1,0 +1,10 @@
+Exercise 3:
+a. If we entered directory name as input in directory column then it displayed "exists".
+If we entered file name as input in file column then it displayed "exists".
+If we entered file name as input in directory column then it displayed "Not exists".
+If we entered directory name as input in file column then it displayed "exists".
+b. If we entered directory name as input and provide -f then it displayed "Not exists".
+
+Exercise 5:
+a. With only cp command if the directory contains both empty files and directories then only the files are copied and not the directories.
+b. With only cp -r command if the directory contains both files and directories then all the files are copied along with the directories.
