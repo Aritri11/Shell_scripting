@@ -1,0 +1,137 @@
+Script started on 2024-08-12 14:53:58+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ touch resume_JS.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ vi resu[K[K[K[K[K[K[Kopen[K[K[K[Kvi resume_JS.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;45r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[45;1H"resume_JS.txt" 0 lines, 0 bytes[2;1H[94m~                                                                                                                                                                                       [3;1H~                                                                                                                                                                                       [4;1H~                                                                                                                                                                                       [5;1H~                                                                                                                                                                                       [6;1H~                                                                                                                                                                                       [7;1H~                                                                                                                                                                                       [8;1H~                                                                                                                                                                                       [9;1H~                                                                                                                                                                                       [10;1H~                                                                                                                                                                                       [11;1H~                                                                                                                                                                                       [12;1H~                                                                                                                                                                                       [13;1H~                                                                                                                                                                                       [14;1H~                                                                                                                                                                                       [15;1H~                                                                                                                                                                                       [16;1H~                                                                                                                                                                                       [17;1H~                                                                                                                                                                                       [18;1H~                                                                                                                                                                                       [19;1H~                                                                                                                                                                                       [20;1H~                                                                                                                                                                                       [21;1H~                                                                                                                                                                                       [22;1H~                                                                                                                                                                                       [23;1H~                                                                                                                                                                                       [24;1H~                                                                                                                                                                                       [25;1H~                                                                                                                                                                                       [26;1H~                                                                                                                                                                                       [27;1H~                                                                                                                                                                                       [28;1H~                                                                                                                                                                                       [29;1H~                                                                                                                                                                                       [30;1H~                                                                                                                                                                                       [31;1H~                                                                                                                                                                                       [32;1H~                                                                                                                                                                                       [33;1H~                                                                                                                                                                                       [34;1H~                                                                                                                                                                                       [35;1H~                                                                                                                                                                                       [36;1H~                                                                                                                                                                                       [37;1H~                                                                                                                                                                                       [38;1H~                                                                                                                                                                                       [39;1H~                                                                                                                                                                                       [40;1H~                                                                                                                                                                                       [41;1H~                                                                                                                                                                                       [42;1H~                                                                                                                                                                                       [43;1H~                                                                                                                                                                                       [44;1H~                                                                                                                                                                                       [1;1H[?25h[?4m[?2004l[>4;m[?25l[mN[?25h[?25la[?25h[?25lm[?25h[?25le[?25h[?25l:[?25h[?25l [?25h[?25lJ[?25h[?25la[?25h[?25ln[?25h[?25le[?25h[?25l [?25h[?25lS[?25h[?25lm[?25h[?25li[?25h[?25lt[?25h[?25lh[?25h[?25l[2;1H[K[2;1H[?25h[?25lE[?25h[?25lm[?25h[?25la[?25h[?25li[?25h[?25ll[?25h[?25l:[?25h[?25l [?25h[?25lj[?25h[?25la[?25h[?25ln[?25h[?25le[?25h[?25l.[?25h[?25ls[?25h[?25lm[?25h[?25li[?25h[?25lt[?25h[?25lh[?25h[?25l@[?25h[?25le[?25h[?25lm[?25h[?25la[?25h[?25li[?25h[?25ll[?25h[?25l.[?25h[?25lc[?25h[?25lo[?25h[?25lm[?25h[?25l[3;1H[K[3;1H[?25h[?25lP[?25h[?25lh[?25h[?25lo[?25h[?25ln[?25h[?25le[?25h[?25l:[?25h[?25l [?25h[?25l([?25h[?25l)[?25h[?2004h[>4;2m[?2004l[>4;m[?25l[3;44r[3;1H[L[1;45r[3;1HD[45;1H[K[3;2H[?4m[?25h[?25l[?25h[?2004h[>4;2m[?25l[3;1H[K[3;1H[?25h[?4m[?25l[3;44r[44;1H
+[1;45r[44;1H[94m~                                                                                                                                                                                       [3;1H[?25h[?2004l[>4;m[?2004h[>4;2m[?2004l[>4;m[?25l[3;44r[m[3;1H[L[1;45r[3;1HC[?4m[?25h[?25l[?25h[?2004h[>4;2m[?25l[3;1H[K[3;1H[?25h[?4m[?25l[3;44r[44;1H
+[1;45r[44;1H[94m~                                                                                                                                                                                       [3;1H[?25h[mPhone: ([?2004l[>4;m[?25l1)[?25h[?25l2)[?25h[?25l3)[?25h[?2004h[>4;2m[?4m[?2004l[>4;m3[?2004h[>4;2m[?4m[?2004l[>4;m3[?25la)[?25h[?25l[?25h[?2004h[>4;2m[?25l)[3;13H[K[3;11H[?25h[?4m[?2004l[>4;m3[?2004h[>4;2m[?4m[?2004l[>4;m3[?25la)[?25h[?25l[?25h[?2004h[>4;2m[?25l)[3;13H[K[3;11H[?25h[?4m3[?2004l[>4;m)[?25li[?25h[?25l[?25h[?2004h[>4;2m[?25l[3;13H[K[3;12H[?25h[?4m[?2004l[>4;m)[?25li[?25h[?25l[?25h[?25l4[?25h[?25l5[?25h[?25l6[?25h[?25l-[?25h[?25l7[?25h[?25l8[?25h[?25l9[?25h[?25l0[?25h[?25l[4;1H[K[4;1H[?25h[?2004h[>4;2m[?4m[?25l[45;1H:[?25hwq[?25l[?2004l[>4;m"resume_JS.txt" 4 lines, 67 bytes written[23;2t[23;1t
+[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ [K]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cat resume_JS.txt
+[?2004lName: Jane Smith
+Email: jane.smith@email.com
+Phone: (123)456-7890
+Objective:
+Dedicated software engineer with a passion for creating efficient and innovative
+solutions. Seeking opportunities to contribute my skills and experience to a dynamic
+team.
+Experience:
+Software Developer | XYZ Tech Solutions
+- Led a team of developers in designing and implementing a customer relationship
+management system.
+- Collaborated with cross-functional teams to deliver high-quality software within tight
+deadlines.
+Education:
+Bachelor of Science in Computer Science | University of ABC
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+Skills:
+- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Version control: Git
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ [K]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ grep software resume_JS.txt
+[?2004lDedicated [01;31m[Ksoftware[m[K engineer with a passion for creating efficient and innovative
+- Collaborated with cross-functional teams to deliver high-quality [01;31m[Ksoftware[m[K within tight
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ grep jane resume_JS.txt 
+[?2004lEmail: [01;31m[Kjane[m[K.smith@email.com
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ grep jane resume_JS.txt [1@-[1@c[1@ [1P[1@ [C[1P[1@J[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l1
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ grep -c Jane resume_JS.txt [C[1P[1@N[1P[1@n[C[C[C[C[C[1P[1P[1P[1@a[1@v[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[32m[K18[m[K[36m[K:[m[K- Programming languages: Python, [01;31m[KJava[m[K, C++
+[32m[K19[m[K[36m[K:[m[K- Web development: HTML, CSS, [01;31m[KJava[m[KScript
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ sed ''s'/'X'Y'Z' 'T'e'c'h' 'S'o'l'u't'i'o'n's'/'A'B'C' 'S'o'f't'w'a'r'e'[C resume_JS.txt 
+[?2004lsed: -e expression #1, char 33: unterminated `s' command
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ sed 's/XYZ Tech Solutions/ABC Software' resume_JS.txt [1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lName: Jane Smith
+Email: jane.smith@email.com
+Phone: (123)456-7890
+Objective:
+Dedicated software engineer with a passion for creating efficient and innovative
+solutions. Seeking opportunities to contribute my skills and experience to a dynamic
+team.
+Experience:
+Software Developer | ABC Software
+- Led a team of developers in designing and implementing a customer relationship
+management system.
+- Collaborated with cross-functional teams to deliver high-quality software within tight
+deadlines.
+Education:
+Bachelor of Science in Computer Science | University of ABC
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+Skills:
+- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Version control: Git
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ sed 's/XYZ Tech Solutions/ABC Software/' resume_JS.txt [1@-[1@i[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cat resume_JS.txt 
+[?2004lName: Jane Smith
+Email: jane.smith@email.com
+Phone: (123)456-7890
+Objective:
+Dedicated software engineer with a passion for creating efficient and innovative
+solutions. Seeking opportunities to contribute my skills and experience to a dynamic
+team.
+Experience:
+Software Developer | ABC Software
+- Led a team of developers in designing and implementing a customer relationship
+management system.
+- Collaborated with cross-functional teams to deliver high-quality software within tight
+deadlines.
+Education:
+Bachelor of Science in Computer Science | University of ABC
+- Relevant coursework: Data Structures, Algorithms, Software Engineering
+Skills:
+- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Version control: Git
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ sed ''/'D'a't'a'/'d'[C[C-'/Data/d'i'/Data/d' '/Data/d'[C[C[C[C[C[C[C[C[Cresume resume[C[C[C[C[C[C_JS.txt > resume_mod_js.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cat resume_mod_js.txt
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cat resume_mod_js.txt[29@sed -i '/Data/d' resume_JS.txt >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcat resume_JS.txt 
+[?2004lName: Jane Smith
+Email: jane.smith@email.com
+Phone: (123)456-7890
+Objective:
+Dedicated software engineer with a passion for creating efficient and innovative
+solutions. Seeking opportunities to contribute my skills and experience to a dynamic
+team.
+Experience:
+Software Developer | ABC Software
+- Led a team of developers in designing and implementing a customer relationship
+management system.
+- Collaborated with cross-functional teams to deliver high-quality software within tight
+deadlines.
+Education:
+Bachelor of Science in Computer Science | University of ABC
+Skills:
+- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Version control: Git
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cat resume_JS.txt mod_js.txt[29@sed -i '/Data/d' resume_JS.txt >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ sed '/Data/d' resume_JS.txt > resume_mod_js.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[29Pcat resume_JS.txt mod_js.txt
+[?2004lName: Jane Smith
+Email: jane.smith@email.com
+Phone: (123)456-7890
+Objective:
+Dedicated software engineer with a passion for creating efficient and innovative
+solutions. Seeking opportunities to contribute my skills and experience to a dynamic
+team.
+Experience:
+Software Developer | ABC Software
+- Led a team of developers in designing and implementing a customer relationship
+management system.
+- Collaborated with cross-functional teams to deliver high-quality software within tight
+deadlines.
+Education:
+Bachelor of Science in Computer Science | University of ABC
+Skills:
+- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Version control: Git
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ head -8 resume_modjs.txt | tail -3 resume_mod_js.txt[1@_[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l- Programming languages: Python, Java, C++
+- Web development: HTML, CSS, JavaScript
+- Version control: Git
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ head -8 resume_mod_js.txt | tail -3 resume_mod_js.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004lsolutions. Seeking opportunities to contribute my skills and experience to a dynamic
+team.
+Experience:
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-12 15:25:31+05:30 [COMMAND_EXIT_CODE="0"]

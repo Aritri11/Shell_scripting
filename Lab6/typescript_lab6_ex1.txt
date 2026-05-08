@@ -1,0 +1,675 @@
+Script started on 2024-08-12 14:02:59+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~/ -name *.txt
+[?2004lfind: paths must precede expression: `aa.txt'
+find: possible unquoted pattern after predicate `-name'?
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~/ -name *.txt[1P *.txte *.txt[C[1P*.txt[C[C[C[C[C
+[?2004lfind: unknown predicate `-name*.txt'
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~/ -name*.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lbash: find~/: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find~/ -name*.txt[1@ [C[C[C[C[C[C[C e*.txt[1Pe*.txt[C *.txt"*.txt[C[C[C[C[C"
+[?2004l/home/ibab/project.txt
+/home/ibab/ab.txt
+/home/ibab/.config/google-chrome/Subresource Filter/Unindexed Rules/9.49.1/LICENSE.txt
+/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/eadf114e35641d8a14aa9648d8e1c01b4b3bb3f0/index.txt
+/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/81af758dd255ba87e9c425eaf3c5a5943b1ccd32/index.txt
+/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/0bf6ab7f94a21cdc9c1649f884333ec20f40a544/index.txt
+/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/705678f9732c617d0c49bf2b462703b1563bdf84/index.txt
+/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/index.txt
+/home/ibab/.config/google-chrome/Default/WebStorage/11/CacheStorage/index.txt
+/home/ibab/.config/google-chrome/Default/WebStorage/2/CacheStorage/index.txt
+/home/ibab/.config/google-chrome/Default/WebStorage/23/CacheStorage/index.txt
+/home/ibab/.config/google-chrome/Default/WebStorage/20/CacheStorage/index.txt
+/home/ibab/.config/google-chrome/Default/WebStorage/37/CacheStorage/index.txt
+/home/ibab/.config/google-chrome/Default/WebStorage/32/CacheStorage/index.txt
+/home/ibab/.config/google-chrome/optimization_guide_model_store/15/E6DC4029A1E4B4C1/A0B821FEBB3B8063/VERSION.txt
+/home/ibab/.config/google-chrome/ZxcvbnData/3/english_wikipedia.txt
+/home/ibab/.config/google-chrome/ZxcvbnData/3/us_tv_and_film.txt
+/home/ibab/.config/google-chrome/ZxcvbnData/3/surnames.txt
+/home/ibab/.config/google-chrome/ZxcvbnData/3/passwords.txt
+/home/ibab/.config/google-chrome/ZxcvbnData/3/female_names.txt
+/home/ibab/.config/google-chrome/ZxcvbnData/3/male_names.txt
+/home/ibab/Lab6/typescript_lab6_ex1.txt
+/home/ibab/source/source_file1.txt
+/home/ibab/source/source_file2.txt
+/home/ibab/source/rename_file.txt
+/home/ibab/backup/newfile.txt
+/home/ibab/tar_test/test2/c.txt
+/home/ibab/tar_test/test2/d.txt
+/home/ibab/tar_test/test/a.txt
+/home/ibab/tar_test/test/b.txt
+/home/ibab/Downloads/sequence.txt
+/home/ibab/Downloads/largefile.txt
+/home/ibab/aa.txt
+/home/ibab/sfl.txt
+/home/ibab/secret.txt
+/home/ibab/.pki/nssdb/pkcs11.txt
+/home/ibab/ownerfile.txt
+/home/ibab/datafile.txt
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/pkcs11.txt
+/home/ibab/fl.txt
+/home/ibab/.local/share/Trash/files/sl_b.txt
+/home/ibab/.local/share/Trash/files/typescript_vi_ex2.txt
+/home/ibab/.local/share/Trash/files/test2/c.txt
+/home/ibab/.local/share/Trash/files/test2/d.txt
+/home/ibab/.local/share/Trash/files/testfile.txt
+/home/ibab/.local/share/Trash/files/exercise_dir/file2.txt
+/home/ibab/.local/share/Trash/files/typescript_vi_ex4.txt
+/home/ibab/.local/share/Trash/files/typescript_vi_ex6.txt
+/home/ibab/.local/share/Trash/files/typescript_vi_ex1.txt
+/home/ibab/.local/share/Trash/files/test/a.txt
+/home/ibab/.local/share/Trash/files/test/b.txt
+/home/ibab/.local/share/Trash/files/sl_one.txt
+/home/ibab/.local/share/Trash/files/two.txt
+/home/ibab/.local/share/Trash/files/typescript_vi_ex3.txt
+/home/ibab/.local/share/Trash/files/typescript_vi_ex5.txt
+/home/ibab/bb.txt
+/home/ibab/Lab4/cpu.info.txt
+/home/ibab/Lab4/typescript_lab4_ex3.txt
+/home/ibab/Lab4/typescript_lab4_ex2.txt
+/home/ibab/Lab4/typescript_lab4_ex8.txt
+/home/ibab/Lab4/filelist.txt
+/home/ibab/Lab4/typescript_lab4_ex5.txt
+/home/ibab/Lab4/typescript_lab4_ex4.txt
+/home/ibab/Lab4/typescript_lab4_ex9.txt
+/home/ibab/Lab4/typescript_lab4_ex1.txt
+/home/ibab/Lab4/typescript_lab4_ex10.txt
+/home/ibab/Lab4/typescript_lab4_ex7.txt
+/home/ibab/Lab4/typescript_lab4_ex6.txt
+/home/ibab/best_friends.txt
+/home/ibab/other_best_friends.txt
+/home/ibab/numbers.txt
+/home/ibab/Lab5/typescript_lab5_ex1.txt
+/home/ibab/Lab5/typescript_lab5_ex14.txt
+/home/ibab/Lab5/friends.txt
+/home/ibab/Lab5/typescript_lab5_ex7.txt
+/home/ibab/Lab5/log.txt
+/home/ibab/Lab5/typescript_lab5_ex10.txt
+/home/ibab/Lab5/typescript_lab5_ex8.txt
+/home/ibab/Lab5/typescript_lab5_ex3.txt
+/home/ibab/Lab5/typescript_lab5_ex5.txt
+/home/ibab/Lab5/typescript_lab5_ex11.txt
+/home/ibab/Lab5/output.txt
+/home/ibab/Lab5/typescript_lab5_ex12.txt
+/home/ibab/Lab5/typescript_lab5_ex13.txt
+/home/ibab/Lab5/typescript_lab5_ex2.txt
+/home/ibab/Lab5/sample.txt
+/home/ibab/Lab5/typescript_lab5_ex9.txt
+/home/ibab/Lab5/lab5_Aritri_report.txt
+/home/ibab/Lab5/error.txt
+/home/ibab/Lab5/largefile.txt
+/home/ibab/Lab5/typescript_lab5_ex4.txt
+/home/ibab/Lab5/typescript_lab5_ex6.txt
+/home/ibab/Lab5/people.txt
+/home/ibab/projects/project2/file1.txt
+/home/ibab/projects/project2/file2.txt
+/home/ibab/groupfile.txt
+/home/ibab/friends_dup.txt
+/home/ibab/.cache/tracker3/files/last-crawl.txt
+/home/ibab/.cache/tracker3/files/first-index.txt
+/home/ibab/one.txt
+/home/ibab/Lab3/typescript_lab3_ex5.txt
+/home/ibab/Lab3/Aritri_vi_doc.txt
+/home/ibab/Lab3/typescript_lab3_ex4.txt
+/home/ibab/Lab3/typescript_lab3_ex3.txt
+/home/ibab/Lab3/typescript_lab3_ex2.txt
+/home/ibab/Lab3/typescript_lab3_ex1.txt
+/home/ibab/fruits.txt
+/home/ibab/LAB2/typescript_lab2_ex1.txt
+/home/ibab/LAB2/typescript_lab2_ex2.txt
+/home/ibab/LAB2/typescript_lab2_ex4.txt
+/home/ibab/LAB2/typescript_lab2_ex6.txt
+/home/ibab/LAB2/typescript_lab2_ex5.txt
+/home/ibab/LAB2/typescript_lab2_ex3.txt
+/home/ibab/sorted_numbers.txt
+/home/ibab/data/my_data.txt
+/home/ibab/R_names.txt
+/home/ibab/aa1.txt
+/home/ibab/exercise.txt
+/home/ibab/file.txt
+/home/ibab/file_list.txt
+/home/ibab/bothfile.txt
+/home/ibab/logfile.txt
+/home/ibab/lab1/typescript_Aritri_lab1_ex2.txt
+/home/ibab/lab1/typescript_Aritri_lab1_ex3.txt
+/home/ibab/lab1/typescript_Aritri_lab1_ex1.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [K]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [K]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mfind /etc -type f -mtime -7[27mfind /etc -type f -mtime -7
+[?2004l/etc/subgid
+find: ‘/etc/credstore’: Permission denied
+/etc/ld.so.cache
+find: ‘/etc/ssl/private’: Permission denied
+/etc/group-
+/etc/subuid
+find: ‘/etc/credstore.encrypted’: Permission denied
+find: ‘/etc/sssd’: Permission denied
+/etc/group
+find: ‘/etc/chatscripts’: Permission denied
+/etc/gshadow
+/etc/passwd-
+/etc/apt/trusted.gpg.d/google-chrome.gpg
+find: ‘/etc/ppp/peers’: Permission denied
+/etc/passwd
+/etc/gshadow-
+/etc/cups/printers.conf
+find: ‘/etc/cups/ssl’: Permission denied
+/etc/cups/subscriptions.conf.O
+/etc/cups/ppd/Canon_iR_C3120.ppd
+/etc/cups/printers.conf.O
+/etc/cups/subscriptions.conf
+/etc/systemd/system/snap-firefox-4698.mount
+/etc/systemd/system/snap-core22-1439.mount
+/etc/shadow
+find: ‘/etc/polkit-1/rules.d’: Permission denied
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mfind /home -type f -size +50M | ls -l[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind /home -type f -size +50M | ls -l
+[?2004ltotal 168
+-rw-rw-r-- 1 ibab     ibab        0 Jul 25 15:37  aa1.txt
+-rwxrwxr-- 1 ibab     ibab        0 Jul 25 15:05  [0m[01;32maa.txt[0m
+-rw-rw-r-- 1 ibab     ibab        0 Jul 25 17:19  ab.txt
+drwxrwxr-x 2 ibab     ibab     4096 Jul 29 15:05  [01;34mbackup[0m
+-rw-rw-r-- 2 ibab     ibab       17 Jul 29 16:44  bb.txt
+-rw-rw-r-- 1 ibab     ibab       69 Aug  8 15:11  best_friends.txt
+-rw-rw-r-- 1 newowner newgroup    0 Aug  5 15:33  bothfile.txt
+drwxrwxr-x 2 ibab     ibab     4096 Aug  9 10:57  [01;34mcode[0m
+drwxrwxr-x 4 ibab     ibab     4096 Aug  5 10:13  [01;34mdata[0m
+-rw-rw-r-- 1 ibab     ibab        0 Aug  5 15:19  datafile.txt
+drwxr-xr-x 2 ibab     ibab     4096 Jul 31 12:04  [01;34mDesktop[0m
+drwxr-xr-x 2 ibab     ibab     4096 Jul 22 15:16  [01;34mDocuments[0m
+drwxr-xr-x 2 ibab     ibab     4096 Aug 11 14:26  [01;34mDownloads[0m
+-rw-rw-r-- 1 ibab     ibab       36 Jul 29 17:07  exercise.txt
+-rw-rw-r-- 1 ibab     ibab       26 Aug  7 10:13  file1
+-rw-rw-r-- 1 ibab     ibab       23 Aug  7 10:14  file2
+-rw-rw-r-- 1 ibab     ibab       50 Aug  7 10:26  file3
+-rw-rw-r-- 1 ibab     ibab      440 Aug  8 14:23  file_list.txt
+-rw-rw-r-- 1 ibab     ibab      119 Aug  5 16:06  file.txt
+-rw-rw-r-- 1 ibab     ibab       30 Aug  8 14:46  fl.txt
+-rw-rw-r-- 1 ibab     ibab        6 Aug  8 14:59  friends_dup.txt
+-rw-rw-r-- 1 ibab     ibab       39 Aug  8 15:32  fruits.txt
+-rw-rw-r-- 1 ibab     newgroup    0 Aug  5 15:32  groupfile.txt
+-rw-rw-r-- 2 ibab     ibab       17 Jul 29 16:44  hlb.text
+drwxrwxr-x 2 ibab     ibab     4096 Jul 29 14:36  [01;34mlab1[0m
+drwxrwxr-x 2 ibab     ibab     4096 Jul 29 17:32  [01;34mLAB2[0m
+drwxrwxr-x 2 ibab     ibab     4096 Aug  1 16:52  [01;34mLab3[0m
+drwxrwxr-x 2 ibab     ibab     4096 Aug  5 16:50  [01;34mLab4[0m
+drwxrwxr-x 2 ibab     ibab     4096 Aug  8 17:18  [01;34mLab5[0m
+drwxrwxr-x 2 ibab     ibab     4096 Aug 12 14:02  [01;34mLab6[0m
+-rw-rw-r-- 1 ibab     ibab       74 Aug  8 15:35  logfile.txt
+drwxr-xr-x 2 ibab     ibab     4096 Jul 22 15:16  [01;34mMusic[0m
+drwxrwxr-x 2 newowner ibab     4096 Aug  5 15:37  [01;34mmydir[0m
+-rw-rw-r-- 1 ibab     ibab      109 Aug  5 15:53  [01;31mnewfile.txt.gz[0m
+-rw-rw-r-- 1 ibab     ibab       25 Aug  8 14:30  numbers.txt
+-rw-rw-r-- 1 ibab     ibab        0 Aug  5 10:06  one.txt
+-rw-rw-r-- 1 ibab     ibab       65 Aug  8 15:23  other_best_friends.txt
+-rw-rw-r-- 1 newowner ibab        0 Aug  5 15:25  ownerfile.txt
+drwxr-xr-x 2 ibab     ibab     4096 Jul 22 15:16  [01;34mPictures[0m
+-rw-rw-r-- 1 ibab     ibab        0 Aug  5 15:21  program.sh
+-rw-rw-r-- 1 ibab     ibab        0 Aug  1 14:21  project2
+drwxrwxr-x 3 ibab     ibab     4096 Aug  1 14:52 [01;34m'~projects'[0m
+drwxrwxr-x 4 ibab     ibab     4096 Aug  1 15:01  [01;34mprojects[0m
+-rwxr-xr-- 1 ibab     ibab        0 Aug  5 15:22  [01;32mproject.txt[0m
+drwxr-xr-x 2 ibab     ibab     4096 Jul 22 15:16  [01;34mPublic[0m
+-rw-rw-r-- 1 ibab     ibab       11 Aug  8 15:16  R_names.txt
+-rwxrwxr-x 1 ibab     ibab        0 Aug  5 15:18  [01;32mscript.sh[0m
+-r-------- 1 ibab     ibab        0 Jul 29 17:25  secret.txt
+lrwxrwxrwx 1 ibab     ibab       11 Aug  8 14:58  [40;31;01msfl.txt[0m -> [40;31;01mfriends.txt[0m
+drwx------ 6 ibab     ibab     4096 Jul 23 09:00  [01;34msnap[0m
+drwxrwxr-x 2 ibab     ibab     4096 Aug  1 12:57  [01;34msoftware[0m
+-rw-rw-r-- 1 ibab     ibab       25 Aug  8 14:31  sorted_numbers.txt
+drwxrwxr-x 2 ibab     ibab     4096 Jul 29 15:39  [01;34msource[0m
+drwxrwxr-x 4 ibab     ibab     4096 Aug  7 11:34  [01;34mtar_test[0m
+drwxr-xr-x 2 ibab     ibab     4096 Jul 22 15:16  [01;34mTemplates[0m
+drwxr-xr-x 2 ibab     ibab     4096 Jul 22 15:16  [01;34mVideos[0m
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~/ -size +2M -type f -exec ls -l {} \;
+[?2004l-rw------- 1 ibab ibab 4194304 Aug 12 10:51 /home/ibab/.config/google-chrome/BrowserMetrics-spare.pma
+-rw------- 1 ibab ibab 2417475 Aug  9 10:03 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/a26a3507-1df9-4e64-96b2-22f07edb17d5/a0960168fc1b2b39_1'
+-rw------- 1 ibab ibab 2420339 Aug  8 09:59 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/a26a3507-1df9-4e64-96b2-22f07edb17d5/cdecf237c2e80a30_1'
+-rw------- 1 ibab ibab 2369568 Aug  8 09:59 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/a26a3507-1df9-4e64-96b2-22f07edb17d5/b24a27c809c619eb_1'
+-rw------- 1 ibab ibab 2369568 Aug  9 10:03 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/a26a3507-1df9-4e64-96b2-22f07edb17d5/283a56356fe94d90_1'
+-rw------- 1 ibab ibab 2857741 Aug  7 09:03 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/48de5add-1bd3-4bc1-804f-9c53156ced96/27c73ae4699a900d_0'
+-rw------- 1 ibab ibab 2815689 Aug  8 09:59 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/48de5add-1bd3-4bc1-804f-9c53156ced96/4d7b472b0b1cb7d2_0'
+-rw------- 1 ibab ibab 2815692 Aug  8 09:59 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/48de5add-1bd3-4bc1-804f-9c53156ced96/3f340b39060f38a6_0'
+-rw------- 1 ibab ibab 2815671 Aug  8 09:59 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/48de5add-1bd3-4bc1-804f-9c53156ced96/1e3c27f821033151_0'
+-rw------- 1 ibab ibab 2857720 Aug  7 09:03 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/48de5add-1bd3-4bc1-804f-9c53156ced96/107175a339dfd1fb_0'
+-rw------- 1 ibab ibab 2857738 Aug  7 09:03 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/48de5add-1bd3-4bc1-804f-9c53156ced96/4319e4de26c22b13_0'
+-rw------- 1 ibab ibab 2466560 Aug 10 21:12 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/1efa2584-1f29-43eb-b20c-1e23d35ae1df/08549054e52fb2be_0'
+-rw------- 1 ibab ibab 5164033 Aug 10 21:12 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/1efa2584-1f29-43eb-b20c-1e23d35ae1df/c11b5cfdba95f886_1'
+-rw------- 1 ibab ibab 14801682 Aug 10 21:12 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/1efa2584-1f29-43eb-b20c-1e23d35ae1df/6c2f88c6405c6f83_1'
+-rw------- 1 ibab ibab 2402323 Aug 10 21:12 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/1efa2584-1f29-43eb-b20c-1e23d35ae1df/c11b5cfdba95f886_0'
+-rw------- 1 ibab ibab 8527379 Aug 10 21:12 '/home/ibab/.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/1efa2584-1f29-43eb-b20c-1e23d35ae1df/6c2f88c6405c6f83_0'
+-rw------- 1 ibab ibab 4228030 Jul 31 14:09 '/home/ibab/.config/google-chrome/Default/Service Worker/ScriptCache/7ed24d85806dc9b4_0'
+-rw------- 1 ibab ibab 8321746 Jul 31 14:09 '/home/ibab/.config/google-chrome/Default/Service Worker/ScriptCache/7ed24d85806dc9b4_1'
+-rw------- 1 ibab ibab 2394018 Aug 11 19:55 /home/ibab/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000014.log
+-rw------- 1 ibab ibab 2207690 Jul 31 14:56 /home/ibab/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000499.ldb
+-rw------- 1 ibab ibab 2859524 Aug 12 13:52 /home/ibab/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000071.ldb
+-rw------- 1 ibab ibab 2178065 Aug  8 17:39 /home/ibab/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000041.ldb
+-rw------- 1 ibab ibab 2147312 Jul 29 14:37 /home/ibab/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000021.ldb
+-rw------- 1 ibab ibab 2293760 Aug 12 14:00 /home/ibab/.config/google-chrome/Default/History
+-rw------- 1 ibab ibab 2737464 Jul 22 16:05 /home/ibab/.config/google-chrome/optimization_guide_model_store/15/E6DC4029A1E4B4C1/A0B821FEBB3B8063/model.tflite
+-rw------- 1 ibab ibab 4585954 Jul 25 10:57 /home/ibab/.config/google-chrome/optimization_guide_model_store/40/E6DC4029A1E4B4C1/87095FE0503B6A07/ts_spm.model
+-rw------- 1 ibab ibab 74854892 Jul 25 10:57 /home/ibab/.config/google-chrome/optimization_guide_model_store/40/E6DC4029A1E4B4C1/87095FE0503B6A07/ts.bin
+-rw------- 1 ibab ibab 3452826 Aug  6 09:00 /home/ibab/.config/google-chrome/optimization_guide_model_store/25/E6DC4029A1E4B4C1/C785E18431532DC2/visual_model_desktop.tflite
+-rw------- 1 ibab ibab 4194304 Aug 12 14:25 /home/ibab/.config/google-chrome/BrowserMetrics/BrowserMetrics-66B99B3E-83BB.pma
+-rw------- 1 ibab ibab 22826000 Aug 12 14:20 '/home/ibab/.config/google-chrome/Safe Browsing/UrlSoceng.store.4_13367926237152816'
+-rw------- 1 ibab ibab 5327195 Aug 10 21:12 /home/ibab/.config/google-chrome/component_crx_cache/obedbbhbpmojnkanicioggnmelmoomoc_1.2afd63a45569ebbc0ec98fb55b132876cc71870788e20a6009af687c40ad8d6c
+-rw------- 1 ibab ibab 12591104 Aug 11 19:37 /home/ibab/.config/google-chrome/GrShaderCache/data_3
+-rw------- 1 ibab ibab 7887284 Aug 10 21:12 /home/ibab/.config/google-chrome/OnDeviceHeadSuggestModel/20240801.659754589.14/cr_en-us_500000_index.bin
+-rw-rw-r-- 1 ibab ibab 17824956 Aug 11 14:26 /home/ibab/Downloads/linux-command-line-and-shell-scripting-bible-by-richard-blum-christine-bresnahan.pdf
+-rw-rw-r-- 1 ibab ibab 2724371 Aug  8 09:59 /home/ibab/Downloads/ARITRI_BAIDYA_MSC_BDB02.pptx
+-rw-rw-r-- 1 ibab ibab 108772160 Jul 22 15:52 /home/ibab/Downloads/google-chrome-stable_current_amd64.deb
+-rw-rw-r-- 1 ibab ibab 108772160 Jul 22 15:53 '/home/ibab/Downloads/google-chrome-stable_current_amd64(1).deb'
+-rw-r--r-- 1 ibab ibab 2785280 Jul 22 15:39 /home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite
+-rw-r--r-- 1 ibab ibab 5242880 Jul 22 15:53 /home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/places.sqlite
+-rw-r--r-- 1 ibab ibab 5242880 Jul 22 15:53 /home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/favicons.sqlite
+-rw-rw-r-- 1 ibab ibab 3077392 Jul 22 15:39 /home/ibab/snap/firefox/common/.cache/fontconfig/0bd3dc0958fa2205aaaa8ebb13e2872b-le64.cache-7
+-rw-rw-r-- 1 ibab ibab 11914922 Jul 22 15:40 /home/ibab/snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/safebrowsing/google4/goog-phish-proto.vlpset
+-rw-r--r-- 1 ibab ibab 9690676 Jul 22 15:39 /home/ibab/snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/startupCache/scriptCache.bin
+-rw-r--r-- 1 ibab ibab 8350485 Jul 22 15:41 /home/ibab/snap/firefox/common/.cache/mozilla/firefox/jc6hdspi.default/startupCache/startupCache.8.little
+-rw-rw-r-- 1 ibab ibab 3077392 Jul 22 16:02 /home/ibab/snap/snapd-desktop-integration/common/.cache/fontconfig/0bd3dc0958fa2205aaaa8ebb13e2872b-le64.cache-7
+-rw-rw-r-- 1 ibab ibab 3077392 Jul 22 15:53 /home/ibab/snap/snap-store/common/.cache/fontconfig/0bd3dc0958fa2205aaaa8ebb13e2872b-le64.cache-7
+-rw-rw-r-- 1 ibab ibab 3446992 Jul 22 15:27 /home/ibab/.cache/fontconfig/0bd3dc0958fa2205aaaa8ebb13e2872b-le64.cache-9
+-rw-rw-r-- 1 ibab ibab 9400118 Aug 11 19:37 /home/ibab/.cache/nvidia/GLCache/6b127eb637589fca3a603e84151bd16a/81b0650616c5b6ef/46acb4b8e00cc999.bin
+-rw------- 1 ibab ibab 6296065 Aug 11 19:40 /home/ibab/.cache/google-chrome/Default/Cache/Cache_Data/b49b068ed86bdb94_s
+-rw------- 1 ibab ibab 6100368 Aug 11 19:43 /home/ibab/.cache/google-chrome/Default/Cache/Cache_Data/6305df96e6411dc3_s
+-rw------- 1 ibab ibab 2938440 Aug  2 11:57 '/home/ibab/.cache/google-chrome/Default/Code Cache/js/158fc7939fbab0e0_0'
+-rw-r--r-- 1 ibab ibab 2785280 Aug 11 19:55 /home/ibab/.cache/tracker3/files/meta.db
+-rw-r--r-- 1 ibab ibab 2969600 Aug 11 19:55 /home/ibab/.cache/tracker3/files/http%3A%2F%2Ftracker.api.gnome.org%2Fontology%2Fv3%2Ftracker%23Documents.db
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~ -type f -size 0
+[?2004l/home/ibab/project2
+/home/ibab/project.txt
+/home/ibab/ab.txt
+/home/ibab/.config/google-chrome/Default/coupon_db/LOG.old
+/home/ibab/.config/google-chrome/Default/coupon_db/LOG
+/home/ibab/.config/google-chrome/Default/coupon_db/LOCK
+/home/ibab/.config/google-chrome/Default/Session Storage/LOCK
+/home/ibab/.config/google-chrome/Default/Affiliation Database-journal
+/home/ibab/.config/google-chrome/Default/Trust Tokens-journal
+/home/ibab/.config/google-chrome/Default/AggregationService-journal
+/home/ibab/.config/google-chrome/Default/Shared Dictionary/db-journal
+/home/ibab/.config/google-chrome/Default/parcel_tracking_db/LOG.old
+/home/ibab/.config/google-chrome/Default/parcel_tracking_db/LOG
+/home/ibab/.config/google-chrome/Default/parcel_tracking_db/LOCK
+/home/ibab/.config/google-chrome/Default/Extension State/LOCK
+/home/ibab/.config/google-chrome/Default/Shortcuts-journal
+/home/ibab/.config/google-chrome/Default/SharedStorage-wal
+/home/ibab/.config/google-chrome/Default/Service Worker/Database/LOCK
+/home/ibab/.config/google-chrome/Default/commerce_subscription_db/LOG.old
+/home/ibab/.config/google-chrome/Default/commerce_subscription_db/LOG
+/home/ibab/.config/google-chrome/Default/commerce_subscription_db/LOCK
+/home/ibab/.config/google-chrome/Default/Favicons-journal
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000497.log
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000011.log
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_microbenotes.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.javatpoint.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/Download Service/EntryDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Download Service/EntryDB/LOG
+/home/ibab/.config/google-chrome/Default/Download Service/EntryDB/LOCK
+/home/ibab/.config/google-chrome/Default/Network Action Predictor-journal
+/home/ibab/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOG.old
+/home/ibab/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOG
+/home/ibab/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOCK
+/home/ibab/.config/google-chrome/Default/VideoDecodeStats/LOG.old
+/home/ibab/.config/google-chrome/Default/VideoDecodeStats/LOG
+/home/ibab/.config/google-chrome/Default/VideoDecodeStats/LOCK
+/home/ibab/.config/google-chrome/Default/Extension Scripts/LOCK
+/home/ibab/.config/google-chrome/Default/MediaDeviceSalts-journal
+/home/ibab/.config/google-chrome/Default/Sync Data/LevelDB/LOCK
+/home/ibab/.config/google-chrome/Default/Conversions-journal
+/home/ibab/.config/google-chrome/Default/Safe Browsing Cookies-journal
+/home/ibab/.config/google-chrome/Default/Reporting and NEL-journal
+/home/ibab/.config/google-chrome/Default/PersistentOriginTrials/LOG.old
+/home/ibab/.config/google-chrome/Default/PersistentOriginTrials/LOG
+/home/ibab/.config/google-chrome/Default/PersistentOriginTrials/LOCK
+/home/ibab/.config/google-chrome/Default/BudgetDatabase/LOG.old
+/home/ibab/.config/google-chrome/Default/BudgetDatabase/LOG
+/home/ibab/.config/google-chrome/Default/BudgetDatabase/LOCK
+/home/ibab/.config/google-chrome/Default/discounts_db/LOG.old
+/home/ibab/.config/google-chrome/Default/discounts_db/LOG
+/home/ibab/.config/google-chrome/Default/discounts_db/LOCK
+/home/ibab/.config/google-chrome/Default/Login Data-journal
+/home/ibab/.config/google-chrome/Default/LOG.old
+/home/ibab/.config/google-chrome/Default/heavy_ad_intervention_opt_out.db-journal
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOG
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/ibab/.config/google-chrome/Default/Site Characteristics Database/LOCK
+/home/ibab/.config/google-chrome/Default/.com.google.Chrome.ucw01t
+/home/ibab/.config/google-chrome/Default/BrowsingTopicsSiteData-journal
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOG
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOCK
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOG
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOCK
+/home/ibab/.config/google-chrome/Default/PrivateAggregation-journal
+/home/ibab/.config/google-chrome/Default/KAnonymityService-journal
+/home/ibab/.config/google-chrome/Default/LOG
+/home/ibab/.config/google-chrome/Default/chrome_cart_db/LOG.old
+/home/ibab/.config/google-chrome/Default/chrome_cart_db/LOG
+/home/ibab/.config/google-chrome/Default/chrome_cart_db/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/23/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/23/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/20/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/35/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/35/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/25/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/37/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/32/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/16/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/16/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/LOCK
+/home/ibab/.config/google-chrome/Default/LOCK
+/home/ibab/.config/google-chrome/Default/GCM Store/LOCK
+/home/ibab/.config/google-chrome/Default/GCM Store/Encryption/LOCK
+/home/ibab/.config/google-chrome/Default/AutofillStrikeDatabase/LOG.old
+/home/ibab/.config/google-chrome/Default/AutofillStrikeDatabase/LOG
+/home/ibab/.config/google-chrome/Default/AutofillStrikeDatabase/LOCK
+/home/ibab/.config/google-chrome/Default/Local Storage/leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/File System/001/t/Paths/000003.log
+/home/ibab/.config/google-chrome/Default/File System/001/t/Paths/LOCK
+/home/ibab/.config/google-chrome/Default/File System/Origins/LOCK
+/home/ibab/.config/google-chrome/Default/File System/000/t/Paths/000003.log
+/home/ibab/.config/google-chrome/Default/File System/000/t/Paths/LOCK
+/home/ibab/.config/google-chrome/Default/File System/002/t/Paths/000003.log
+/home/ibab/.config/google-chrome/Default/File System/002/t/Paths/LOCK
+/home/ibab/.config/google-chrome/Default/Web Data-journal
+/home/ibab/.config/google-chrome/Default/Top Sites-journal
+/home/ibab/.config/google-chrome/Default/Cookies-journal
+/home/ibab/.config/google-chrome/Default/shared_proto_db/metadata/LOCK
+/home/ibab/.config/google-chrome/Default/shared_proto_db/LOCK
+/home/ibab/.config/google-chrome/Default/ClientCertificates/LOG.old
+/home/ibab/.config/google-chrome/Default/ClientCertificates/LOG
+/home/ibab/.config/google-chrome/Default/ClientCertificates/LOCK
+/home/ibab/.config/google-chrome/Default/DIPS-journal
+/home/ibab/.config/google-chrome/Default/Login Data For Account-journal
+/home/ibab/.config/google-chrome/Default/Platform Notifications/000003.log
+/home/ibab/.config/google-chrome/Default/Platform Notifications/LOCK
+/home/ibab/.config/google-chrome/Default/Extension Rules/LOCK
+/home/ibab/.config/google-chrome/First Run
+/home/ibab/.config/google-chrome/optimization_guide_model_store/40/E6DC4029A1E4B4C1/87095FE0503B6A07/model.tflite
+/home/ibab/.config/google-chrome/first_party_sets.db-journal
+/home/ibab/.config/enchant/en_US.exc
+/home/ibab/.config/enchant/en_US.dic
+/home/ibab/.config/.gsd-keyboard.settings-ported
+/home/ibab/source/source_file2.txt
+/home/ibab/source/rename_file.txt
+/home/ibab/backup/newfile.txt
+/home/ibab/tar_test/test2/c.txt
+/home/ibab/tar_test/test2/d.txt
+/home/ibab/tar_test/test/a.txt
+/home/ibab/tar_test/test/b.txt
+/home/ibab/aa.txt
+/home/ibab/secret.txt
+/home/ibab/ownerfile.txt
+/home/ibab/mydir/file2.py
+/home/ibab/mydir/file1.sh
+/home/ibab/datafile.txt
+/home/ibab/program.sh
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/webappsstore.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/.parentlock
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/places.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/cache/caches.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb/1616792988LCo7g%sCD7a%t5a9b9a4s.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb/2171031483YattIedMb.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3561288849sdhlie.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/2823318777ntouromlalnodry--naod.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/favicons.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/cookies.sqlite-wal
+/home/ibab/.local/share/Trash/files/test2/c.txt
+/home/ibab/.local/share/Trash/files/test2/d.txt
+/home/ibab/.local/share/Trash/files/groupdir/me.sh
+/home/ibab/.local/share/Trash/files/groupdir/my.sh
+/home/ibab/.local/share/Trash/files/testfile.txt
+/home/ibab/.local/share/Trash/files/exercise_dir/file2.txt
+/home/ibab/.local/share/Trash/files/test/a.txt
+/home/ibab/.local/share/Trash/files/test/b.txt
+/home/ibab/.local/share/Trash/files/two.txt
+/home/ibab/.local/share/Trash/files/typescript.4
+/home/ibab/.local/share/applications/mimeapps.list
+/home/ibab/.local/share/nautilus/tracker2-migration-complete
+/home/ibab/.local/share/gnome-settings-daemon/input-sources-converted
+/home/ibab/.local/share/gnome-shell/update-check-46
+/home/ibab/script.sh
+/home/ibab/projects/project2/file1.txt
+/home/ibab/projects/project2/file2.txt
+/home/ibab/groupfile.txt
+/home/ibab/one.txt
+/home/ibab/data/processed_data
+/home/ibab/data/code/touch
+/home/ibab/data/code/b.py
+/home/ibab/data/code/b.data
+/home/ibab/data/code/a.py
+/home/ibab/data/code/a.data
+/home/ibab/data/data_processed/a_processed
+/home/ibab/data/my_data.txt
+/home/ibab/aa1.txt
+/home/ibab/.sudo_as_admin_successful
+/home/ibab/bothfile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~ -type f -size 0[K[K[K[K[K[Kempty
+[?2004l/home/ibab/project2
+/home/ibab/project.txt
+/home/ibab/ab.txt
+/home/ibab/.config/google-chrome/Default/coupon_db/LOG.old
+/home/ibab/.config/google-chrome/Default/coupon_db/LOG
+/home/ibab/.config/google-chrome/Default/coupon_db/LOCK
+/home/ibab/.config/google-chrome/Default/Session Storage/LOCK
+/home/ibab/.config/google-chrome/Default/Affiliation Database-journal
+/home/ibab/.config/google-chrome/Default/Trust Tokens-journal
+/home/ibab/.config/google-chrome/Default/AggregationService-journal
+/home/ibab/.config/google-chrome/Default/Shared Dictionary/db-journal
+/home/ibab/.config/google-chrome/Default/parcel_tracking_db/LOG.old
+/home/ibab/.config/google-chrome/Default/parcel_tracking_db/LOG
+/home/ibab/.config/google-chrome/Default/parcel_tracking_db/LOCK
+/home/ibab/.config/google-chrome/Default/Extension State/LOCK
+/home/ibab/.config/google-chrome/Default/Shortcuts-journal
+/home/ibab/.config/google-chrome/Default/SharedStorage-wal
+/home/ibab/.config/google-chrome/Default/Service Worker/Database/LOCK
+/home/ibab/.config/google-chrome/Default/commerce_subscription_db/LOG.old
+/home/ibab/.config/google-chrome/Default/commerce_subscription_db/LOG
+/home/ibab/.config/google-chrome/Default/commerce_subscription_db/LOCK
+/home/ibab/.config/google-chrome/Default/Favicons-journal
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.linkedin.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000497.log
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000011.log
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_microbenotes.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/IndexedDB/https_www.javatpoint.com_0.indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/Download Service/EntryDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Download Service/EntryDB/LOG
+/home/ibab/.config/google-chrome/Default/Download Service/EntryDB/LOCK
+/home/ibab/.config/google-chrome/Default/Network Action Predictor-journal
+/home/ibab/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOG.old
+/home/ibab/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOG
+/home/ibab/.config/google-chrome/Default/optimization_guide_hint_cache_store/LOCK
+/home/ibab/.config/google-chrome/Default/VideoDecodeStats/LOG.old
+/home/ibab/.config/google-chrome/Default/VideoDecodeStats/LOG
+/home/ibab/.config/google-chrome/Default/VideoDecodeStats/LOCK
+/home/ibab/.config/google-chrome/Default/Extension Scripts/LOCK
+/home/ibab/.config/google-chrome/Default/MediaDeviceSalts-journal
+/home/ibab/.config/google-chrome/Default/Sync Data/LevelDB/LOCK
+/home/ibab/.config/google-chrome/Default/Conversions-journal
+/home/ibab/.config/google-chrome/Default/Safe Browsing Cookies-journal
+/home/ibab/.config/google-chrome/Default/Reporting and NEL-journal
+/home/ibab/.config/google-chrome/Default/PersistentOriginTrials/LOG.old
+/home/ibab/.config/google-chrome/Default/PersistentOriginTrials/LOG
+/home/ibab/.config/google-chrome/Default/PersistentOriginTrials/LOCK
+/home/ibab/.config/google-chrome/Default/BudgetDatabase/LOG.old
+/home/ibab/.config/google-chrome/Default/BudgetDatabase/LOG
+/home/ibab/.config/google-chrome/Default/BudgetDatabase/LOCK
+/home/ibab/.config/google-chrome/Default/discounts_db/LOG.old
+/home/ibab/.config/google-chrome/Default/discounts_db/LOG
+/home/ibab/.config/google-chrome/Default/discounts_db/LOCK
+/home/ibab/.config/google-chrome/Default/Login Data-journal
+/home/ibab/.config/google-chrome/Default/LOG.old
+/home/ibab/.config/google-chrome/Default/heavy_ad_intervention_opt_out.db-journal
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOG
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/EventDB/LOCK
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOG
+/home/ibab/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB/LOCK
+/home/ibab/.config/google-chrome/Default/Site Characteristics Database/LOCK
+/home/ibab/.config/google-chrome/Default/.com.google.Chrome.ucw01t
+/home/ibab/.config/google-chrome/Default/BrowsingTopicsSiteData-journal
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOG
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB/LOCK
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOG
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB/LOCK
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOG.old
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOG
+/home/ibab/.config/google-chrome/Default/Segmentation Platform/SignalDB/LOCK
+/home/ibab/.config/google-chrome/Default/PrivateAggregation-journal
+/home/ibab/.config/google-chrome/Default/KAnonymityService-journal
+/home/ibab/.config/google-chrome/Default/LOG
+/home/ibab/.config/google-chrome/Default/chrome_cart_db/LOG.old
+/home/ibab/.config/google-chrome/Default/chrome_cart_db/LOG
+/home/ibab/.config/google-chrome/Default/chrome_cart_db/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/10/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/5/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/9/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/3/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/23/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/23/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/20/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/35/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/35/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/25/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/37/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/32/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/WebStorage/16/IndexedDB/indexeddb.leveldb/000004.log
+/home/ibab/.config/google-chrome/Default/WebStorage/16/IndexedDB/indexeddb.leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/LOCK
+/home/ibab/.config/google-chrome/Default/LOCK
+/home/ibab/.config/google-chrome/Default/GCM Store/LOCK
+/home/ibab/.config/google-chrome/Default/GCM Store/Encryption/LOCK
+/home/ibab/.config/google-chrome/Default/AutofillStrikeDatabase/LOG.old
+/home/ibab/.config/google-chrome/Default/AutofillStrikeDatabase/LOG
+/home/ibab/.config/google-chrome/Default/AutofillStrikeDatabase/LOCK
+/home/ibab/.config/google-chrome/Default/Local Storage/leveldb/LOCK
+/home/ibab/.config/google-chrome/Default/File System/001/t/Paths/000003.log
+/home/ibab/.config/google-chrome/Default/File System/001/t/Paths/LOCK
+/home/ibab/.config/google-chrome/Default/File System/Origins/LOCK
+/home/ibab/.config/google-chrome/Default/File System/000/t/Paths/000003.log
+/home/ibab/.config/google-chrome/Default/File System/000/t/Paths/LOCK
+/home/ibab/.config/google-chrome/Default/File System/002/t/Paths/000003.log
+/home/ibab/.config/google-chrome/Default/File System/002/t/Paths/LOCK
+/home/ibab/.config/google-chrome/Default/Web Data-journal
+/home/ibab/.config/google-chrome/Default/Top Sites-journal
+/home/ibab/.config/google-chrome/Default/Cookies-journal
+/home/ibab/.config/google-chrome/Default/shared_proto_db/metadata/LOCK
+/home/ibab/.config/google-chrome/Default/shared_proto_db/LOCK
+/home/ibab/.config/google-chrome/Default/ClientCertificates/LOG.old
+/home/ibab/.config/google-chrome/Default/ClientCertificates/LOG
+/home/ibab/.config/google-chrome/Default/ClientCertificates/LOCK
+/home/ibab/.config/google-chrome/Default/DIPS-journal
+/home/ibab/.config/google-chrome/Default/Login Data For Account-journal
+/home/ibab/.config/google-chrome/Default/Platform Notifications/000003.log
+/home/ibab/.config/google-chrome/Default/Platform Notifications/LOCK
+/home/ibab/.config/google-chrome/Default/Extension Rules/LOCK
+/home/ibab/.config/google-chrome/First Run
+/home/ibab/.config/google-chrome/optimization_guide_model_store/40/E6DC4029A1E4B4C1/87095FE0503B6A07/model.tflite
+/home/ibab/.config/google-chrome/first_party_sets.db-journal
+/home/ibab/.config/enchant/en_US.exc
+/home/ibab/.config/enchant/en_US.dic
+/home/ibab/.config/.gsd-keyboard.settings-ported
+/home/ibab/source/source_file2.txt
+/home/ibab/source/rename_file.txt
+/home/ibab/backup/newfile.txt
+/home/ibab/tar_test/test2/c.txt
+/home/ibab/tar_test/test2/d.txt
+/home/ibab/tar_test/test/a.txt
+/home/ibab/tar_test/test/b.txt
+/home/ibab/aa.txt
+/home/ibab/secret.txt
+/home/ibab/ownerfile.txt
+/home/ibab/mydir/file2.py
+/home/ibab/mydir/file1.sh
+/home/ibab/datafile.txt
+/home/ibab/program.sh
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/webappsstore.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/.parentlock
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/places.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/cache/caches.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb/1616792988LCo7g%sCD7a%t5a9b9a4s.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/default/https+++www.youtube.com^partitionKey=%28https%2Cgoogle.co.in%29/idb/2171031483YattIedMb.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3870112724rsegmnoittet-es.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/3561288849sdhlie.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/2823318777ntouromlalnodry--naod.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/2918063365piupsah.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/1657114595AmcateirvtiSty.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/storage/permanent/chrome/idb/1451318868ntouromlalnodry--epcr.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/favicons.sqlite-wal
+/home/ibab/snap/firefox/common/.mozilla/firefox/jc6hdspi.default/cookies.sqlite-wal
+/home/ibab/.local/share/Trash/files/test2/c.txt
+/home/ibab/.local/share/Trash/files/test2/d.txt
+/home/ibab/.local/share/Trash/files/groupdir/me.sh
+/home/ibab/.local/share/Trash/files/groupdir/my.sh
+/home/ibab/.local/share/Trash/files/testfile.txt
+/home/ibab/.local/share/Trash/files/exercise_dir/file2.txt
+/home/ibab/.local/share/Trash/files/test/a.txt
+/home/ibab/.local/share/Trash/files/test/b.txt
+/home/ibab/.local/share/Trash/files/two.txt
+/home/ibab/.local/share/Trash/files/typescript.4
+/home/ibab/.local/share/applications/mimeapps.list
+/home/ibab/.local/share/nautilus/tracker2-migration-complete
+/home/ibab/.local/share/gnome-settings-daemon/input-sources-converted
+/home/ibab/.local/share/gnome-shell/update-check-46
+/home/ibab/script.sh
+/home/ibab/projects/project2/file1.txt
+/home/ibab/projects/project2/file2.txt
+/home/ibab/groupfile.txt
+/home/ibab/one.txt
+/home/ibab/data/processed_data
+/home/ibab/data/code/touch
+/home/ibab/data/code/b.py
+/home/ibab/data/code/b.data
+/home/ibab/data/code/a.py
+/home/ibab/data/code/a.data
+/home/ibab/data/data_processed/a_processed
+/home/ibab/data/my_data.txt
+/home/ibab/aa1.txt
+/home/ibab/.sudo_as_admin_successful
+/home/ibab/bothfile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-12 14:27:16+05:30 [COMMAND_EXIT_CODE="0"]

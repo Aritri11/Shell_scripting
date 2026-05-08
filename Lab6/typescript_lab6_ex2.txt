@@ -1,0 +1,39 @@
+Script started on 2024-08-12 14:27:41+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab6[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab6[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ mkdir backup
+[?2004lmkdir: cannot create directory ‘backup’: File exists
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~  -f -name ""*"."t"x"t"[C -size +1M cp {} [7m/home/user/backup/ \;[27m/home/user/backup/ \;
+[?2004lfind: unknown predicate `-f'
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~  -f -name "*.txt" -size +1M cp {} /home/user/backup/ \;[C[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lfind: paths must precede expression: `cp'
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~ f -name "*.txt" -size +1M cp {} /home/user/backup/ \;[1@-[1@e[1@x[1@e[C[1@c[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lfind: ‘f’: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find ~ f -name "*.txt" -size +1M -exec cp {} /home/user/backup/ \;[C[1@-[1@t[1@y[1@p[1@e[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd backup
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ ls
+[?2004lnewfile.txt
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/backup[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/backup[00m$ cd
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mfind . -type f -mtime -7 -size +10M -exec ls -l {} \;[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind . -type f -mtime -7 -size +10M -exec ls -l {} \;
+[?2004l-rw------- 1 ibab ibab 14801682 Aug 10 21:12 './.config/google-chrome/Default/Service Worker/CacheStorage/379f1cbab5b08b6fc9e08681e42d8be311441c88/1efa2584-1f29-43eb-b20c-1e23d35ae1df/6c2f88c6405c6f83_1'
+-rw------- 1 ibab ibab 22826000 Aug 12 14:20 './.config/google-chrome/Safe Browsing/UrlSoceng.store.4_13367926237152816'
+-rw------- 1 ibab ibab 12591104 Aug 11 19:37 ./.config/google-chrome/GrShaderCache/data_3
+-rw-rw-r-- 1 ibab ibab 17824956 Aug 11 14:26 ./Downloads/linux-command-line-and-shell-scripting-bible-by-richard-blum-christine-bresnahan.pdf
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ [7mfind /var/tmp -type f -empty -exec rm -f {} \;[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfind /var/tmp -type f -empty -exec rm -f {} \;
+[?2004lfind: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-upower.service-jkKGb4’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-power-profiles-daemon.service-4Efnd1’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-switcheroo-control.service-oBJuqG’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-systemd-logind.service-IiC92o’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-polkit.service-Moq3kl’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-fwupd.service-uc6Ds6’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-ModemManager.service-9fQtiT’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-systemd-resolved.service-cvYrId’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-systemd-oomd.service-y27lW8’: Permission denied
+find: ‘/var/tmp/systemd-private-3872f324e5b149068dddbeb1bb572817-colord.service-EkfSQi’: Permission denied
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ find /var/tmp -type f -empty -exec rm -f {} \;[1@s[1@u[1@d[1@o[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[sudo] password for ibab: 
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ cd /var/temp
+[?2004lbash: cd: /var/temp: No such file or directory
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~[00m$ exit[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2024-08-12 14:47:56+05:30 [COMMAND_EXIT_CODE="1"]
