@@ -1,0 +1,24 @@
+Script started on 2024-08-26 14:44:39+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk '{print $1, $2}' students.txt[27mawk '{print $1, $2}' students.txt
+[?2004lAmudha 85
+Bhaskar 75
+Charlie 70
+Dhruva 95
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ awk '{print $1, $2}' students.txt[17Psudo apt upgrade[1Pdate[9Pls -lhzip -r lab9_Aritri.zip ./*[6P./Aritri_lab9_ex7.sh[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kawk ''E'N'D' '{'}'p}'r}'i}'n}'t}' }'N}'R}'[C[C d[Kstudents.txt
+[?2004l4
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ awk ''{'}'p}'r}'i}'n}'t}' }'M}'F}'[1P}'[1P}'N}'F}'[C[C students.tc[Kxt
+[?2004l3
+3
+3
+3
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ awk '{print NF}' students.txt[1@E[1@N[1@D[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l3
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk '{avg=($2+$3)/2; print $1, avg}' students.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{avg=($2+$3)/2; print $1, avg}' students.txt
+[?2004lAmudha 87.5
+Bhaskar 77.5
+Charlie 65
+Dhruva 97.5
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-26 14:50:05+05:30 [COMMAND_EXIT_CODE="0"]

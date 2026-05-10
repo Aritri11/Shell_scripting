@@ -1,0 +1,100 @@
+Script started on 2024-08-26 16:21:20+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk '$1~/chr1/ {print}' GSM409308_UCSD.H1.H3K4me3.LL227.bed | wc -l[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$1~/chr1/ {print}' GSM409308_UCSD.H1.H3K4me3.LL227.bed | wc -l
+[A
+[?2004l2440813
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk '{print $1}' GSM409308_UCSD.H1.H3K4me3.LL227.bed | sort | uniq[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{print $1}' GSM409308_UCSD.H1.H3K4me3.LL227.bed | sort | uniq
+[A
+[?2004lchr1
+chr10
+chr11
+chr12
+chr13
+chr14
+chr15
+chr16
+chr17
+chr18
+chr19
+chr2
+chr20
+chr21
+chr22
+chr3
+chr4
+chr5
+chr6
+chr7
+chr8
+chr9
+chrM
+chrX
+chrY
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk '{print $1}' GSM409308_UCSD.H1.H3K4me3.LL227.bed | sort -V | uniq[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '{print $1}' GSM409308_UCSD.H1.H3K4me3.LL227.bed | sort -V | uniq
+[A
+[?2004lchr1
+chr2
+chr3
+chr4
+chr5
+chr6
+chr7
+chr8
+chr9
+chr10
+chr11
+chr12
+chr13
+chr14
+chr15
+chr16
+chr17
+chr18
+chr19
+chr20
+chr21
+chr22
+chrM
+chrX
+chrY
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk '$NF == "-"' GSM409308_UCSD.H1.H3K4me3.LL227.bed | wc -l[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '$NF == "-"' GSM409308_UCSD.H1.H3K4me3.LL227.bed | wc -l[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@'[1@'[1@$[1@6[1@ [1@~[1@/[1@-[1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l2424359
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ [7mawk -f Aritri.awk famous_people.csv[27mawk -f Aritri.awk famous_people.csv
+[?2004lName,Specialization,Research
+Albert
+Marie
+Jane
+Charles
+Rosalind
+Gregor
+Rachel
+Carl
+Barbara
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ awk -f Aritri.awk famous_people.csv
+[?2004lAlbert
+Marie
+Jane
+Charles
+Rosalind
+Gregor
+Rachel
+Carl
+Barbara
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ awk -f Aritri.awk famous_people.csv
+[?2004lAlbert Einstein
+Marie Curie
+Jane Goodall
+Charles Darwin
+Rosalind Franklin
+Gregor Carl Mendel
+Rachel Carson
+Carl Linnaeus
+Barbara McClintock
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ EXIT
+[?2004lEXIT: command not found
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab10[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab10[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-26 16:26:20+05:30 [COMMAND_EXIT_CODE="127"]
