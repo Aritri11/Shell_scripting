@@ -1,0 +1,3 @@
+ProductA 100 200
+ProductB 150 300
+ProductC 200 400
