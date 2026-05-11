@@ -1,0 +1,47 @@
+Script started on 2024-08-31 11:56:58+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="43"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ yes [K[K[K[Kexitpstree -eaf | awk 'NR>1 {print $2}' | sort -n[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kyes ""H"e"l"l"o" "A"r"i"t"r"i"
+[?2004l
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+
+
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello Aritri
+Hello A^Z
+[1]+  Stopped                 yes "Hello Aritri"
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ ji[Kobs
+[?2004l
+[1]+  Stopped                 yes "Hello Aritri"
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ ps -af
+[?2004l
+UID          PID    PPID  C STIME TTY          TIME CMD
+root       11314   11306  2 09:21 tty2     00:04:38 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1001/gdm/Xauthority -nolisten tcp -background none -noreset -keeptty -novtswitch
+ibab       11401   11306  0 09:22 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+ibab       14483   12656  0 11:56 pts/0    00:00:00 script typescript_Aritri_lab11_ex3.txt
+ibab       14494   14484  1 11:57 pts/1    00:00:00 yes Hello Aritri
+ibab       14496   14484  0 11:57 pts/1    00:00:00 ps -af
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ kill -9 [7m14494  [27m14494  
+[?2004l
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ ps -af
+[?2004l
+UID          PID    PPID  C STIME TTY          TIME CMD
+root       11314   11306  2 09:21 tty2     00:04:39 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1001/gdm/Xauthority -nolisten tcp -background none -noreset -keeptty -novtswitch
+ibab       11401   11306  0 09:22 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+ibab       14483   12656  0 11:56 pts/0    00:00:00 script typescript_Aritri_lab11_ex3.txt
+ibab       14498   14484  0 11:58 pts/1    00:00:00 ps -af
+[1]+  Killed                  yes "Hello Aritri"
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ exit
+[?2004l
+exit
+
+Script done on 2024-08-31 11:58:24+05:30 [COMMAND_EXIT_CODE="0"]

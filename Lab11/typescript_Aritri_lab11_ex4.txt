@@ -1,0 +1,46 @@
+Script started on 2024-08-31 10:37:22+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="184" LINES="45"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ exitpstree -e | awk 'NR>1 {print $1}' | sort -n[K[K[K[K[K[7mawk -f Aritri_lab11_ex4.awk oscar_age_female.csv[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk -f Aritri_lab11_ex4.awk oscar_age_female.csv
+[?2004l "Janet Gaynor" won an Oscar in 1928 when she was 22 years old for the movie(s)  "Seventh Heaven
+ "Mary Pickford" won an Oscar in 1929 when she was 37 years old for the movie(s)  "Coquette"
+ "Norma Shearer" won an Oscar in 1930 when she was 28 years old for the movie(s)  "The Divorcee"	
+ "Marie Dressler" won an Oscar in 1931 when she was 63 years old for the movie(s)  "Min and Bill"
+ "Helen Hayes" won an Oscar in 1932 when she was 32 years old for the movie(s)  "The Sin of Madelon Claudet"	
+ "Katharine Hepburn" won an Oscar in 1933 when she was 26 years old for the movie(s)  "Morning Glory"
+ "Claudette Colbert" won an Oscar in 1934 when she was 31 years old for the movie(s)  "It Happened One Night"
+ "Bette Davis" won an Oscar in 1935 when she was 27 years old for the movie(s)  "Dangerous"
+ "Luise Rainer" won an Oscar in 1936 when she was 27 years old for the movie(s)  "The Great Ziegfeld"
+ "Luise Rainer" won an Oscar in 1937 when she was 28 years old for the movie(s)  "The Good Earth"
+ "Bette Davis" won an Oscar in 1938 when she was 30 years old for the movie(s)  "Jezebel"
+ "Vivien Leigh" won an Oscar in 1939 when she was 26 years old for the movie(s)  "Gone with the Wind"
+ "Ginger Rogers" won an Oscar in 1940 when she was 29 years old for the movie(s)  "Kitty Foyle"
+ "Joan Fontaine" won an Oscar in 1941 when she was 24 years old for the movie(s)  "Suspicion"	
+ "Greer Garson" won an Oscar in 1942 when she was 38 years old for the movie(s)  "Mrs. Miniver"
+ "Jennifer Jones" won an Oscar in 1943 when she was 25 years old for the movie(s)  "The Song of Bernadette"
+ "Ingrid Bergman" won an Oscar in 1944 when she was 29 years old for the movie(s)  "Gaslight"
+ "Joan Crawford" won an Oscar in 1945 when she was 40 years old for the movie(s)  "Mildred Pierce"
+ "Olivia de Havilland" won an Oscar in 1946 when she was 30 years old for the movie(s)  "To Each His Own"
+ "Loretta Young" won an Oscar in 1947 when she was 35 years old for the movie(s)  "The Farmer's Daughter"
+ "Jane Wyman" won an Oscar in 1948 when she was 32 years old for the movie(s)  "Johnny Belinda"
+ "Olivia de Havilland" won an Oscar in 1949 when she was 33 years old for the movie(s)  "The Heiress"
+ "Judy Holliday" won an Oscar in 1950 when she was 29 years old for the movie(s)  "Born Yesterday"
+ "Vivien Leigh" won an Oscar in 1951 when she was 38 years old for the movie(s)  "A Streetcar Named Desire"
+ "Shirley Booth" won an Oscar in 1952 when she was 54 years old for the movie(s)  "Come Back
+ "Audrey Hepburn" won an Oscar in 1953 when she was 24 years old for the movie(s)  "Roman Holiday"
+ "Grace Kelly" won an Oscar in 1954 when she was 25 years old for the movie(s)  "The Country Girl"
+ "Anna Magnani" won an Oscar in 1955 when she was 48 years old for the movie(s)  "The Rose Tattoo"
+ "Ingrid Bergman" won an Oscar in 1956 when she was 41 years old for the movie(s)  "Anastasia"
+ "Joanne Woodward" won an Oscar in 1957 when she was 28 years old for the movie(s)  "The Three Faces of Eve"
+ "Susan Hayward" won an Oscar in 1958 when she was 41 years old for the movie(s)  "I Want to Live!"
+ "Simone Signoret" won an Oscar in 1959 when she was 39 years old for the movie(s)  "Room at the Top"
+ "Elizabeth Taylor" won an Oscar in 1960 when she was 29 years old for the movie(s)  "BUtterfield 8"
+ "Sophia Loren" won an Oscar in 1961 when she was 27 years old for the movie(s)  "Two Women"
+ "Anne Bancroft" won an Oscar in 1962 when she was 31 years old for the movie(s)  "The Miracle Worker"
+ "Patricia Neal" won an Oscar in 1963 when she was 31 years old for the movie(s)  "Hud"
+ "Julie Andrews" won an Oscar in 1964 when she was 29 years old for the movie(s)  "Mary Poppins"
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ awk -F"","[C '{print $4}' oscar_age_female.csv | uniq -d
+[?2004l "Luise Rainer"
+ "Katharine Hepburn"
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab11[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab11[00m$ exit
+[?2004lexit
+
+Script done on 2024-08-31 10:40:29+05:30 [COMMAND_EXIT_CODE="0"]
