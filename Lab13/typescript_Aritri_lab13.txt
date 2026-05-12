@@ -1,0 +1,34 @@
+Script started on 2024-09-05 14:06:48+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13[00m$ tar v[K-xvf makefiletest.tar
+[?2004lmakefiletest/
+makefiletest/makefile
+makefiletest/hellomake.h
+makefiletest/main.c
+makefiletest/hellomake.c
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13[00m$ cd makefiletest
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ ls -l
+[?2004ltotal 16
+-rw-rw-r-- 1 ibab ibab 153 Sep 10  2023 hellomake.c
+-rw-rw-r-- 1 ibab ibab  58 Sep 10  2023 hellomake.h
+-rw-rw-r-- 1 ibab ibab 100 Sep 10  2023 main.c
+-rw-rw-r-- 1 ibab ibab 203 Sep 10  2023 makefile
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ make
+[?2004lgcc -c -o main.o main.c -I.
+gcc -c -o hellomake.o hellomake.c -I.
+gcc -o maketestexe main.o hellomake.o -I.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ make clean
+[?2004lrm -f maketestexe hellomake.o main.o
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ make
+[?2004lgcc -c -o main.o main.c -I.
+gcc -c -o hellomake.o hellomake.c -I.
+gcc -o maketestexe main.o hellomake.o -I.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ subl hellomake.c
+[?2004l[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ make
+[?2004lgcc -c -o hellomake.o hellomake.c -I.
+gcc -o maketestexe main.o hellomake.o -I.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ make
+[?2004lmake: 'maketestexe' is up to date.
+[?2004h]0;ibab@IBAB-MScBDB-Comp002: ~/Lab13/makefiletest[01;32mibab@IBAB-MScBDB-Comp002[00m:[01;34m~/Lab13/makefiletest[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-05 14:12:26+05:30 [COMMAND_EXIT_CODE="0"]
